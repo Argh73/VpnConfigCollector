@@ -1,0 +1,43 @@
+name: Test Configs
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0,18 * * * *" 
+  workflow_dispatch:
+
+jobs:
+  test-configs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v4
+
+      - name: Check protocol files
+        run: |
+          ls -l Splitted-By-Protocol/
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install Python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r Files/tester/requirements.txt
+
+      - name: Execute Test.py script
+        run: |
+          python Files/tester/Test.py
+
+      - name: Commit and push results
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "☑️ Tested configs $(date)"
+          file_pattern: tested/*
+          push_options: --force
