@@ -234,15 +234,15 @@ var ignoreWords = []string{
 }
 
 var protocolPatterns = map[string][]string{
-    "Vmess":        {"vmess://[^ \n\r<\"']+"},
-    "Vless":        {"vless://[^ \n\r<\"']+"},
-    "Trojan":       {"trojan://[^ \n\r<\"']+"},
-    "ShadowSocks":  {"ss://[^ \n\r<\"']+", "shadowsocks://[^ \n\r<\"']+"},
-    "ShadowSocksR": {"ssr://[^ \n\r<\"']+"},
-    "Tuic":         {"tuic://[^ \n\r<\"']+", "tuic5://[^ \n\r<\"']+"},
-    "Hysteria2":    {"hy2://[^ \n\r<\"']+", "hysteria2://[^ \n\r<\"']+"},
-    "WireGuard":    {"wireguard://[^ \n\r<\"']+"},
-    "Warp":         {"warp://[^ \n\r<\"']+"},
+    "Vmess":        {"^vmess://[^ \n\r<\"']+"},
+    "Vless":        {"^vless://[^ \n\r<\"']+"},
+    "Trojan":       {"^trojan://[^ \n\r<\"']+"},
+    "ShadowSocks":  {"^ss://[^ \n\r<\"']+", "^shadowsocks://[^ \n\r<\"']+"},
+    "ShadowSocksR": {"^ssr://[^ \n\r<\"']+"},
+    "Tuic":         {"^tuic://[^ \n\r<\"']+", "^tuic5://[^ \n\r<\"']+"},
+    "Hysteria2":    {"^hy2://[^ \n\r<\"']+", "^hysteria2://[^ \n\r<\"']+"},
+    "WireGuard":    {"^wireguard://[^ \n\r<\"']+"},
+    "Warp":         {"^warp://[^ \n\r<\"']+"},
 }
 
 func identifyCountry(config string) string {
@@ -347,6 +347,10 @@ func identifyProtocol(config string) string {
                 continue
             }
             if re.MatchString(config) {
+                // بررسی اضافی برای جلوگیری از تطبیق اشتباه
+                if protocol == "ShadowSocks" && (strings.HasPrefix(config, "vless://") || strings.HasPrefix(config, "ssr://")) {
+                    continue
+                }
                 return protocol
             }
         }
