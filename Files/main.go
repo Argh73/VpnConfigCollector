@@ -133,7 +133,6 @@ func main() {
     sortByProtocol()
 
     // حذف فایل‌های میانی
-    os.Remove("All_Configs_Sub.txt")
     os.Remove("All_Configs_Sorted.txt")
 
     fmt.Println("Configuration aggregation completed successfully!")
