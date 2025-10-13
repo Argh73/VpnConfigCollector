@@ -1,3 +1,4 @@
+
 # VpnConfigCollector
 
 [![GitHub Stars](https://img.shields.io/github/stars/Argh73/VpnConfigCollector?style=flat-square)](https://github.com/Argh73/VpnConfigCollector/stargazers)
@@ -9,47 +10,47 @@
 
 ## ✨ Overview
 
-**VpnConfigCollector** is a powerful script designed to automatically collect, filter, and organize V2Ray, Shadowsocks, and other proxy configuration links shared publicly on Telegram channels. This project helps users bypass internet censorship and access open internet by aggregating a wide variety of configs — all conveniently organized by protocol, country, and network type.
+**VpnConfigCollector** is a robust, automated script for collecting, filtering, and categorizing public proxy configurations (V2Ray, Shadowsocks, Trojan, WireGuard, Hysteria2, Tuic, and more) from open sources. The goal is to help users bypass internet censorship and access a free, open internet by providing up-to-date configs—organized by protocol, country, and source type.
 
-- **Automated scraping** of fresh configs from public Telegram channels
-- **Splitting and categorization** into protocol types, countries, and network technologies
-- **Publicly available subscription files** for easy import into your clients
-- **Community-driven channel list — contribute your own!**
+- **Automatic collection** of fresh configs from public sources
+- **Smart categorization** by protocol, country, and source structure
+- **Public subscription links** for easy import into popular clients
+- **Open source, community-driven, and easy to extend**
 
-> **⚠️ Security Disclaimer:**  
-> The collected configs are gathered from public sources and **their safety, reliability, and longevity cannot be guaranteed**. Use them at your own risk, especially in sensitive environments.
+> **⚠️ Security Notice:**  
+> All configs are collected from public sources. **Their safety, reliability, and longevity are NOT guaranteed.** Always use them at your own risk, especially in sensitive environments.
 
 ---
 
 ## 🚀 Features
 
-- Collects configs for **V2Ray, VLESS, VMess, Trojan, Shadowsocks, SSR, WireGuard, Hysteria2, Tuic,** and more.
-- Categorizes by **protocol, network type, and country** for easy access.
-- **Auto-updates** subscription links for integration with popular clients (e.g., v2rayN, Shadowrocket).
-- Lightweight, fast, and suitable for automation (e.g., via GitHub Actions).
-- **Actively maintained** and open to community contributions.
+- Supports collection for **V2Ray, VLESS, VMess, Trojan, Shadowsocks, SSR, WireGuard, Hysteria2, Tuic**, and more
+- Categorizes by **protocol, country, and source structure** for fast, easy access
+- **Always up-to-date** subscription links for all major clients (e.g., v2rayN, Shadowrocket)
+- Lightweight, fast, and suitable for automation (including GitHub Actions)
+- **Actively maintained** and open to developer contributions
 
 ---
 
 ## 🛠️ How It Works
 
-1. **Monitor Telegram channels:**  
-   The script fetches posts from a curated list of Telegram channels known for sharing proxy configs.
+1. **Fetch configs:**  
+   The script retrieves proxy configs from various public sources.
 
-2. **Extract and filter configs:**  
-   It parses messages, extracts valid configuration links, and filters duplicates or invalid entries.
+2. **Parse and filter:**  
+   Valid configs are extracted, deduplicated, and filtered for quality.
 
-3. **Split and organize:**  
-   Configs are split into files by protocol, network type, and country, then published as raw text files.
+3. **Split and publish:**  
+   Configs are organized into separate files by protocol, country, and source, and published as raw text files for subscriptions.
 
-4. **Public subscriptions:**  
-   Subscription files are hosted on GitHub and updated regularly for users to import.
+4. **Accessible subscriptions:**  
+   Subscription files are available on GitHub and regularly updated.
 
 ---
 
 ## 📦 Subscription Links
 
-### Protocol-Based
+### By Protocol
 
 | Protocol     | Subscription Link                                                                                                                 | Protocol      | Subscription Link                                                                                          |
 |--------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------|
@@ -58,18 +59,22 @@
 | VMess        | [Raw Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Vmess.txt)            | WireGuard     | [Raw Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/WireGuard.txt)   |
 | ShadowsocksR | [Raw Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/ShadowSocksR.txt)     | Tuic          | [Raw Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Tuic.txt)        |
 
-### Network Type
+---
 
-| Network Type | Subscription Link                                                                                      | Network Type | Subscription Link                                                                                           |
-|--------------|-------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------|
-| gRPC         | [Raw Link](https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/grpc.txt) | TCP          | [Raw Link](https://github.com/mohamadfg-dev/telegram-v2ray-configs-collector/raw/refs/heads/main/category/httpupgrade.txt) |
-| HTTP         | [Raw Link](https://github.com/mohamadfg-dev/telegram-v2ray-configs-collector/raw/refs/heads/main/category/http.txt) | QUIC         | Coming soon!                                                                                                |
-| WS           | [Raw Link](https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/main/category/ws.txt)   |              |                                                                                                            |
+### Subscription Sources
 
-### Country-Based
+| Source/Folder (Base64 Subscription Links)                                                                        | Tested Configs                                                                                                   |
+|------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| [Base64 Links Folder](https://github.com/Argh73/VpnConfigCollector/tree/main/Base64)                             | [Tested Configs](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/tested/config_test.txt) |
 
-> **Find hundreds of country-specific subscription files in the `Splitted-By-Country` directory, e.g.:**
-## Country Subscription Links
+- The **Base64 folder** contains files with subscription links in Base64 format, each file offering 1 to 54 links.
+- The **Tested Configs** file is continuously updated and contains only configs that have been automatically tested and confirmed to be working.
+
+---
+
+### By Country
+
+> Hundreds of country-specific subscription files are available in the `Splitted-By-Country` directory. For example:
 
 | Country Name              | Subscription Link                                                                                                                   | Country Name              | Subscription Link                                                                                                                   | Country Name              | Subscription Link                                                                                                                   |
 | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------- |
@@ -156,25 +161,22 @@
 > ...and many more!  
 > See the [Splitted-By-Country](https://github.com/Argh73/VpnConfigCollector/tree/main/Splitted-By-Country) folder for the full list.
 
+
 ---
 
 ## 🤝 Contributing
 
-- **Add new Telegram channels:**  
-  Help us expand the source list by submitting Telegram channels that regularly share fresh configs. You can send them via [Telegram](https://t.me/mohamaadfg) or open an issue/pull request in this repo.
-
-- **Bug reports and feature requests:**  
+- **Bug reports & feature requests:**  
   Please use the [Issues](https://github.com/Argh73/VpnConfigCollector/issues) tab.
 
 - **Code improvements:**  
-  Contributions to the script, parser, or CI are welcome — fork, code, and submit a PR!
+  Fork, improve, and send a pull request!
 
 ---
 
-## 💬 Community & Support
+## 💬 Support
 
-- [Telegram channel](https://t.me/mohamaadfg) for updates and submissions.
-- [GitHub Issues](https://github.com/Argh73/VpnConfigCollector/issues) for support and suggestions.
+- For questions or feedback, open an [issue](https://github.com/Argh73/VpnConfigCollector/issues).
 
 ---
 
@@ -185,11 +187,6 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙏 Acknowledgements
-
-- Inspired by the open-source community fighting censorship.
-- Thanks to all contributors and Telegram channel owners who share configs.
+**Enjoy open internet—always protect your privacy and use responsibly!**
 
 ---
-
-**Stay safe, use configs wisely, and always protect your privacy!**
