@@ -6,13 +6,19 @@ This tool designed to collect and share V2Ray configs from Telegram channels thi
 
 **📌 Help us in the telegram channel list ( you can send us telegram channels to [Telegram](https://t.me/mohamaadfg) or in this repository ) .**
 
-## Protocol Type Subscription Links
+## Protocol Type Subscription Links (Sorted)
 
-| Protocol Type | Subscription Links                                                                                                              | Protocol Type | Subscription Links                                                                                                           |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| Vless         | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Vless.txt)                               | Vmess         | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Vmess.txt)  |
-| ShadowSocks   | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/ShadowSocks.txt)                          | Trojan        | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Trojan.txt)       |
-| Hysteria2     | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Hysteria2.txt)    |                       | WireGuard       | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/WireGuard.txt)  |                      | ShadowSocksR    | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/ShadowSocksR.txt)                       | Tuic            | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Tuic.txt)                                                   
+| Protocol Type | Subscription Link |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hysteria2     | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Hysteria2.txt) |
+| ShadowSocks   | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/ShadowSocks.txt) |
+| ShadowSocksR  | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/ShadowSocksR.txt) |
+| Trojan        | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Trojan.txt) |
+| Tuic          | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Tuic.txt) |
+| Vless         | [Link](https://raw.githubusercontent.com/Argh75/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Vless.txt) |
+| Vmess         | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Vmess.txt) |
+| WireGuard     | [Link](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/WireGuard.txt) |
+
 
 ## Network Type Subscription Links
 
