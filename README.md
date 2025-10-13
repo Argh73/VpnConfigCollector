@@ -22,33 +22,13 @@
 
 ---
 
-## sublinks
-
-<div align="left">
-
-| ------------ | base64 sublinks | regular sublinks |
-|:------------:|:--------------:|:---------------:|
-| vmess | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64vmess.txt">sub-link</a> | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/vmess.txt">sub-link</a> |
-| vless | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64vless.txt">sub-link</a> | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/vless.txt">sub-link</a> |
-| ss | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64ss.txt">sub-link</a> | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/ss.txt">sub-link</a> |
-| trojan | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64trojan.txt">sub-link</a> | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/trojan.txt">sub-link</a> |
-| mix | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/b64mix.txt">sub-link</a> | <a href="https://raw.githubusercontent.com/Kwinshadow/TelegramV2rayCollector/main/sublinks/mix.txt">sub-link</a> |
-
-</div>
-
-
-
-## لینک‌های اشتراک انواع پروتکل
-
-<div align="center">
-
 | نوع پروتکل | لینک‌های اشتراک                                                                                                           | نوع پروتکل | لینک‌های اشتراک                                                                                                           |
 |:-----------:|:----------------------------------------------------------------------------------------------------------------------------|:-----------:|:----------------------------------------------------------------------------------------------------------------------------|
-| Hy2         | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/hy2.txt)                | Hysteria2   | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/hysteria2.txt)          |
-| SS          | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/ss.txt)                 | SSR         | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/ssr.txt)                |
-| Trojan      | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/trojan.txt)             | Tuic        | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/tuic.txt)               |
-| Vless       | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/vless.txt)              | Vmess       | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/vmess.txt)              |
-| Wireguard   | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/wireguard.txt)          | Warp        | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/warp.txt)               |
+| Hysteria2         | [لینک](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Hysteria2.txt)                | ShadowSocks   | [لینک](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/ShadowSocks.txt)          |
+| ShadowSocksR         | [لینک](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/ShadowSocksR.txt)                 | Trojan         | [لینک](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Trojan.txt)                |
+| Trojan      | [لینک](https://raw.githubusercontent.com/giromo/Xrey-collector/refs/heads/main/Splitted-By-Protocol/trojan.txt)             | Vless        | [لینک](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Vless.txt)               |
+| Vmess       | [لینک](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Vmess.txt)              | Warp       | [لینک](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/Warp.txt)              |
+| WireGuard   | [لینک](https://raw.githubusercontent.com/Argh73/VpnConfigCollector/refs/heads/main/Splitted-By-Protocol/WireGuard.txt)          | 
 
 </div>
 
