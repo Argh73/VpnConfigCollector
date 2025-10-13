@@ -72,7 +72,7 @@ jobs:
       run: |
         echo "Verifying generated files..."
         echo "Sub files in root directory:"
-        ls -la Sub*.txt 2>/dev/null || echo "No Sub files found"
+        ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo "No Sub files or All_Configs_Sub.txt found"
 
         echo "\nProtocol-based sorted configs (Splitted-By-Protocol):"
         ls -la Splitted-By-Protocol/ 2>/dev/null || echo "No protocol directory found"
@@ -82,6 +82,13 @@ jobs:
 
         echo "\nBase64 directory:"
         ls -la Base64/ 2>/dev/null || echo "No Base64 directory found"
+
+        if [ -f "All_Configs_Sub.txt" ]; then
+          echo "\nAll_Configs_Sub.txt statistics:"
+          count=$(grep -v '^#' "All_Configs_Sub.txt" | wc -l)
+          size=$(du -h "All_Configs_Sub.txt" | cut -f1)
+          echo "  All_Configs_Sub.txt: $count configs ($size)"
+        fi
 
         if [ -d "Splitted-By-Protocol" ]; then
           echo "\nProtocol file statistics:"
@@ -146,6 +153,10 @@ jobs:
           fi
         done
 
+        if [ -f "All_Configs_Sub.txt" ]; then
+          handle_large_file "All_Configs_Sub.txt" "All_Configs_Sub"
+        fi
+
         for base64_file in Base64/Sub*_base64.txt; do
           if [ -f "$base64_file" ]; then
             filename=$(basename "$base64_file" .txt)
@@ -157,7 +168,7 @@ jobs:
           for protocol_file in Splitted-By-Protocol/*.txt; do
             if [ -f "$protocol_file" ]; then
               filename=$(basename "$protocol_file" .txt)
-              handle_large_file "$protocol_file" "Splitted-By-Protocol/${filename}"
+              handle_large_file "$protocol_file" "Splitted-By-Protocol/$filename"
             fi
           done
         fi
@@ -166,7 +177,7 @@ jobs:
           for country_file in Splitted-By-Country/*.txt; do
             if [ -f "$country_file" ]; then
               filename=$(basename "$country_file" .txt)
-              handle_large_file "$country_file" "Splitted-By-Country/${filename}"
+              handle_large_file "$country_file" "Splitted-By-Country/$filename"
             fi
           done
         fi
@@ -174,7 +185,7 @@ jobs:
     - name: Clean up temporary files
       run: |
         echo "Cleaning up temporary files..."
-        rm -f All_Configs_Sub.txt All_Configs_Sorted.txt All_Configs_base64_Sub.txt
+        rm -f All_Configs_Sorted.txt All_Configs_base64_Sub.txt  # فقط فایل‌های موقت حذف شوند
 
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v9
@@ -182,6 +193,6 @@ jobs:
         author_name: "GitHub Actions"
         author_email: "github-actions[bot]@users.noreply.github.com"
         message: "🏴‍☠️ Fresh Update"
-        add: "Base64 Splitted-By-Country Splitted-By-Protocol Sub*.txt"
+        add: "Base64 Splitted-By-Country Splitted-By-Protocol All_Configs_Sub.txt Sub*.txt"  # اضافه کردن All_Configs_Sub.txt
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
