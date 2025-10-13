@@ -33,6 +33,7 @@ jobs:
           Splitted-By-Protocol/
           Splitted-By-Country/
           Base64/
+          tested/
 
     - name: Set up Git
       run: |
@@ -53,6 +54,15 @@ jobs:
         cache: true
         cache-dependency-path: Files/go.mod
 
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install Python dependencies
+      run: |
+        pip install jdatetime pytz
+
     - name: Build and run Go aggregator
       run: |
         cd Files
@@ -68,11 +78,19 @@ jobs:
         echo "Config processing completed successfully in $processing_time seconds!"
         echo "PROCESSING_TIME=$processing_time" >> $GITHUB_ENV
 
+    - name: Run Python test script
+      run: |
+        echo "Running Python test script..."
+        python test_configs.py || { echo "Python test script failed"; exit 1; }
+
     - name: Verify output files
       run: |
         echo "Verifying generated files..."
         echo "Sub files in root directory:"
         ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo "No Sub files or All_Configs_Sub.txt found"
+
+        echo "\nTested configs (tested):"
+        ls -la tested/ 2>/dev/null || echo "No tested directory found"
 
         echo "\nProtocol-based sorted configs (Splitted-By-Protocol):"
         ls -la Splitted-By-Protocol/ 2>/dev/null || echo "No protocol directory found"
@@ -88,6 +106,18 @@ jobs:
           count=$(grep -v '^#' "All_Configs_Sub.txt" | wc -l)
           size=$(du -h "All_Configs_Sub.txt" | cut -f1)
           echo "  All_Configs_Sub.txt: $count configs ($size)"
+        fi
+
+        if [ -d "tested" ]; then
+          echo "\nTested file statistics:"
+          for file in tested/*.txt; do
+            if [ -f "$file" ]; then
+              count=$(grep -v '^#' "$file" | wc -l)
+              size=$(du -h "$file" | cut -f1)
+              basename=$(basename "$file")
+              echo "  $basename: $count configs ($size)"
+            fi
+          done
         fi
 
         if [ -d "Splitted-By-Protocol" ]; then
@@ -164,6 +194,13 @@ jobs:
           fi
         done
 
+        for tested_file in tested/*.txt; do
+          if [ -f "$tested_file" ]; then
+            filename=$(basename "$tested_file" .txt)
+            handle_large_file "$tested_file" "tested/$filename"
+          fi
+        done
+
         if [ -d "Splitted-By-Protocol" ]; then
           for protocol_file in Splitted-By-Protocol/*.txt; do
             if [ -f "$protocol_file" ]; then
@@ -185,7 +222,7 @@ jobs:
     - name: Clean up temporary files
       run: |
         echo "Cleaning up temporary files..."
-        rm -f All_Configs_Sorted.txt All_Configs_base64_Sub.txt  # فقط فایل‌های موقت حذف شوند
+        rm -f All_Configs_Sorted.txt All_Configs_base64_Sub.txt
 
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v9
@@ -193,6 +230,6 @@ jobs:
         author_name: "GitHub Actions"
         author_email: "github-actions[bot]@users.noreply.github.com"
         message: "🏴‍☠️ Fresh Update"
-        add: "Base64 Splitted-By-Country Splitted-By-Protocol All_Configs_Sub.txt Sub*.txt"  # اضافه کردن All_Configs_Sub.txt
+        add: "Base64 Splitted-By-Country Splitted-By-Protocol tested Files/key.json All_Configs_Sub.txt Sub*.txt"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
