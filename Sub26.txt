@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://4f8b80d1-667e-4ab5-9285-0fbd0e3dcab2@uk29.clearorbitllc.com:443?security=reality&amp;encryption=none&amp;pbk=ypGN6MzbIpHm_fdhVIIUS-vLCXlNkOZrxZ4VNMxcxWw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=uk29.clearorbitllc.com&amp;sid=7286#%F0%9F%AA%9935%40ConfigV2RayNG
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638966574572431911.rome-blkaft-aaau.info:8880?security=&amp;encryption=none&amp;type=grpc#%F0%9F%92%B814%40ConfigV2RayNG
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192988782.budapest-blkaft-aaav.info:8880?security=&amp;encryption=none&amp;type=grpc#%F0%9F%8D%8227%40ConfigV2RayNG
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.49:8880?security=&amp;encryption=none&amp;type=grpc#%F0%9F%AA%9912%40ConfigV2RayNG
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:993?security=reality&amp;encryption=none&amp;pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#%F0%9F%8D%8237%40ConfigV2RayNG
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:443?security=reality&amp;encryption=none&amp;pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=speed.cloudflare.com#%F0%9F%8D%8245%40ConfigV2RayNG
@@ -502,3 +499,6 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@162.243.83.88:59483?encryption=none
 vless://23965aee-c0c5-4197-87e3-e1eeec81fbd4@138.197.190.113:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#telegram
 vless://748bd938-7eaf-4f1c-ac99-ce770c3aad93@m40a.vip784.com:33801?security=none&amp;type=tcp&amp;headerType=http&amp;path=%2F&amp;host=varzesh3.ir#telegram
 vless://7c4d2229-fa3a-4628-8abf-0728f13edac1@68.183.209.194:443?type=grpc&amp;encryption=none&amp;serviceName=&amp;authority=&amp;security=none#telegram
+vless://67f40d78-c540-4dc0-b7d9-8b907324d2ce@154.26.134.144:443?encryption=none&amp;security=reality&amp;sni=www.microsoft.com&amp;fp=safari&amp;pbk=atPL-m7C30_g_EL_oUB38QUuzE1AYWKOa8cNVwB71j8&amp;sid=ff470ad2482bf560&amp;type=grpc&amp;serviceName=277569eeb9325eb45507aa90#telegram
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192990402.budapest-blkaft-aaav.info:8880?encryption=none&amp;security=&amp;sni=&amp;type=grpc&amp;alpn=&amp;host=&amp;path=#telegram
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638976291607120660.oslo-drcn-aaaae.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#telegram
