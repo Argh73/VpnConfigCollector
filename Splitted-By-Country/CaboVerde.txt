@@ -6,11 +6,12 @@ vless://-0d7a-496f-8e97-0bbc33bff55d@185.143.233.5:443?path=/chat?ed=128&securit
 vless://1253dba2-aa6b-4b50-becd-acb0c69c7ca6@78.157.51.163:8080?path=/&security=none&encryption=none&type=ws#@icv2ray
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&headerType=none&type=tcp#@icv2ray
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#@icv2ray
+vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&headerType=none&type=tcp#@icv2ray
+vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@icv2ray
 vless://5050193d-1a82-4fea-933d-994083bae6a7@anten.ir:80?path=/&security=none&encryption=none&host=ss.linuwebtunnel.site&type=ws#@icv2ray
 vless://596b9630-6d8e-436e-bced-6d2a00a4e714@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&host=bn.8lack.ir&fp=chrome&type=ws&sni=bn.8lack.ir#@icv2ray
 vless://596b9630-6d8e-436e-bced-6d2a00a4e714@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=bn.8lack.ir#@icv2ray
 vless://59ab21e3-c0cc-42d6-9ff5-fd49abfc0780@185.143.233.5:443?path=/chat?ed=128&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=an.8lack.ir&fp=chrome&type=ws&allowInsecure=0&sni=an.8lack.ir#@icv2ray
-vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=/&security=&encryption=none&host=ss.oppobot.ir&type=ws#@icv2ray
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020/?type=tcp&encryption=none&flow=#@icv2ray
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=&encryption=none&headerType=none&type=tcp#@icv2ray
 vless://60de7f07-71b7-4b37-a04c-db5d769ec130@62.60.147.73:20020?security=none&encryption=none&headerType=none&type=tcp#@icv2ray
@@ -26,5 +27,3 @@ vless://f2a6fb0f-e972-4f10-8f10-b9193174cb67@185.143.235.253:80?path=/&security=
 vmess://eyJhZGQiOiIxODUuMTEuODkuMzgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVkZGJiYmQtYWQ5NS00OWU4LWVlMzEtN2NhY2M3ZWRlMTE3IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjgwOSIsInBzIjoiQGljdjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzllZGY0MjktZjVjMC00MjI2LTgyMzUtMThjNDcwY2VkZDI5IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDg0MSIsInBzIjoiQGljdjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJiNTFkNjRjYi1jNWQ2LTQ3OTEtOGVjZi0wYTZkOGQ3MWM3MTcud3RmIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjllMmM0MzVjLTA1YTctNDRhMy1iYWU5LWI4NmUyNzAyMzZkYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjAzMjAiLCJwcyI6IkBpY3YycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&headerType=none&type=tcp#@icv2ray
-vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#@icv2ray
