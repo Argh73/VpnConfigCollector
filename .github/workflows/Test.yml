@@ -36,7 +36,7 @@ jobs:
           python Files/tester/Test.py
 
       - name: Commit and push results
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "☑️ Tested configs $(date)"
           file_pattern: tested/*
