@@ -18,7 +18,7 @@ MAX_SUCCESSFUL_CONFIGS = 20
 MAX_CONFIGS_TO_TEST = 100
 TIMEOUT = 1
 
-# Setup
+# Setup output folder
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
 for file in os.listdir(OUTPUT_DIR):
@@ -43,31 +43,29 @@ def extract_host_port(config):
             if match:
                 return match.group(1).strip("[]"), int(match.group(2))
 
-        # Shadowsocks - Multiple formats
+        # Shadowsocks
         if config.startswith("ss://"):
-            # Remove remark
             link = config.split("#")[0]
             b64 = link[5:]
 
-            # Format 1: ss://base64(method:pass@host:port)
+            # 1. ss://base64(method:pass@host:port)
             try:
                 padding = len(b64) % 4
                 if padding:
                     b64 += "=" * (4 - padding)
                 decoded = base64.b64decode(b64).decode('utf-8')
-                # Extract host:port
                 match = re.search(r"@\[?([^\]:]+)\]?:(\d+)", decoded)
                 if match:
                     return match.group(1).strip("[]"), int(match.group(2))
             except:
                 pass
 
-            # Format 2: Direct ss://method:pass@host:port
+            # 2. Direct ss://method:pass@host:port
             match = re.search(r"@\[?([^\]:]+)\]?:(\d+)", link)
             if match:
                 return match.group(1).strip("[]"), int(match.group(2))
 
-            # Format 3: JSON inside base64 (some of your links)
+            # 3. JSON base64
             try:
                 padding = len(b64) % 4
                 if padding:
@@ -98,15 +96,12 @@ def extract_host_port(config):
                 port = data.get("port")
                 if host and port:
                     return str(host).strip("[]"), int(port)
-            except Exception as e:
-                print(f"VMess decode failed: {e}")
+            except Exception:
                 return None, None
 
-        print(f"Unsupported: {config[:70]}...")
         return None, None
 
-    except Exception as e:
-        print(f"Extract error: {e} | {config[:60]}...")
+    except Exception:
         return None, None
 
 
@@ -114,8 +109,9 @@ def test_connection_and_ping(config, timeout=TIMEOUT):
     result = extract_host_port(config)
     if not result:
         return None
+    
     host, port = result
-    if not (0 <= port <= 65535):
+    if not host or not port or not isinstance(port, int) or not (0 <= port <= 65535):
         return None
 
     try:
@@ -159,13 +155,13 @@ for file_name in PROTOCOL_FILES:
         futures = {executor.submit(test_connection_and_ping, link): link for link in links}
         for future in as_completed(futures):
             res = future.result()
-            if res and len(results) < MAX_SUCCESSFUL_CONFIGS * 2:   # a bit more for sorting
+            if res and len(results) < MAX_SUCCESSFUL_CONFIGS * 2:
                 results.append(res)
 
     results.sort(key=lambda x: x["ping"])
     all_successful.extend(results[:MAX_SUCCESSFUL_CONFIGS])
 
-# Save
+# Save results
 if all_successful:
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(f"#🌐 Updated at {final_string} | MTSRVRS\n")
@@ -173,6 +169,6 @@ if all_successful:
             clean = clean_config_link(item["config"])
             line = f"#🌐server {i} | {item['protocol']} | {final_string} | Ping: {item['ping']:.2f}ms"
             f.write(f"{clean}{line}\n")
-    print(f"✅ Saved {len(all_successful)} working configs to {OUTPUT_FILE}")
+    print(f"✅ Successfully saved {len(all_successful)} configs to {OUTPUT_FILE}")
 else:
-    print("❌ No working configs.")
+    print("❌ No working configs found.")
