@@ -1,16 +1,14 @@
 import socket
 import re
 import os
-import shutil
-from datetime import datetime
-import pytz
-import jdatetime
-import time
 import random
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
 import base64
 import binascii
 import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import pytz
+import jdatetime
 
 PROTOCOL_DIR = "Splitted-By-Protocol"
 PROTOCOL_FILES = [
@@ -26,20 +24,22 @@ MAX_SUCCESSFUL_CONFIGS = 20
 MAX_CONFIGS_TO_TEST = 100
 TIMEOUT = 1
 
+# Create output directory
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
 
-if os.path.exists(OUTPUT_DIR):
-    for file in os.listdir(OUTPUT_DIR):
-        file_path = os.path.join(OUTPUT_DIR, file)
-        if os.path.isfile(file_path):
-            os.remove(file_path)
+# Clean previous results
+for file in os.listdir(OUTPUT_DIR):
+    file_path = os.path.join(OUTPUT_DIR, file)
+    if os.path.isfile(file_path):
+        os.remove(file_path)
+
 
 def clean_config_link(config):
     protocol_match = re.match(r"^(vless|trojan|ss|hysteria2|vmess)://", config)
     if not protocol_match:
-        print(f"خطا: پروتکل نامعتبر در لینک: {config[:50]}...")
-        return config  
+        print(f"Error: Invalid protocol in link: {config[:50]}...")
+        return config
     
     protocol = protocol_match.group(1)
     
@@ -58,84 +58,120 @@ def clean_config_link(config):
                 cleaned_encoded = base64.b64encode(cleaned_json.encode('utf-8')).decode('utf-8')
                 return f"vmess://{cleaned_encoded}"
         except (binascii.Error, json.JSONDecodeError, ValueError):
-            print(f"خطا در رمزگشایی VMess: {config[:50]}...")
-            return config.split("#")[0]  
+            print(f"Error decoding VMess: {config[:50]}...")
+            return config.split("#")[0]
     else:
         cleaned = config.split("#")[0]
         if protocol == "trojan":
             if not re.search(r"(security|type|sni)=[^&]+", cleaned):
-                print(f"هشدار: لینک تروجان ناقص است: {cleaned[:50]}...")
+                print(f"Warning: Incomplete Trojan link: {cleaned[:50]}...")
         return cleaned
+
 
 def get_protocol(config):
     protocol_match = re.match(r"^(vless|trojan|ss|hysteria2|vmess)://", config)
     return protocol_match.group(1).lower() if protocol_match else "unknown"
 
+
 def extract_host_port(config):
-    patterns = [
-        r"(vless|ss|trojan|hysteria2)://.+?@(.+?):(\d+)",  
-        r"(vless|ss|trojan|hysteria2)://(.+?):(\d+)" 
-    ]
-    for pattern in patterns:
-        match = re.match(pattern, config)
-        if match:
-            host = match.group(2) 
-            port = int(match.group(3)) 
-            return host, port
-    
-    vmess_pattern = r"vmess://([A-Za-z0-9+/=]+)"
-    vmess_match = re.match(vmess_pattern, config)
-    if vmess_match:
-        try:
-      
-            encoded_data = vmess_match.group(1)
-            padding_needed = len(encoded_data) % 4
-            if padding_needed:
-                encoded_data += '=' * (4 - padding_needed)
-            decoded_json = base64.b64decode(encoded_data).decode('utf-8')
-            vmess_obj = json.loads(decoded_json)
-            host = vmess_obj.get('add', '')  
-            port = int(vmess_obj.get('port', 0))
-            if host and port:
+    try:
+        # Hysteria2
+        if config.startswith(("hy2://", "hysteria2://")):
+            match = re.search(r"@\[?([^\]:]+)\]?:(\d+)", config)
+            if match:
+                host = match.group(1).strip("[]")
+                port = int(match.group(2))
                 return host, port
-            else:
-                print(f"خطا: هاست یا پورت در لینک VMess یافت نشد: {config[:50]}...")
-        except (binascii.Error, json.JSONDecodeError, ValueError) as e:
-            print(f"خطا در رمزگشایی لینک VMess: {e} - لینک: {config[:50]}...")
-            return None, None
-    
-    print(f"خطا: لینک نامعتبر یا پروتکل پشتیبانی‌نشده: {config[:50]}...")
-    return None, None
+
+        # Shadowsocks (base64 + plain)
+        if config.startswith("ss://"):
+            # base64 encoded part
+            try:
+                b64_part = config[5:].split("#")[0].split("/")[0]
+                padding = len(b64_part) % 4
+                if padding:
+                    b64_part += "=" * (4 - padding)
+                decoded = base64.b64decode(b64_part).decode("utf-8")
+                match = re.search(r"@\[?([^\]:]+)\]?:(\d+)", decoded)
+                if match:
+                    host = match.group(1).strip("[]")
+                    port = int(match.group(2))
+                    return host, port
+            except:
+                pass
+
+            # Plain ss://method:pass@host:port
+            match = re.search(r"@\[?([^\]:]+)\]?:(\d+)", config)
+            if match:
+                host = match.group(1).strip("[]")
+                port = int(match.group(2))
+                return host, port
+
+        # Vless / Trojan
+        for pattern in [
+            r"(vless|trojan)://.+?@\[?([^\]:]+)\]?:(\d+)",
+            r"(vless|trojan)://\[?([^\]:]+)\]?:(\d+)"
+        ]:
+            match = re.search(pattern, config)
+            if match:
+                host = match.group(2 if len(match.groups()) > 1 else 1)
+                port = int(match.group(3 if len(match.groups()) > 2 else 2))
+                return host.strip("[]"), port
+
+        # Vmess
+        vmess_pattern = r"vmess://([A-Za-z0-9+/=]+)"
+        vmess_match = re.match(vmess_pattern, config)
+        if vmess_match:
+            try:
+                encoded_data = vmess_match.group(1)
+                padding_needed = len(encoded_data) % 4
+                if padding_needed:
+                    encoded_data += "=" * (4 - padding_needed)
+                decoded_json = base64.b64decode(encoded_data).decode("utf-8")
+                vmess_obj = json.loads(decoded_json)
+                host = vmess_obj.get("add") or vmess_obj.get("host")
+                port = vmess_obj.get("port")
+                if host and port:
+                    return str(host).strip("[]"), int(port)
+            except (binascii.Error, json.JSONDecodeError, ValueError) as e:
+                print(f"Error decoding VMess: {e} - {config[:50]}...")
+                return None, None
+
+        print(f"Error: Invalid link or unsupported protocol: {config[:80]}...")
+        return None, None
+
+    except Exception as e:
+        print(f"Error extracting host/port: {e} | Link: {config[:60]}...")
+        return None, None
+
 
 def test_connection_and_ping(config, timeout=TIMEOUT):
     host, port = extract_host_port(config)
-    if not host or not port:
+    if not host or not port or not (0 <= port <= 65535):
         return None
+    
     try:
         start_time = time.time()
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         sock.settimeout(timeout)
         result = sock.connect_ex((host, port))
         sock.close()
-        if result == 0: 
-            ping_time = (time.time() - start_time) * 1000  
+        
+        if result == 0:
+            ping_time = (time.time() - start_time) * 1000
             return {
                 "config": config,
                 "host": host,
                 "port": port,
                 "ping": ping_time,
-                "protocol": get_protocol(config) 
+                "protocol": get_protocol(config)
             }
         return None
-    except (socket.gaierror, socket.timeout):
+    except Exception:
         return None
 
 current_date_time = jdatetime.datetime.now(pytz.timezone('Asia/Tehran'))
-current_month = current_date_time.strftime("%b")
-current_day = current_date_time.strftime("%d")
-updated_hour = current_date_time.strftime("%H")
-updated_minute = current_date_time.strftime("%M")
-final_string = f"{current_month}-{current_day} | {updated_hour}:{updated_minute}"
+final_string = current_date_time.strftime("%b-%d | %H:%M")
 
 all_successful_configs = []
 
@@ -150,6 +186,8 @@ for protocol_file in PROTOCOL_FILES:
     if len(config_links) > MAX_CONFIGS_TO_TEST:
         config_links = random.sample(config_links, MAX_CONFIGS_TO_TEST)
     
+    print(f"Testing {len(config_links)} configs from {protocol_file} ...")
+    
     configs_with_ping = []
     with ThreadPoolExecutor(max_workers=20) as executor:
         future_to_config = {executor.submit(test_connection_and_ping, config): config for config in config_links}
@@ -160,16 +198,16 @@ for protocol_file in PROTOCOL_FILES:
     
     configs_with_ping.sort(key=lambda x: x["ping"])
     successful_configs = configs_with_ping[:MAX_SUCCESSFUL_CONFIGS]
-    
     all_successful_configs.extend(successful_configs)
   
+
 if all_successful_configs:
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
-        file.write(f"#🌐 به روزرسانی شده در {final_string} | MTSRVRS\n")
+        file.write(f"#🌐 Updated at {final_string} | MTSRVRS\n")
         for i, result in enumerate(all_successful_configs, 1):
             cleaned_config = clean_config_link(result['config'])
             config_string = f"#🌐server {i} | {result['protocol']} | {final_string} | Ping: {result['ping']:.2f}ms"
             file.write(f"{cleaned_config}{config_string}\n")
-    print(f"All results saved to {OUTPUT_FILE}")
+    print(f"✅ All results saved to {OUTPUT_FILE}")
 else:
-    print("No successful configs found for any protocol")
+    print("❌ No successful configs found.")
