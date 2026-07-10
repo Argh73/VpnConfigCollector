@@ -44,6 +44,7 @@ var links = []string{
     "https://raw.githubusercontent.com/giromo/Collector2/refs/heads/main/bulk/b64_merge2.txt",
     "https://raw.githubusercontent.com/giromo/Collector2/refs/heads/main/bulk/b64_merge1.txt",
     "https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/all",
+    "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_BASE64.txt",
     "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
 }
 
@@ -62,7 +63,13 @@ var dirLinks = []string{
     "https://raw.githubusercontent.com/nikita29a/FreeProxyList/refs/heads/main/mirror/1.txt",
     "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/refs/heads/main/output/base64/mix-uri-raw",
     "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/configtg.txt",
-    "gggggg",
+    "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/AllConfigsSub.txt",
+    "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt",
+    "https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt",
+    "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/v2rayCrow/Sub-Link-Output/refs/heads/main/all.txt",
+    "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
+    "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/refs/heads/main/subscriptions/v2ray/all_sub.txt",
 }
 
 type Result struct {
