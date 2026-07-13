@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://ea824cff-7ce7-4470-ab7f-50dd6b25a8b4@tn14.radmehrmax.ir:8088?encryption=none&security=none&type=tcp&headerType=http #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://ea6b03ef-8356-4a8c-abe4-eade7a4806e4@163.172.29.106:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1 #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://ea68ea3d-b2f7-47f8-97d5-04cad78dd226@154.222.9.208:443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=dc8109baf0f607ea #🌐 [ Configs by DukeMehdi ] VL-SC
 vless://ea68ea3d-b2f7-47f8-97d5-04cad78dd226@154.222.9.208:443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=dc8109baf0f607ea&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- #🌐 [ Configs by DukeMehdi ] VL-SC
 vless://ea68ea3d-b2f7-47f8-97d5-04cad78dd226@154.222.9.208:443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=dc8109baf0f607ea #🌐 [ Configs by DukeMehdi ] VL-SC
@@ -502,3 +500,5 @@ vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@x4g-production-ffd1.up.railway.app:
 vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@x4g-production-ffd1.up.railway.app:443?encryption=none&security=tls&sni=x4g-production-ffd1.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=x4g-production-ffd1.up.railway.app&path=%2Fws%2Fe878eed7-c3f7-cd5c-bb10-468bad9b936c #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@x4g-production-ffd1.up.railway.app:443?encryption=none&security=tls&alpn=http/1.1&type=ws&path=/ws/e878eed7-c3f7-cd5c-bb10-468bad9b936c #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@x4g-production-ffd1.up.railway.app:443?encryption=none&security=tls&alpn=http%2F1.1&type=ws&path=%2Fws%2Fe878eed7-c3f7-cd5c-bb10-468bad9b936c #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@x4g-production-ffd1.up.railway.app:443?alpn=http/1.1&type=ws&host=&path=/ws/e878eed7-c3f7-cd5c-bb10-468bad9b936cfp=chrome&security=tls #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://e878eed7-c3f7-cd5c-bb10-468bad9b936c@x4g-production-ffd1.up.railway.app:443?&security=tls&fp=chrome&alpn=http/1.1&sni=x4g-production-ffd1.up.railway.app&type=ws&headerType=none&host=x4g-production-ffd1.up.railway.app&path=/ws/e878eed7-c3f7-cd5c-bb10-468bad9b936c #🌐 [ Configs by DukeMehdi ] VL-XX

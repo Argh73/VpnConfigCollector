@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.107.23:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.60:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.60:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.31:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.161:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org #🇷🇺 [ Configs by DukeMehdi ] VL-RU
@@ -502,3 +500,5 @@ vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443/?type=tcp&encry
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=none&type=tcp&packetEncoding=xudp&encryption=none #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=none&type=raw&packetEncoding=xudp&encryption=none #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=none&encryption=none&headerType=none&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?security=&encryption=none&headerType=none&fp=firefox&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&type=tcp&headerType=none #🇫🇷 [ Configs by DukeMehdi ] VL-FR
