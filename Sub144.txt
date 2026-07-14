@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://00cb997f-aebb-4c0b-93de-616962738aa0@news.zoom.us:8443?type=ws&security=tls&fp=chrome&sni=apexcloud.ggff.net&path=/apexcloud.ggff.net&host=apexcloud.ggff.net #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://00cb997f-aebb-4c0b-93de-616962738aa0@news.zoom.us:8443?type=ws&encryption=none&path=%2Fapexcloud.ggff.net&host=apexcloud.ggff.net&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=apexcloud.ggff.net #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://00cb997f-aebb-4c0b-93de-616962738aa0@news.zoom.us:8443?security=tls&type=ws&path=/apexcloud.ggff.net&host=apexcloud.ggff.net&packetEncoding=xudp&alpn=h2,http/1.1&sni=apexcloud.ggff.net&fp=chrome&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://00cb997f-aebb-4c0b-93de-616962738aa0@141.193.213.21:8443?security=tls&sni=apexcloud.ggff.net&type=ws&host=apexcloud.ggff.net&path=/apexcloud.ggff.net&fp=chrome&alpn=h2,http/1.1 #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://00cb997f-aebb-4c0b-93de-616962738aa0@141.193.213.20:8443?type=ws&security=tls&fp=chrome&sni=apexcloud.ggff.net&path=/apexcloud.ggff.net&host=apexcloud.ggff.net #🇺🇸 [ Configs by DukeMehdi ] VL-US
@@ -500,5 +502,3 @@ trojan://zje9mg4ata@14.102.228.76:443?type=ws&path=/thepurea&host=world.thepouri
 trojan://zixGcZjzWxMG@44.223.106.182:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none #🇺🇸 [ Configs by DukeMehdi ] TJ-US
 trojan://ziIjOlyGbM@91.107.141.0:23825?type=tcp&path=%2F&headerType=http&security=none #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
 trojan://zYNLlN@183.213.200.206:28132?allowInsecure=1&sni=download.windowsupdate.com #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://zYNLlN@120.82.67.125:28132?allowInsecure=1 #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://zY0HGcoAcY2v@www.speedtest.net:443?security=tls&sni=SCHQqN0Yhrrs34qn3a2K4i6g9XAp1tPh.PaGEs.dEv&alpn=http%2F1.1&type=ws&host=schqqn0yhrrs34qn3a2k4i6g9xap1tph.pages.dev&path=%2FtrfrcjlzXxwTT5XGKk%2FNDQuMjI0LjI0LjkxLDE4LjE4My4xNTguMjEx%3Fed%3D2560 #🌐 [ Configs by DukeMehdi ] TJ-XX

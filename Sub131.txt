@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@210.203.195.52:33890?security=tls&type=ws&path=%2FTelegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none #🇯🇵 [ Configs by DukeMehdi ] VL-JP
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@210.203.195.52:33890?encryption=none&security=tls&sni=notls.lukongtou.eu.org&insecure=0&allowInsecure=0&type=ws&host=notls.lukongtou.eu.org&path=Telegram-WangCai2%F0%9F%87%A8%F0%9F%87%B3 #🇯🇵 [ Configs by DukeMehdi ] VL-JP
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@199.68.156.123:443?encryption=none&security=tls&sni=notls.lukongtou.eu.org&insecure=0&allowInsecure=0&type=ws&host=notls.lukongtou.eu.org&path=Telegram-WangCai2 #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@199.181.197.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2 #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@198.71.189.123:443?encryption=none&security=tls&sni=notls.lukongtou.eu.org&insecure=0&allowInsecure=0&type=ws&host=notls.lukongtou.eu.org&path=Telegram-WangCai2 #🇺🇸 [ Configs by DukeMehdi ] VL-US
@@ -500,5 +502,3 @@ vless://1a801929-71c0-45df-9ec3-f468912c6740@62.152.59.10:443?flow=xtls-rprx-vis
 vless://1a801929-71c0-45df-9ec3-f468912c6740@212.193.153.93:443?type=ws&security=tls&encryption=none&path=%2Fv1%2Fdata%2Fsync%2F&sni=s88046.cdn.ngenix.net&fp=chrome&alpn=http%2F1.1&headerType=none #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://1a801929-71c0-45df-9ec3-f468912c6740@212.193.153.93:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=chrome&sni=s88046.cdn.ngenix.net&alpn=http/1.1 #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://1a7f8319-4bfc-42a8-8691-7c2ac642ca7e@tnl39.vipradvin.ir:8220?encryption=none&security=none&type=tcp&headerType=http #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://1a7b3b73-8d47-4cd8-84b5-2787b3230596@s26.radnikmax.ir:8452?encryption=none&security=none&type=tcp&headerType=http #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://1a78ba25-1f6f-4496-b2a7-3bfec130a734@free-httpcustom-free-httpcustomhfree-httpcustom-free-httpcustom.frre-plus-mobile.ir:443?type=xhttp&encryption=none&path=%2Fvideo%2Fstream&host=free-httpcustom-free-httpcustomifree-httpcustom-free-httpcustom.frre-plus-mobile.ir&mode=packet-up&security=tls&fp=chrome&alpn=h2&sni=free-httpcustom-free-httpcustomifree-httpcustom-free-httpcustom.frre-plus-mobile.ir #🌐 [ Configs by DukeMehdi ] VL-XX

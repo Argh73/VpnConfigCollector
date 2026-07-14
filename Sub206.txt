@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+trojan://MITIVPN@188.114.98.193:443 #🌐 [ Configs by DukeMehdi ] TJ-XX
+trojan://MITIVPN@188.114.97.6:443?type=ws&security=tls&path=/ed=mitivpn&host=www.pagess.ir&sni=pagess.ir&alpn=http/1.1,h2&fp=chrome&insecure=1&allowInsecure=1 #🌐 [ Configs by DukeMehdi ] TJ-XX
 trojan://MITIVPN@188.114.97.6:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=www.pagess.ir&sni=pagess.ir&alpn=http%2F1.1%2Ch2&fp=chrome&insecure=1&allowInsecure=1 #🌐 [ Configs by DukeMehdi ] TJ-XX
 trojan://MITIVPN@188.114.97.6:443?security=tls&sni=pagess.ir&fp=chrome&alpn=http/1.1,h2&insecure=1&allowInsecure=1&type=ws&host=www.pagess.ir&path=/ed=mitivpn #🌐 [ Configs by DukeMehdi ] TJ-XX
 trojan://MITIVPN@188.114.97.6:443?path=/ed=mitivpn&security=tls&insecure=1&host=www.pagess.ir&fp=chrome&type=ws&allowInsecure=1&sni=pagess.ir #🌐 [ Configs by DukeMehdi ] TJ-XX
@@ -500,5 +502,3 @@ trojan://MITIVPN@104.16.72.41:443?security=tls&sni=De.App-Cloud.ir&fp=chrome&alp
 trojan://MITIVPN@104.16.72.41:443?security=tls&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&path=%2FMiTiVPN%3DDe&type=ws&host=PioHosting.ir&sni=PioHosting.ir #🌐 [ Configs by DukeMehdi ] TJ-XX
 trojan://MITIVPN@104.16.72.41:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir #🌐 [ Configs by DukeMehdi ] TJ-XX
 trojan://MITIVPN@104.16.72.41:443?path=/MiTiVPN=De&security=tls&sni=De.App-Cloud.ir&type=ws #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://MITIVPN@104.16.72.41:443?path=/MiTiVPN=De&security=tls&insecure=0&host=De.App-Cloud.ir&type=ws&allowInsecure=0 #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://MITIVPN@104.16.72.41:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir #🌐 [ Configs by DukeMehdi ] TJ-XX
