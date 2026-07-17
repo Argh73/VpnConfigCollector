@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://f0674bcb-f95d-4631-828b-8e66c134abf9@87.228.101.33:8444?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ns&authority=360.yandex.ru&fp=qq&sni=360.yandex.ru&pbk=-22oLFCHao66M820QocQMqCdKF0ckLuVYMtcth92vjk #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://f0674bcb-f95d-4631-828b-8e66c134abf9@31.129.42.234:8443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ns&authority=360.yandex.ru&fp=qq&sni=360.yandex.ru&pbk=ZpXBddDY5CBXaRTnUz4lM4xs_KBVX4CPulN-q9AqhAI #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://f0674bcb-f95d-4631-828b-8e66c134abf9@185.91.54.126:8445?encryption=none&type=grpc&security=reality&mode=gun&serviceName=ns&authority=360.yandex.ru&fp=qq&sni=360.yandex.ru&pbk=-22oLFCHao66M820QocQMqCdKF0ckLuVYMtcth92vjk #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://f0654db3-6940-4f16-81ad-856d55bf279c@85.93.10.107:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=jxFvY1W8mS7K8aKMJIsJwbA0MyO4WujHiOVUO-H4T2c&security=reality&sni=currency.rest&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://f0626fab-0ae9-4928-b183-0e87136ca577@78.109.199.60:12050?mode=gun&security=&encryption=none&type=grpc #🇮🇷 [ Configs by DukeMehdi ] VL-IR
 vless://f060697-d602-11ee-aaa8-00505603e70d@104.21.49.18:443?path=%2Fwebsocket%3Fed%3D%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi%2C%40alpha_v2ray_fazayi&security=tls&alpn=http%2F1.1&encryption=none&host=st-fr-1.brocdn.com&fp=safari&type=ws&sni=st-fr-1.brocdn.com #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f05f2d3b-a4ef-4632-87b3-2c3b95acac94@79.174.93.97:443?encryption=none&fp=chrome&pbk=1pGj8PcwRaaGCczGo2d0BFCrIhlQSi4wJisOBK6HCD8&security=reality&sid=93a44218c398feca&sni=5post-gate.x5.ru&type=tcp #🇷🇺 [ Configs by DukeMehdi ] VL-RU
@@ -498,7 +502,3 @@ vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.164.104:80?security=reality
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.162.95:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=94aa1bdc #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.162.75:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=94aa1bdc #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.162.251:80/?type=tcp&encryption=none #🇺🇸 [ Configs by DukeMehdi ] VL-US
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.160.117:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=94aa1bdc #🇺🇸 [ Configs by DukeMehdi ] VL-US
-vless://ef275137-f512-4558-ae7b-131fad6b292e@91.107.147.112:20993?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
-vless://ef26fe1e-abb0-4b37-b45b-d999a91ebc46@m3.fastspeeds.ir:2053?encryption=none&security=tls&sni=aslan-nl.ip-venzo.com&insecure=0&allowInsecure=0&type=ws&path=%2Fws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://ef267958-2200-4ef5-b115-10bba6b5a26f@speedtestcustom.com:443?allowInsecure=false&alpn=h2%2Chttp%2F1.1&fp=firefox&host=melofin.ir&path=%2F%40melov2ray%2Fws%3Fed%3D2048&security=tls&sni=speedtestcustom.com&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
