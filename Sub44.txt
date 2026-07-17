@@ -2,6 +2,16 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.176.174:2090?encryption=none&security=none&type=tcp&headerType=none #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.176.174:2090?encryption=none&security=none&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.227:8882?encryption=none&headerType=http&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.227:29148?security=&encryption=none&headerType=http&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.227:29148?encryption=none&headerType=http&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.227:2090?security=none&encryption=none&type=tcp&headerType=http&path=/ #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.227:2090?security=none&encryption=none&type=tcp&headerType=http&path=%2f #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.227:2090?encryption=none&headerType=http&security=none&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.207:8882?security=&encryption=none&headerType=http&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.207:2090?encryption=none&security=none&type=tcp&headerType=none #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.207:2090?encryption=none&security=none&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.207:2090?encryption=none&headerType=none&security=none&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.146.207:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
@@ -83,6 +93,7 @@ vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.253.74.136:29148?encryption=non
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.253.74.136:2090?security=none&encryption=none&type=tcp&headerType=http&path=/ #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.253.74.136:2090?security=none&encryption=none&type=tcp&headerType=http&path=%2f #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.253.74.136:2090?encryption=none&headerType=http&security=none&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.253.134.228:2090?security=none&encryption=none&headerType=none&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.253.134.228:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.253.134.16:8882?security=&encryption=none&headerType=http&type=tcp #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://eab915bc-d2df-73d1-47d0-6eb240497055@104.253.134.16:2090?encryption=none&security=none&type=tcp&headerType=none #🇫🇷 [ Configs by DukeMehdi ] VL-FR
@@ -286,11 +297,13 @@ vless://ea54523b-010c-439f-da1f-ba27a8cc2c51@s1.zynavo.ir:2087?mode=auto&path=%2
 vless://ea53afb1-70a0-4960-833b-ec5a85f0b0e2@195.208.65.195:443?encryption=none&type=ws&security=tls&path=/v1/data/sync/&fp=chrome&sni=s58794.cdn.ngenix.net&alpn=http/1.1 #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://ea535933-6fe2-45ae-b737-5b2d47e04bb4@lfvps.top:443?security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=62a71a3bc82af165&pbk=SUfGUYeyXhvcomjjiVWlkEK1wSL6Q0wCRNVAzrxaI3Q #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://ea535933-6fe2-45ae-b737-5b2d47e04bb4@lfvps.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=SUfGUYeyXhvcomjjiVWlkEK1wSL6Q0wCRNVAzrxaI3Q&security=tls&sid=62a71a3bc82af165&sni=www.cloudflare.com&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://ea535933-6fe2-45ae-b737-5b2d47e04bb4@lfvps.top:443?&security=reality&flow=xtls-rprx-vision&pbk=SUfGUYeyXhvcomjjiVWlkEK1wSL6Q0wCRNVAzrxaI3Q&sid=62a71a3bc82af165&fp=random&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://ea52d40f-be17-4789-91ec-55d7bb1821f2@neymar.ariyant.ir:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=Tunnelme #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://ea52d40f-be17-4789-91ec-55d7bb1821f2@neymar.ariyant.ir:80?authority=&encryption=none&security=none&serviceName=Tunnelme&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://ea52c459-86ac-4707-8062-564ca031ae43@151.101.2.133:443?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=tls&encryption=none&host=barkatc2.ir&type=ws&sni=mio.splashthat.com #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://ea50eba3-2cdd-4979-bca3-1f3aae58028a@185.154.194.217:13094?mode=auto&path=%2FPOST&security=reality&encryption=none&pbk=d9uB5xF7pbw6l68a62blPltVtz6Hg7PEESl6IMiZ_yo&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=7e #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://ea50b1a3-3a98-4c5e-a150-48ada40d68d7@cf-vless-4cf55824.aimall.fr:443?encryption=none&security=tls&sni=cf-vless-4cf55824.aimall.fr&fp=chrome&type=ws&host=cf-vless-4cf55824.aimall.fr&path=%2Fconnect #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://ea50b1a3-3a98-4c5e-a150-48ada40d68d7@cf-vless-4cf55824.aimall.fr:443?&security=tls&fp=chrome&sni=cf-vless-4cf55824.aimall.fr&type=ws&headerType=none&host=cf-vless-4cf55824.aimall.fr&path=%2Fconnect #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://ea4c2289-ed9f-4f7e-a8e7-7e748eee8c40@www.speedtest.net:80?path=%2Ftelegram-%40Shh_Proxy-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%2Ctelegram-%40Shh_Proxy%3Fed%3D2560&security=none&encryption=none&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.mozdfree.bUzz.&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://ea4af526-7b94-4f06-b3b0-0c232e5e8e73@tel.RxV2ray.cfd:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@RxV2ray&sni=tel.RxV2ray.cfd #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://ea4af526-7b94-4f06-b3b0-0c232e5e8e73@mtn.rxv2ray.space:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@RxV2ray&sni=tel.RxV2ray.cfd #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -489,16 +502,3 @@ vless://e9e5e2f6-5c60-4641-aa6d-3fb70713a6cb@104.31.16.104:80?path=%2F&security=
 vless://e9e437c2-1ee5-4f0d-ae09-4bfafc835e47@185.143.233.120:2086?path=%2Fwp-admin%3Fed%3D2048&security=none&encryption=none&host=getasa.ir&type=ws #🇮🇷 [ Configs by DukeMehdi ] VL-IR
 vless://e9e3ddb2-69ba-44a2-9f55-6b209c07ff5e@ip4.neoservers.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=WQLn6jpEZ9ZUkE6ShnzvkBazVVo74J4Bar267N5O.ViPClUbIrAn.Ir.&fp=chrome&type=ws&allowInsecure=0&sni=WQLn6jpEZ9ZUkE6ShnzvkBazVVo74J4Bar267N5O.ViPClUbIrAn.Ir. #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://e9de7230-c06e-46a2-be72-c913ff6408de@marzban-node-production-5040.up.railway.app:443?security=tls&type=ws&headerType=&path=/vless&host=marzban-node-production-5040.up.railway.app&sni=marzban-node-production-5040.up.railway.app&fp=chrome&alpn=h2 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9dd7934-4da6-4da6-8de3-5f3d88f93b9a@trojan.wefuckgfw.ga:2586?encryption=none&security=tls&type=kcp&headerType=wechat-video&seed=wIgMD0us #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9dbc178-3656-40f8-8833-5023f306ef1d@us01-vlr01-gmn03.vpnvezdehod.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=%2Flzummpws&security=tls&encryption=none&type=ws&sni=639003456258253450.mustang-amsit.info #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?path=%2Flzummpws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=639003456258253450.mustang-amsit.info #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9db60cd-83df-430a-960e-b77c56dc6ede@norman.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456258253450.mustang-amsit.info&type=ws&host=639003456258253450.mustang-amsit.info&path=/lzummpws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9d9f06f-d5dd-460a-998f-52efc4732636@download.yunzhongzhuan.com:8880?type=ws&host=bitter-meadow-1d60.313-0f9.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9d9f06f-d5dd-460a-998f-52efc4732636@download.yunzhongzhuan.com:8880?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=bitter-meadow-1d60.313-0f9.workers.dev&packetEncoding=xudp #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9d9f06f-d5dd-460a-998f-52efc4732636@download.yunzhongzhuan.com:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=&encryption=none&host=bitter-meadow-1d60.313-0f9.workers.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9d9f06f-d5dd-460a-998f-52efc4732636@download.yunzhongzhuan.com:8880?encryption=none&type=ws&host=bitter-meadow-1d60.313-0f9.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9d968c7-a840-4cdd-9fb3-44f5daa5c195@www.zula.ir:8080?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&host=Abrarvan1.com.&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9d968c7-a840-4cdd-9fb3-44f5daa5c195@parspack.com:443?path=%2FChannel-ELiV2RAY---ELiV2RAY---ELiV2RAY---ELiV2RAY----Channel-ELiV2RAY---ELiV2RAY%3Fed%3D2048&security=tls&host=abrarvan1.com&fp=qq&type=ws&sni=abrarvan1.com #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e9d968c7-a840-4cdd-9fb3-44f5daa5c195@140.248.128.69:80?type=ws&host=Channel-VPNCUSTOMIZE.ir&path=/VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE?ed=2048 #🇸🇬 [ Configs by DukeMehdi ] VL-SG
-vless://e9d968c7-a840-4cdd-9fb3-44f5daa5c195@140.248.128.69:80?path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE--VPNCUSTOMIZE%3Fed&security=none&encryption=none&host=Channel-VPNCUSTOMIZE.ir&type=ws #🇸🇬 [ Configs by DukeMehdi ] VL-SG

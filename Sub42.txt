@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://ec3ee517-f133-4908-8364-633be2647b19@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=balancer-1.access.name.ng&fp=chrome&type=ws&sni=balancer-1.access.name.ng #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://ec3caa8b-df48-497a-889e-d5958e9d3f39@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Okhala.com&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://ec3caa8b-df48-497a-889e-d5958e9d3f39@151.101.66.133:80?security=none&type=ws&host=Okhala.com&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048 #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://ec3caa8b-df48-497a-889e-d5958e9d3f39@151.101.66.133:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Okhala.com&type=ws #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://ec3b9c37-7cde-46ab-aefd-7e17e1f06fa1@104.168.107.230:5676?security=reality&encryption=none&pbk=QQHxQK7ocGHvaCmqtW3QapnKiBVd4ZjjM3zhCGVMPS4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=arnebrachhold.de&sid=db68e802226b21cd #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://ec38f7fe-fca2-4227-fa07-1c49ad05cae8@104.18.12.126:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@foxnim&sni=free.foxnim.info #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://ec3782f5-bf37-401c-ef06-6e3df4c9e2f7@gam.sobhan.fun:443?type=tcp&path=%2F&host=ponisha.ir&headerType=http #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -498,7 +502,3 @@ vless://eaeb5f1a-57b4-4b1f-a70d-ff0908582a77@195.209.87.198:443?type=ws&security
 vless://eaeb5f1a-57b4-4b1f-a70d-ff0908582a77@195.209.87.198:443?encryption=none&type=ws&security=tls&path=%2Fv1%2Fdata%2Fsync%2F&fp=edge&sni=s28797.cdn.ngenix.net&alpn=http%2F1.1 #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://eae331af-576d-4b57-b2b5-ab056472be75@194.5.177.77:443?security=reality&encryption=none&pbk=Qu9PNhHGchcaNbGebuG2LwrVVE-NPDI3Ym8ZukMdEn8&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=240c85b9 #🇮🇷 [ Configs by DukeMehdi ] VL-IR
 vless://eae21a69-c4bf-4da6-9b7b-916a302ca32b@[2a0b:4140:659a:2::2]:33000?mode=gun&security=reality&encryption=none&authority=&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&fp=chrome&spx=%2F&type=grpc&serviceName=b&sni=www.speedtest.net&sid=be7f13dd #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://eae02a50-e329-4647-926e-8439e685f317@86.38.214.86:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1 #🇱🇹 [ Configs by DukeMehdi ] VL-LT
-vless://eae02a50-e329-4647-926e-8439e685f317@86.38.214.23:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http/1.1 #🇱🇹 [ Configs by DukeMehdi ] VL-LT
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.9:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1 #🌐 [ Configs by DukeMehdi ] VL-SC
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.8:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1 #🌐 [ Configs by DukeMehdi ] VL-SC
