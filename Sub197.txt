@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.178:2096?security=tls&type=ws&path=/&host=vp12.cc.cd&packetEncoding=none&sni=vp12.cc.cd&fp=chrome #🇳🇱 [ Configs by DukeMehdi ] VL-NL
-vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.172:2096?sni=vp14.cc.cd&type=ws&host=vp14.cc.cd&path=/fp=chrome&security=tls #🇳🇱 [ Configs by DukeMehdi ] VL-NL
-vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.172:2096?security=tls&type=ws&path=/&host=vp14.cc.cd&packetEncoding=none&sni=vp14.cc.cd&fp=chrome #🇳🇱 [ Configs by DukeMehdi ] VL-NL
-vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.172:2096?path=%2Ffp&security=tls&encryption=none&insecure=0&host=vp14.cc.cd&type=ws&allowInsecure=0&sni=vp14.cc.cd #🇳🇱 [ Configs by DukeMehdi ] VL-NL
-vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.172:2096/?type=ws&encryption=none&flow=&host=vp14.cc.cd&path=%2Ffp%3Dchrome&security=tls&sni=vp14.cc.cd #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.16:2083?&security=tls&fp=chrome&sni=vp13.cc.cd&type=ws&headerType=none&host=vp13.cc.cd&path=%2F #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.143:2087?sni=vp24.cc.cd&type=ws&host=vp24.cc.cd&path=/fp=chrome&security=tls #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://7b102311-43fd-4e8f-877e-8090623c101d@188.164.248.143:2087?security=tls&type=ws&path=/fp=chrome&host=vp24.cc.cd&packetEncoding=xudp&sni=vp24.cc.cd&fp=chrome #🇳🇱 [ Configs by DukeMehdi ] VL-NL
@@ -25,6 +20,7 @@ vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.59.213:8443?security=tls&ty
 vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.59.213:8443?encryption=none&security=tls&sni=vp34.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vp34.cc.cd&path=/ #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.59.213:8443?encryption=none&fp=chrome&host=vp34.cc.cd&path=/&security=tls&sni=vp34.cc.cd&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.59.213:8443?encryption=none&fp=chrome&host=vp34.cc.cd&path=%2F&security=tls&sni=vp34.cc.cd&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.59.213:8443?allow_insecure=0&fp=chrome&host=vp34.cc.cd&path=%2F&security=tls&sni=vp34.cc.cd&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.59.213:8443?&security=tls&fp=firefox&sni=vp34.cc.cd&type=ws&headerType=none&host=vp34.cc.cd&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.59.120:8443?security=tls&type=ws&path=/&host=vp23.cc.cd&packetEncoding=xudp&sni=vp23.cc.cd&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://7b102311-43fd-4e8f-877e-8090623c101d@173.245.59.120:8443?security=tls&type=ws&path=%2F&host=vp23.cc.cd&packetEncoding=xudp&sni=vp23.cc.cd&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -502,3 +498,7 @@ vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.153.180:443?type=tcp&path=%2F
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40%4A%4F%4B%45%52%52%56%50%4E&headerType=http&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?flow=&headerType=http&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443/?encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&type=tcp&headerType=http #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.107.209.113:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none #🇩🇪 [ Configs by DukeMehdi ] VL-DE
