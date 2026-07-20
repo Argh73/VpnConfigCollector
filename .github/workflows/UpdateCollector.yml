@@ -34,7 +34,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Pull latest changes
         run: |
           echo "Pulling latest changes from origin main..."
@@ -48,7 +47,6 @@ jobs:
             }; 
           }
           echo "Branch is up-to-date with origin/main"
-
       - name: Set up Go
         uses: actions/setup-go@v6
         with:
@@ -62,7 +60,6 @@ jobs:
           echo "Root TXT: $(ls -la *.txt 2>/dev/null || echo 'None')"
           echo "Files/ TXT: $(ls -la Files/*.txt 2>/dev/null || echo 'None')"
           echo "Directories: $(ls -la | grep '^d' | head -5)"
-
       - name: Build and run Go aggregator
         run: |
           echo "Building in Files/, running in ROOT..."
@@ -79,7 +76,6 @@ jobs:
           echo "Aggregator done in $processing_times!"
           echo "PROCESSING_TIME=$processing_time" >> $GITHUB_ENV
           rm -f aggregator
-
       - name: Debug - Files after aggregator + Move if in Files/
         run: |
           echo "=== AFTER AGGREGATOR ==="
@@ -95,22 +91,17 @@ jobs:
           fi
           
           echo "Final root TXT: $(ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'CRITICAL: Still missing! Check aggregator code')"
-
       - name: Verify output files
         run: |
           echo "Verifying in root..."
           echo "Sub files:"
           ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo "CRITICAL: No Sub/All in root - aggregator issue?"
-
           echo "\nProtocol:"
           ls -la Splitted-By-Protocol/ 2>/dev/null || echo "No protocol dir"
-
           echo "\nCountry:"
           ls -la Splitted-By-Country/ 2>/dev/null || echo "No country dir"
-
           echo "\nBase64:"
           ls -la Base64/ 2>/dev/null || echo "No base64 dir"
-
           if [ -f "All_Configs_Sub.txt" ]; then
             count=$(grep -v '^#' "All_Configs_Sub.txt" | wc -l)
             size=$(du -h "All_Configs_Sub.txt" | cut -f1)
@@ -118,21 +109,17 @@ jobs:
           else
             echo "ERROR: All_Configs_Sub.txt MISSING!"
           fi
-
           if [ -d "Splitted-By-Protocol" ]; then
             echo "\nProtocol stats:"
             for f in Splitted-By-Protocol/*.txt; do [ -f "$f" ] && echo "$(basename $f): $(grep -v '^#' "$f" | wc -l) configs"; done
           fi
-
           if [ -d "Splitted-By-Country" ]; then
             echo "\nCountry stats:"
             for f in Splitted-By-Country/*.txt; do [ -f "$f" ] && echo "$(basename $f): $(grep -v '^#' "$f" | wc -l) configs"; done
           fi
-
       - name: Handle large files and prepare for commit
         run: |
           echo "Handling large files in root..."
-
           handle_large_file() {
             local file="$1"
             local prefix="$2"
@@ -142,32 +129,28 @@ jobs:
               echo "File $file: ${size_mb}MB"
               if [ $size_mb -gt 85 ]; then
                 echo "Splitting $file..."
-                split -b 85M "$file" "${prefix}_part_"
+                # با افزودن فلگ زیر، پسوند فایل‌های خروجی .txt باقی خواهد ماند
+                split -b 85M --additional-suffix=.txt "$file" "${prefix}_part_"
                 rm "$file"
               fi
             fi
           }
-
           # Explicit for Sub and All
           for sub in Sub*.txt; do [ -f "$sub" ] && handle_large_file "$sub" "${sub%.txt}"; done
           [ -f "All_Configs_Sub.txt" ] && handle_large_file "All_Configs_Sub.txt" "All_Configs_Sub"
-
           # Folders
           find Base64 Splitted-By-Protocol Splitted-By-Country -name "*.txt" -type f | while read f; do
             prefix=$(basename "$f" .txt)
             handle_large_file "$f" "$f"
           done
-
       - name: Clean up temporary files
         run: |
           rm -f All_Configs_Sorted.txt All_Configs_base64_Sub.txt
-
       - name: Debug - Before commit
         run: |
           echo "=== GIT STATUS ==="
           git status --porcelain | head -15 || echo "No changes"
           echo "Sub/All for commit: $(ls Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'None!')"
-
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v10
         with:
