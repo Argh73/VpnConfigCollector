@@ -2,14 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.66.47.69:2053?path=%2Ffast&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=hio-awx.pages.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=hio-awx.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.66.47.163:443?allowInsecure=1&encryption=none&host=hio-awx.pages.dev&security=tls&sni=hio-awx.pages.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?path=%2F&security=tls&encryption=none&insecure=0&host=hio-awx.pages.dev&type=ws&allowInsecure=0&sni=hio-awx.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?path=%2F&security=tls&encryption=none&host=hio-awx.pages.dev&type=ws&sni=hio-awx.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?path=%2F&security=tls&encryption=none&echfq=none&host=hio-awx.pages.dev&allowinsecure=0&type=ws&sni=hio-awx.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?encryption=none&host=hio-awx.pages.dev&path=%2F&security=tls&sni=hio-awx.pages.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.20.6.134:443?path=%2F&security=tls&encryption=none&insecure=0&host=hio-awx.pages.dev&type=ws&allowInsecure=0&sni=hio-awx.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.174.68:2053?encryption=none&host=hio-awx.pages.dev&path=%2Ffast&security=tls&sni=hio-awx.pages.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.174.68:2053?allowInsecure=1&encryption=none&host=hio-awx.pages.dev&security=tls&sni=hio-awx.pages.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.174.68:2053?allowInsecure=1&encryption=none&host=hio-awx.pages.dev&path=%2Ffast&security=tls&sni=hio-awx.pages.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@104.19.173.68:2053?allowInsecure=1&encryption=none&host=hio-awx.pages.dev&security=tls&sni=hio-awx.pages.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -502,3 +494,11 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083?ed=2560&eh=Sec-We
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=wk1.f1w.de5.net&path=%2F&security=tls&sni=wk1.f1w.de5.net&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083/?type=ws&encryption=none&flow=&host=wk1.f1w.de5.net&path=/&security=tls&sni=wk1.f1w.de5.net #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.46.254:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=zsf-5fa.pages.dev&type=ws&sni=zsf-5fa.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.45:443/?type=ws&encryption=none&host=edtunnel-csc.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=edtunnel-csc.pages.dev&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.118:443?path=Path%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao155.stunning-bassoon.pages.dev&type=ws&sni=baipiao155.stunning-bassoon.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.118:443?path=Path%2FTelegram%40SINABIGO%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao155.stunning-bassoon.pages.dev&type=ws&sni=baipiao155.stunning-bassoon.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.45.118:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=baipiao55.stunning-bassoon.pages.dev&type=ws&sni=baipiao55.stunning-bassoon.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.211:2083?sni=wk1.f1w.de5.net&type=ws&host=wk1.f1w.de5.net&fp=chrome&security=tls #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.211:2083?security=tls&type=ws&path=/&host=wk1.f1w.de5.net&packetEncoding=xudp&sni=wk1.f1w.de5.net&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.211:2083?security=tls&type=ws&path=%2F&host=wk1.f1w.de5.net&packetEncoding=xudp&sni=wk1.f1w.de5.net&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.211:2083?encryption=none&fp=chrome&host=wk1.f1w.de5.net&path=/&security=tls&sni=wk1.f1w.de5.net&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
