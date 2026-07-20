@@ -129,7 +129,7 @@ jobs:
               echo "File $file: ${size_mb}MB"
               if [ $size_mb -gt 85 ]; then
                 echo "Splitting $file..."
-                # با افزودن فلگ زیر، پسوند فایل‌های خروجی .txt باقی خواهد ماند
+                # ۱. اصلاح روش تقسیم فایل با افزودن پسوند .txt
                 split -b 85M --additional-suffix=.txt "$file" "${prefix}_part_"
                 rm "$file"
               fi
@@ -158,5 +158,7 @@ jobs:
           author_email: "github-actions[bot]@users.noreply.github.com"
           message: "🏴‍☠️ Fresh Update "
           add: "."
+          # ۲. دستور دریافت آخرین تغییرات و Rebase خودکار پیش از Push
+          pull: "--rebase --autostash"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
