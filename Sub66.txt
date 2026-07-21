@@ -2,13 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://dfe18be1-f685-4b7e-93ee-95d745cc5ef3@5.75.235.33:443?mode=gun&security=reality&encryption=none&pbk=NF1R7lUV6tK3nqZUKbGMRJEtCzhaMDVE-Vg_sIpzyxc&fp=firefox&spx=%2F&type=grpc&serviceName=@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN&sni=www.iranserver.com&sid=b98719b6 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
-vless://dfe18be1-f685-4b7e-93ee-95d745cc5ef2@5.75.235.33:443?mode=gun&security=reality&encryption=none&pbk=NF1R7lUV6tK3nqZUKbGMRJEtCzhaMDVE-Vg_sIpzyxc&fp=firefox&spx=%2F&type=grpc&serviceName=@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN&sni=www.iranserver.com&sid=b98719b6 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
-vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@cdn123.global.ssl.fastly.net:443?encryption=none&security=tls&sni=cdn123.global.ssl.fastly.net&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=cdn123.global.ssl.fastly.net&path=%2Fsite #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://dfe13f5a-9ce4-44fc-be96-1067bbf9202d@cdn123.global.ssl.fastly.net:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=cdn123.global.ssl.fastly.net&path=%2Fsite&security=tls&sni=cdn123.global.ssl.fastly.net&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://dfe12116-13ec-4823-b898-41313b7096ec@96.30.192.51:8080?type=ws&security=none&path=%2F #🇺🇸 [ Configs by DukeMehdi ] VL-US
-vless://dfe11ec9-6330-4e75-bada-ba8796eb71df@3900230223.torob.com.tr:1522?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://dfe07813-814e-4cfd-b38d-d508c13657f8@172.67.171.93:443?path=%2Fvless&security=tls&encryption=none&host=be1-vless.sshmax.xyz&type=ws&sni=be1-vless.sshmax.xyz #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://dfe03868-edda-4dd2-a1fb-19818d6089e3@169.40.32.4:3030?security=none&encryption=none&headerType=none&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://dfe03868-edda-4dd2-a1fb-19818d6089e3@169.40.32.4:3030 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -502,3 +495,10 @@ vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&se
 vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&path=/&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&path=%2F&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://df301b32-1152-4526-9a63-beedd93d3156@162.159.16.180:80?security=none&type=ws&path=/%2F%3Fed%3D2048&host=vl.dalazhi.cloudns.biz&packetEncoding=xudp&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://df301b32-1152-4526-9a63-beedd93d3156@162.159.16.180:80?security=none&type=ws&path=%2F%252F%253Fed%253D2048&host=vl.dalazhi.cloudns.biz&packetEncoding=xudp&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://df301b32-1152-4526-9a63-beedd93d3156@162.159.16.180:80?encryption=none&type=ws&host=vl.dalazhi.cloudns.biz&path=%2F%2F%3Fed%3D2048&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://df301b32-1152-4526-9a63-beedd93d3156@108.162.195.200:80?encryption=none&type=ws&host=vl.dalazhi.cloudns.biz&path=%2F%3Fed%3D2048&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.26.13.31:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&path=/&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.26.12.31:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&path=/&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.26.12.31:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&path=%2F&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://df301b32-1152-4526-9a63-beedd93d3156@104.18.46.69:80?encryption=none&type=ws&host=vl.dalazhi.cloudns.biz&path=%2F%3Fed%3D2048&security=none #🌐 [ Configs by DukeMehdi ] VL-XX

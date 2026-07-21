@@ -2,6 +2,21 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://dc8f914b-9e2b-4af4-a0a9-72d33ab063a2@colin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638966863917801584.rome-prmpl-aaaab.info&type=ws&host=638966863917801584.rome-prmpl-aaaab.info&path=/wtmbapws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8f1f0f-bbea-4390-a347-83a99137ce8a@188.213.198.238:7080?security=&encryption=none&headerType=none&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&encryption=none&path=%2Fhttp&host=de.vpnbase.net&fp=chrome&alpn=http%2F1.1&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?security=none&type=ws&path=/http&host=support.zoom.us.de.vpnbase.net&packetEncoding=xudp&sni=support.zoom.us.de.vpnbase.net #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&type=ws&host=de.vpnbase.net&path=/http&packetEncoding=xudp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&security=none&type=ws&path=%2Fhttp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&security=none&type=ws&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2Fhttp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=/http #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&security=none&type=ws&host=de.vpnbase.net&path=%2Fhttp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?encryption=none&host=de.vpnbase.net&path=%2Fhttp&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80/?type=ws&encryption=none&host=de.vpnbase.net&path=%2Fhttp #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80/?type=ws&encryption=none&flow=&host=de.vpnbase.net&path=%2Fhttp #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -487,18 +502,3 @@ vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&a
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http/1.1&encryption=none&host=skyroom.online,igap.net,gharar.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http/1.1&encryption=none&host=skyroom.online,igap.net,gharar.ir&headerType=http&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
 vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http%2F1.1&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
-vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=none&alpn=http%2F1.1&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
-vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?security=&alpn=http%2F1.1&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
-vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986?encryption=none&security=none&alpn=http%2F1.1&type=tcp&headerType=http&path=/&host=skyroom.online,igap.net,gharar.ir #🇮🇷 [ Configs by DukeMehdi ] VL-IR
-vless://dbcf007d-f950-4d98-9397-8da2b27c2931@85.133.236.19:63986/?encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&type=tcp&headerType=http #🇮🇷 [ Configs by DukeMehdi ] VL-IR
-vless://dbceb01b-d2a2-4016-989a-5850e9cf4872@91.84.120.233:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&security=reality&sid=f7aa9e61197d3ac6&sni=tradingview.com&type=tcp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
-vless://dbce4267-2d1a-4df2-9c3f-cc3cfe97cdd6@bia-to2.unlimiteddev.site.:80?type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D2048&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://dbce4267-2d1a-4df2-9c3f-cc3cfe97cdd6@104.17.169.114:80?type=ws&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed%3D1024&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://dbce4267-2d1a-4df2-9c3f-cc3cfe97cdd6@104.17.169.114:80?security=none&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://dbce4267-2d1a-4df2-9c3f-cc3cfe97cdd6@104.17.169.114:80?path=%2FTelegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev-Telegram%3A%40UnlimitedDev&security=none&encryption=none&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://dbcc8bb3-466c-49de-96da-5c11882d848f@d.eans.top:7008?security=reality&encryption=none&pbk=FPH81X-EMwzv4nXgkplSqBAaK81uLuPYqWaYyIWFsnQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=efcbe824 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://dbca20e1-f2a8-4b48-bba4-110c39e3ce70@185.250.41.1:21005?type=tcp&encryption=none&path=%2F&headerType=http&security=none #🇩🇪 [ Configs by DukeMehdi ] VL-DE
-vless://dbca20e1-f2a8-4b48-bba4-110c39e3ce70@185.250.41.1:21005?security=none&encryption=none&headerType=http&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
-vless://dbca01ff-4168-4d61-a5c7-06e29e10b7ac@p.shopbertar.ir:2087?security=none&encryption=none&host=play.google.com&headerType=none&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://dbca01ff-4168-4d61-a5c7-06e29e10b7ac@p.shopbertar.ir:2087?encryption=none&security=none&type=tcp&headerType=none&host=play.google.com #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://dbc9b263-f858-44c1-af4f-4e4ee1723490@193.151.137.17:4411?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
