@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://fa8f8911-2e9b-494e-9a8d-f80239ee2214@144.31.38.207:31220?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=video.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
-vless://fa8f8911-2e9b-494e-9a8d-f80239ee2214@144.31.38.207:30808?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
-vless://fa8f8911-2e9b-494e-9a8d-f80239ee2214@144.31.38.207:30805?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://fa8f8911-2e9b-494e-9a8d-f80239ee2214@144.31.38.207:30775?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=01 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://fa8f8911-2e9b-494e-9a8d-f80239ee2214@144.31.38.207:29340?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=m.yahoo.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://fa8f8911-2e9b-494e-9a8d-f80239ee2214@144.31.38.207:27805?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=yahooapis.com&pbk=v0qz2dJb5tmR8eeRTMJJ3g5m1wwUyhutkaOMNFLnAns&sid=02 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
@@ -198,6 +195,8 @@ vless://f9f102d0-896b-48a1-cd23-2ff56a85cee7@webshecan.webredirect.org:2087/?typ
 vless://f9f0d481-684f-4eff-a26c-bb7f9a750140@159.65.19.31:56330?mode=gun&security=none&encryption=none&type=grpc #🇬🇧 [ Configs by DukeMehdi ] VL-GB
 vless://f9f0d481-684f-4eff-a26c-bb7f9a750140@159.65.19.31:56330/?type=grpc&encryption=none #🇬🇧 [ Configs by DukeMehdi ] VL-GB
 vless://f9eaeca8-1893-41cb-bfeb-14a252bd2ea0@filmnet.filimnet.com:80?mode=packet-up&path=/cdn/assets?v=12&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://f9e651bc-690f-4b29-9871-43ac06ffcde0@91.227.33.114:8880?path=/batman&security=none&encryption=none&type=ws #🇦🇹 [ Configs by DukeMehdi ] VL-AT
+vless://f9e651bc-690f-4b29-9871-43ac06ffcde0@91.227.33.114:8880?path=%2Fbatman&security=none&encryption=none&type=ws #🇦🇹 [ Configs by DukeMehdi ] VL-AT
 vless://f9e6127c-c09f-4f04-b90b-2139a0ae8171@172.64.145.38:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fb11oz3xm3yrms2v4saauygi41xft5ezs4qb2y2rk2fsp2coky.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=fb11oz3xm3yrms2v4saauygi41xft5ezs4qb2y2rk2fsp2coky.zjde5.de5.net #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f9e6127c-c09f-4f04-b90b-2139a0ae8171@172.64.145.38:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=fb11oz3xm3yrms2v4saauygi41xft5ezs4qb2y2rk2fsp2coky.zjde5.de5.net&fp=chrome&type=ws&sni=fb11oz3xm3yrms2v4saauygi41xft5ezs4qb2y2rk2fsp2coky.zjde5.de5.net #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f9e5a31e-a5c2-48e0-a5e9-01461464406d@209.38.222.192:8443?path=%2FTelegram-%40FNET00&security=none&encryption=none&host=zula.ir&type=ws #🇩🇪 [ Configs by DukeMehdi ] VL-DE
@@ -502,3 +501,4 @@ vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80?encryption=none&hos
 vless://f929cc78-e2a1-4ce3-8051-3e9538405144@104.17.15.87:80/?type=ws&encryption=none&flow=&host=germany.xydcqd.workers.dev #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f927b65c-854e-44a1-8699-354d74262fbd@c.cjclub.ir:17400?path=%2F&security=none&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.189.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws #🇸🇮 [ Configs by DukeMehdi ] VL-SI
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@74.49.214.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=none&encryption=none&host=s5.868001.xyz&type=ws #🇨🇦 [ Configs by DukeMehdi ] VL-CA
