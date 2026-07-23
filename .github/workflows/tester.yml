@@ -38,19 +38,35 @@ jobs:
           cd Files/tester
           timeout 12m python headless_runner.py || echo "Finished with timeout or completed"
 
+      - name: Process Output and Move to tested/
+        run: |
+          # ساخت پوشه tested در صفحه اصلی پروژه
+          mkdir -p tested
+          
+          # بررسی وجود فایل خروجی و جابجایی آن به پوشه مورد نظر با نام test.txt
+          if [ -f Files/tester/Test.txt ]; then
+            mv Files/tester/Test.txt tested/test.txt
+          elif [ -f Files/tester/test.txt ]; then
+            mv Files/tester/test.txt tested/test.txt
+          fi
+          
+          # در صورت وجود فایل working.txt، آن را نیز منتقل می‌کند
+          if [ -f Files/tester/working.txt ]; then
+            mv Files/tester/working.txt tested/working.txt
+          fi
+
       - name: Commit & Push to Main Repo
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
+          # اضافه کردن فایل‌های جدید به گیت
           git add tested/test.txt 2>/dev/null || true
           git add tested/working.txt 2>/dev/null || true
           
+          # بررسی اینکه آیا تغییری در پوشه tested ایجاد شده است یا خیر
           if git diff --cached --name-only | grep -q "tested/"; then
-            git commit -m "Auto Update: Tested configs $(date -u)"
-            
-            git pull --rebase origin main
-            
+            git commit -m "✅:Tested config ⛓️‍💥 $(date -u)"
             git push origin HEAD:main
             echo "✅ tested/test.txt pushed successfully to main repository"
           else
