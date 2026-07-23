@@ -38,20 +38,6 @@ jobs:
           cd Files/tester
           timeout 12m python headless_runner.py || echo "Finished with timeout or completed"
 
-      - name: Process Output and Move to tested/
-        run: |
-          mkdir -p tested
-          
-          if [ -f Files/tester/Test.txt ]; then
-            mv Files/tester/Test.txt tested/test.txt
-          elif [ -f Files/tester/test.txt ]; then
-            mv Files/tester/test.txt tested/test.txt
-          fi
-          
-          if [ -f Files/tester/working.txt ]; then
-            mv Files/tester/working.txt tested/working.txt
-          fi
-
       - name: Commit & Push to Main Repo
         run: |
           git config user.name "github-actions[bot]"
@@ -61,7 +47,10 @@ jobs:
           git add tested/working.txt 2>/dev/null || true
           
           if git diff --cached --name-only | grep -q "tested/"; then
-            git commit -m "✅: Tested configs⛓️‍💥 $(date -u)"
+            git commit -m "Auto Update: Tested configs $(date -u)"
+            
+            git pull --rebase origin main
+            
             git push origin HEAD:main
             echo "✅ tested/test.txt pushed successfully to main repository"
           else
