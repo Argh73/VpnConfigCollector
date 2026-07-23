@@ -34,6 +34,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+      
       - name: Pull latest changes
         run: |
           echo "Pulling latest changes from origin main..."
@@ -47,6 +48,7 @@ jobs:
             }; 
           }
           echo "Branch is up-to-date with origin/main"
+
       - name: Set up Go
         uses: actions/setup-go@v6
         with:
@@ -60,6 +62,7 @@ jobs:
           echo "Root TXT: $(ls -la *.txt 2>/dev/null || echo 'None')"
           echo "Files/ TXT: $(ls -la Files/*.txt 2>/dev/null || echo 'None')"
           echo "Directories: $(ls -la | grep '^d' | head -5)"
+
       - name: Build and run Go aggregator
         run: |
           echo "Building in Files/, running in ROOT..."
@@ -73,9 +76,10 @@ jobs:
           ./aggregator || { echo "Aggregator failed"; exit 1; }
           end_time=$(date +%s)
           processing_time=$((end_time - start_time))
-          echo "Aggregator done in $processing_times!"
+          echo "Aggregator done in $processing_time s!"
           echo "PROCESSING_TIME=$processing_time" >> $GITHUB_ENV
           rm -f aggregator
+
       - name: Debug - Files after aggregator + Move if in Files/
         run: |
           echo "=== AFTER AGGREGATOR ==="
@@ -91,6 +95,66 @@ jobs:
           fi
           
           echo "Final root TXT: $(ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'CRITICAL: Still missing! Check aggregator code')"
+
+      # ================= مرحله جدید برای بهینه‌سازی و حذف تکراری‌ها =================
+      - name: Optimize and Deduplicate Configs
+        run: |
+          echo "=== STARTING OPTIMIZATION ==="
+          
+          # تعریف تابعی برای حذف تکراری‌ها، خطوط خالی، کامنت‌ها و اعمال سقف تعداد خطوط
+          optimize_file() {
+            local file="$1"
+            local max_lines="$2"
+            
+            if [ -f "$file" ]; then
+              initial_count=$(wc -l < "$file" 2>/dev/null || echo 0)
+              echo "Processing $file (Initial lines: $initial_count)..."
+              
+              # ۱. حذف کامنت‌ها، خطوط خالی و داده‌های تکراری با حفظ ترتیب اصلی با استفاده از awk
+              grep -v '^\s*$' "$file" | grep -v '^#' | awk '!visited[$0]++' > temp_opt.txt
+              
+              # ۲. محدود کردن تعداد کانفیگ‌ها به مقدار مجاز تعریف شده
+              head -n "$max_lines" temp_opt.txt > "$file"
+              rm -f temp_opt.txt
+              
+              final_count=$(wc -l < "$file" 2>/dev/null || echo 0)
+              echo "Optimized $file: Final lines: $final_count"
+              
+              # ۳. به روز رسانی فایل Base64 معادل آن در صورت وجود پوشه و فایل مربوطه
+              if [ -d "Base64" ]; then
+                filename=$(basename "$file")
+                if [ -f "Base64/$filename" ]; then
+                  echo "Updating base64 for Base64/$filename"
+                  base64 -w 0 "$file" > "Base64/$filename"
+                elif [ -f "Base64/${filename%.txt}" ]; then
+                  echo "Updating base64 for Base64/${filename%.txt}"
+                  base64 -w 0 "$file" > "Base64/${filename%.txt}"
+                fi
+              fi
+            fi
+          }
+
+          # بهینه‌سازی فایل اصلی و فایل‌های Sub پیش‌فرض روت (محدود به ۱۵,۰۰۰ کانفیگ جهت کنترل حجم زیر ۱.۵ مگابایت)
+          optimize_file "All_Configs_Sub.txt" 15000
+          for sub in Sub*.txt; do
+            [ -f "$sub" ] && optimize_file "$sub" 15000
+          done
+
+          # بهینه‌سازی فایل‌های تفکیک شده بر اساس پروتکل (محدود به ۵,۰۰۰ کانفیگ برای هر پروتکل)
+          if [ -d "Splitted-By-Protocol" ]; then
+            for f in Splitted-By-Protocol/*.txt; do
+              [ -f "$f" ] && optimize_file "$f" 5000
+            done
+          fi
+
+          # بهینه‌سازی فایل‌های تفکیک شده بر اساس کشور (محدود به ۵,۰۰۰ کانفیگ برای هر کشور)
+          if [ -d "Splitted-By-Country" ]; then
+            for f in Splitted-By-Country/*.txt; do
+              [ -f "$f" ] && optimize_file "$f" 5000
+            done
+          fi
+      # =========================================================================
+
       - name: Verify output files
         run: |
           echo "Verifying in root..."
@@ -117,6 +181,7 @@ jobs:
             echo "\nCountry stats:"
             for f in Splitted-By-Country/*.txt; do [ -f "$f" ] && echo "$(basename $f): $(grep -v '^#' "$f" | wc -l) configs"; done
           fi
+
       - name: Handle large files and prepare for commit
         run: |
           echo "Handling large files in root..."
@@ -129,28 +194,28 @@ jobs:
               echo "File $file: ${size_mb}MB"
               if [ $size_mb -gt 85 ]; then
                 echo "Splitting $file..."
-                # ۱. اصلاح روش تقسیم فایل با افزودن پسوند .txt
                 split -b 85M --additional-suffix=.txt "$file" "${prefix}_part_"
                 rm "$file"
               fi
             fi
           }
-          # Explicit for Sub and All
           for sub in Sub*.txt; do [ -f "$sub" ] && handle_large_file "$sub" "${sub%.txt}"; done
           [ -f "All_Configs_Sub.txt" ] && handle_large_file "All_Configs_Sub.txt" "All_Configs_Sub"
-          # Folders
           find Base64 Splitted-By-Protocol Splitted-By-Country -name "*.txt" -type f | while read f; do
             prefix=$(basename "$f" .txt)
             handle_large_file "$f" "$f"
           done
+
       - name: Clean up temporary files
         run: |
           rm -f All_Configs_Sorted.txt All_Configs_base64_Sub.txt
+
       - name: Debug - Before commit
         run: |
           echo "=== GIT STATUS ==="
           git status --porcelain | head -15 || echo "No changes"
           echo "Sub/All for commit: $(ls Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'None!')"
+
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v10
         with:
@@ -158,7 +223,6 @@ jobs:
           author_email: "github-actions[bot]@users.noreply.github.com"
           message: "🏴‍☠️ Fresh Update "
           add: "."
-          # ۲. دستور دریافت آخرین تغییرات و Rebase خودکار پیش از Push
           pull: "--rebase --autostash"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
