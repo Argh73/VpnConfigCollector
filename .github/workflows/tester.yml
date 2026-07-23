@@ -13,10 +13,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
 
@@ -54,16 +54,4 @@ jobs:
 
       - name: Commit & Push to Main Repo
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          git add tested/test.txt 2>/dev/null || true
-          git add tested/working.txt 2>/dev/null || true
-          
-          if git diff --cached --name-only | grep -q "tested/"; then
-            git commit -m "✅:Tested config ⛓️‍💥 $(date -u)"
-            git push origin HEAD:main
-            echo "✅ tested/test.txt pushed successfully to main repository"
-          else
-            echo "No changes in tested/ to commit"
-          fi
+          git config user.name "github-actions
