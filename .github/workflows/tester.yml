@@ -61,7 +61,7 @@ jobs:
           git add tested/working.txt 2>/dev/null || true
           
           if git diff --cached --name-only | grep -q "tested/"; then
-            git commit -m "Auto Update: Tested configs $(date -u)"
+            git commit -m "✅: Tested configs⛓️‍💥 $(date -u)"
             git push origin HEAD:main
             echo "✅ tested/test.txt pushed successfully to main repository"
           else
