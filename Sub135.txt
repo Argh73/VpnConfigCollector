@@ -1,6 +1,3 @@
-vless://b16fe24d-42ab-4d3a-8b0b-ef421f1cce53@49.12.66.102:1373?security=&encryption=none&host=www.icloud.com&headerType=http&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
-vless://b16fe24d-42ab-4d3a-8b0b-ef421f1cce53@49.12.66.102:1373?encryption=none&type=tcp&headerType=http&host=www.icloud.com #🇩🇪 [ Configs by DukeMehdi ] VL-DE
-vless://b16fe24d-42ab-4d3a-8b0b-ef421f1cce53@49.12.66.102:1373?encryption=none&security=none&type=tcp&headerType=http&host=www.icloud.com #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://b16fe24d-42ab-4d3a-8b0b-ef421f1cce53@49.12.66.102:1373?encryption=none&headerType=http&host=www.icloud.com&security=none&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://b16c6a00-a5a8-40af-bfb1-e4b0f60b9aca@tnl38.vipradvin.ir:8099?encryption=none&security=none&type=tcp&headerType=http #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://b16c3115-80b4-4d50-f443-643b8503bfa7@rozegar.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=new.ddrasoo.site #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -285,7 +282,6 @@ vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.21.19.215:443/?type=ws&encrypti
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@104.18.203.232:443?encryption=none&security=tls&sni=bypass-filter.vikzrcqt.workers.dev&type=ws&host=bypass-filter.vikzrcqt.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D2048 #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://b0e5da32-8bb4-4e65-94f1-99ddeefeaa5e@ium3uojslvj2shb1yh8zu7etc34vmyfb.z8f5hmu0ue.workers.dev:443?security=tls&encryption=none&fp=chrome&type=ws&sni=PmlMyazd.pagEs.Dev #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://b0e5da32-8bb4-4e65-94f1-99ddeefeaa5e@ium3uojslvj2shb1yh8zu7etc34vmyfb.z8f5hmu0ue.workers.dev:443?path=%2FXqtZ2JB0WH2bmNOL%3Fed&security=tls&encryption=none&host=PmlMyazd.pagEs.Dev&fp=chrome&type=ws&sni=PmlMyazd.pagEs.Dev #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://b0e45fec-784e-48a6-a927-500c0278a9b1@91.107.134.230:11348?security=none&type=tcp&host=speedtest.net,fast.com&headerType=http #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://b0e44d61-bbf1-4054-8e24-df24760a34c0@151.101.3.8:80?path=%2F&security=none&encryption=none&host=befreewithus.com&type=ws #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://b0e1b204-31b5-40df-b800-169ada16fdb9@sibilgg.opik.net:8080?security=none&encryption=none&headerType=none&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://b0e1b204-31b5-40df-b800-169ada16fdb9@sibilgg.opik.net:8080?security=&encryption=none&headerType=none&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -498,3 +494,7 @@ vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?sni=cfoo-146.pag
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?security=tls&type=ws&path=/QiangLieTuiJian?ed=2560&host=cfoo-146.pages.dev&packetEncoding=xudp&sni=cfoo-146.pages.dev&fp=chrome&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?security=tls&type=ws&path=%2FQiangLieTuiJian%3Fed%3D2560&host=cfoo-146.pages.dev&packetEncoding=xudp&sni=cfoo-146.pages.dev&fp=chrome&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=/QiangLieTuiJian?ed=2560 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443?encryption=none&security=tls&sni=cfoo-146.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cfoo-146.pages.dev&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf6.466688.xyz:443/?type=ws&encryption=none&flow=&host=cfoo-146.pages.dev&path=%2FQiangLieTuiJian%3Fed%3D2560fp%3Dchrome&security=tls&sni=cfoo-146.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf5.466688.xyz:443?security=tls&type=ws&path=/QiangLieTuiJian?ed=2560&host=cfoo-146.pages.dev&packetEncoding=xudp&sni=cfoo-146.pages.dev&fp=chrome&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://b08562b0-dbc0-47d1-860d-9435133b25c9@cf5.466688.xyz:443?security=tls&type=ws&path=%2FQiangLieTuiJian%3Fed%3D2560&host=cfoo-146.pages.dev&packetEncoding=xudp&sni=cfoo-146.pages.dev&fp=chrome&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
