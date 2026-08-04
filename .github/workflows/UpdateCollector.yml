@@ -224,7 +224,7 @@ jobs:
         continue-on-error: true
 
       - name: Commit and push changes
-        uses: EndBug/add-and-commit@v12
+        uses: EndBug/add-and-commit@v10
         with:
           author_name: "GitHub Actions"
           author_email: "github-actions[bot]@users.noreply.github.com"
