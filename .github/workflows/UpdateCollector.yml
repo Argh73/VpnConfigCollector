@@ -1,61 +1,25 @@
 name: Update Collector
-permissions:
-  contents: write
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
   schedule:
     - cron: "*/43 * * * *"
   workflow_dispatch:
 
-concurrency:
-  group: update-collector
-  cancel-in-progress: false  
-
-env:
-  ACTIONS_STEP_DEBUG: true
+permissions:
+  contents: write
 
 jobs:
   update-configs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-    continue-on-error: true
 
     steps:
-      - name: Checkout code (sparse with all txt)
-        uses: actions/checkout@v6
+      - name: Checkout repository
+        uses: actions/checkout@v5
         with:
           fetch-depth: 1
-          sparse-checkout: |
-            Files/
-            Splitted-By-Protocol/
-            Splitted-By-Country/
-            Base64/
-            *.txt
-            aggregator
-          sparse-checkout-cone-mode: false
-
-      - name: Set up Git
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-      
-      - name: Pull latest changes
-        run: |
-          echo "Pulling latest changes from origin main..."
-          git fetch origin main
-          git rebase origin/main || { 
-            echo "Rebase failed, attempting merge..."; 
-            git rebase --abort || true
-            git merge origin/main || { 
-              echo "Merge failed, resetting to origin/main..."; 
-              git reset --hard origin/main; 
-            }; 
-          }
-          echo "Branch is up-to-date with origin/main"
-        continue-on-error: true
 
       - name: Set up Go
         uses: actions/setup-go@v6
@@ -64,179 +28,40 @@ jobs:
           cache: true
           cache-dependency-path: Files/go.mod
 
-      - name: Debug - Files before aggregator
+      - name: Install dependencies
         run: |
-          echo "=== BEFORE AGGREGATOR ==="
-          echo "Root TXT: $(ls -la *.txt 2>/dev/null || echo 'None')"
-          echo "Files/ TXT: $(ls -la Files/*.txt 2>/dev/null || echo 'None')"
-          echo "Directories: $(ls -la | grep '^d' | head -5)"
-
-      - name: Build and run Go aggregator
-        id: aggregator
-        run: |
-          echo "Building in Files/, running in ROOT..."
           cd Files
           go mod tidy
+
+      - name: Build and run Go aggregator
+        run: |
+          cd Files
           go build -ldflags="-s -w" -o ../aggregator *.go
-          cd ..  
-          pwd  
-          echo "Running aggregator in $(pwd)..."
-          start_time=$(date +%s)
-          ./aggregator || { echo "Aggregator failed but continuing..."; exit 0; }
-          end_time=$(date +%s)
-          processing_time=$((end_time - start_time))
-          echo "Aggregator done in $processing_time s!"
-          echo "PROCESSING_TIME=$processing_time" >> $GITHUB_ENV
+          cd ..
+          ./aggregator
           rm -f aggregator
-        continue-on-error: true
-
-      - name: Debug - Files after aggregator + Move if in Files/
-        run: |
-          echo "=== AFTER AGGREGATOR ==="
-          echo "Root TXT: $(ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'None in root!')"
-          echo "All root TXT: $(ls -la *.txt 2>/dev/null || echo 'No TXT in root')"
-          echo "Files/ TXT: $(ls -la Files/Sub*.txt Files/All_Configs_Sub.txt 2>/dev/null || echo 'None in Files/')"
-          
-          if ls Files/Sub*.txt 1> /dev/null 2>&1 || [ -f "Files/All_Configs_Sub.txt" ]; then
-            echo "Moving Sub/All from Files/ to root..."
-            mv Files/Sub*.txt . 2>/dev/null || true
-            mv Files/All_Configs_Sub.txt . 2>/dev/null || true
-            echo "Moved! Now root TXT: $(ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'Still none')"
-          fi
-          
-          echo "Final root TXT: $(ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'CRITICAL: Still missing! Check aggregator code')"
-        continue-on-error: true
-
-      - name: Optimize and Deduplicate Configs
-        run: |
-          echo "=== STARTING OPTIMIZATION ==="
-          
-          optimize_file() {
-            local file="$1"
-            local max_lines="$2"
-            
-            if [ -f "$file" ]; then
-              initial_count=$(wc -l < "$file" 2>/dev/null || echo 0)
-              echo "Processing $file (Initial lines: $initial_count)..."
-              
-              grep -v '^\s*$' "$file" | grep -v '^#' | awk '!visited[$0]++' > temp_opt.txt
-              
-              head -n "$max_lines" temp_opt.txt > "$file"
-              rm -f temp_opt.txt
-              
-              final_count=$(wc -l < "$file" 2>/dev/null || echo 0)
-              echo "Optimized $file: Final lines: $final_count"
-              
-              if [ -d "Base64" ]; then
-                filename=$(basename "$file")
-                if [ -f "Base64/$filename" ]; then
-                  echo "Updating base64 for Base64/$filename"
-                  base64 -w 0 "$file" > "Base64/$filename"
-                elif [ -f "Base64/${filename%.txt}" ]; then
-                  echo "Updating base64 for Base64/${filename%.txt}"
-                  base64 -w 0 "$file" > "Base64/${filename%.txt}"
-                fi
-              fi
-            fi
-          }
-
-          optimize_file "All_Configs_Sub.txt" 15000
-          for sub in Sub*.txt; do
-            [ -f "$sub" ] && optimize_file "$sub" 15000
-          done
-
-          if [ -d "Splitted-By-Protocol" ]; then
-            for f in Splitted-By-Protocol/*.txt; do
-              [ -f "$f" ] && optimize_file "$f" 5000
-            done
-          fi
-
-          if [ -d "Splitted-By-Country" ]; then
-            for f in Splitted-By-Country/*.txt; do
-              [ -f "$f" ] && optimize_file "$f" 5000
-            done
-          fi
-        continue-on-error: true
 
       - name: Verify output files
         run: |
-          echo "Verifying in root..."
-          echo "Sub files:"
-          ls -la Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo "CRITICAL: No Sub/All in root - aggregator issue?"
-          echo "\nProtocol:"
-          ls -la Splitted-By-Protocol/ 2>/dev/null || echo "No protocol dir"
-          echo "\nCountry:"
-          ls -la Splitted-By-Country/ 2>/dev/null || echo "No country dir"
-          echo "\nBase64:"
-          ls -la Base64/ 2>/dev/null || echo "No base64 dir"
-          if [ -f "All_Configs_Sub.txt" ]; then
-            count=$(grep -v '^#' "All_Configs_Sub.txt" | wc -l)
-            size=$(du -h "All_Configs_Sub.txt" | cut -f1)
-            echo "All_Configs_Sub: $count configs ($size)"
-          else
-            echo "ERROR: All_Configs_Sub.txt MISSING!"
-          fi
-          if [ -d "Splitted-By-Protocol" ]; then
-            echo "\nProtocol stats:"
-            for f in Splitted-By-Protocol/*.txt; do [ -f "$f" ] && echo "$(basename $f): $(grep -v '^#' "$f" | wc -l) configs"; done
-          fi
-          if [ -d "Splitted-By-Country" ]; then
-            echo "\nCountry stats:"
-            for f in Splitted-By-Country/*.txt; do [ -f "$f" ] && echo "$(basename $f): $(grep -v '^#' "$f" | wc -l) configs"; done
-          fi
-        continue-on-error: true
-
-      - name: Handle large files and prepare for commit
-        run: |
-          echo "Handling large files in root..."
-          handle_large_file() {
-            local file="$1"
-            local prefix="$2"
-            if [ -f "$file" ]; then
-              size=$(stat -c%s "$file" 2>/dev/null || echo 0)
-              size_mb=$((size / 1024 / 1024))
-              echo "File $file: ${size_mb}MB"
-              if [ $size_mb -gt 85 ]; then
-                echo "Splitting $file..."
-                split -b 85M --additional-suffix=.txt "$file" "${prefix}_part_"
-                rm "$file"
-              fi
-            fi
-          }
-          for sub in Sub*.txt; do [ -f "$sub" ] && handle_large_file "$sub" "${sub%.txt}"; done
-          [ -f "All_Configs_Sub.txt" ] && handle_large_file "All_Configs_Sub.txt" "All_Configs_Sub"
-          find Base64 Splitted-By-Protocol Splitted-By-Country -name "*.txt" -type f 2>/dev/null | while read f; do
-            prefix=$(basename "$f" .txt)
-            handle_large_file "$f" "$f"
-          done
-        continue-on-error: true
-
-      - name: Clean up temporary files
-        run: |
-          rm -f All_Configs_Sorted.txt All_Configs_base64_Sub.txt
-        continue-on-error: true
-
-      - name: Debug - Before commit
-        run: |
-          echo "=== GIT STATUS ==="
-          git status --porcelain | head -15 || echo "No changes"
-          echo "Sub/All for commit: $(ls Sub*.txt All_Configs_Sub.txt 2>/dev/null || echo 'None!')"
-        continue-on-error: true
+          echo "=== Root files ==="
+          ls -la *.txt 2>/dev/null || echo "No root txt"
+          echo "=== Base64 ==="
+          ls -la Base64/ 2>/dev/null || true
+          echo "=== Protocol ==="
+          ls -la Splitted-By-Protocol/ 2>/dev/null || true
+          echo "=== Country ==="
+          ls -la Splitted-By-Country/ 2>/dev/null || true
 
       - name: Commit and push changes
-        uses: EndBug/add-and-commit@v10
-        with:
-          author_name: "GitHub Actions"
-          author_email: "github-actions[bot]@users.noreply.github.com"
-          message: "🏴‍☠️ Fresh Update "
-          add: "."
-          pull: "--rebase --autostash"
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add -A
+          
+          # اگر تغییری نبود، commit نمی‌کند ولی workflow موفق می‌ماند (سبز)
+          git commit -m "🏴‍☠️ Fresh Update $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        continue-on-error: true
-
-      - name: Force Success Status (Green Badge)
-        if: always()
-        run: |
-          echo "✅ Workflow finished successfully (forced green status)"
-          exit 0
