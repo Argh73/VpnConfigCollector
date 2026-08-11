@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://4d94fa33-9462-48b4-b7de-8a2863560d19@62.60.233.41:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=my.oversecure.pro&fp=chrome&security=reality&pbk=L9LQ_8Ymo1o7QRPvWXsd4VY_i_OZ-0ZIw_mU16zaPEY&sid=a20d3ed244c76426#4Kian-554f930882
+vless://4d94fa33-9462-48b4-b7de-8a2863560d19@51.250.99.49:4249/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=-P63w9lGjUCrsgtWlR7qvHGpy93mJSspIvwfXSuVixA&sid=a20d3ed244c76426#4FreeIran-445e95fa30
+vless://4d94fa33-9462-48b4-b7de-8a2863560d19@51.250.75.212:8443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=ads.x5.ru&fp=chrome&security=reality&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0#4FreeIran-fa25d26afb
+vless://4d94fa33-9462-48b4-b7de-8a2863560d19@51.250.39.121:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#4Jadi-812734f56f
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@51.250.27.60:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sso.passport.yandex.ru&fp=chrome&security=reality&pbk=THqHSc7VayG7tIzmF-YrYXGhnCmsyY7z4ZHU338z3lo&sid=a20d3ed244c76426#4Mohsen-2e0bae1d4f
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@51.250.27.132:8443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=ads.x5.ru&fp=chrome&security=reality&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=6b2f4e6ac9b1d2f0#4FreeIran-e15e4c5e93
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@51.250.27.132:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&sid=a20d3ed244c76426#4Kian-d45edaf2bd
@@ -498,7 +502,3 @@ vless://44289654-8618-403b-a573-a79a849100ce@rose5.lhpuniversity.online:54338?se
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=api.avito.ru#4FreeIran-0f812b7a10
 vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=pl.healthy-connected.com&sid=30e570274c0c72cc#4Nika-0e7e34bb8e
 vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@pl.healthy-connected.com:443?security=reality&encryption=none&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.healthy-connected.com&sid=30e570274c0c72cc#4Mohsen-42f5500da3
-vless://43e00e4c-2316-4dc9-8262-cef31886dc56@172.67.178.12:443?security=tls&type=ws&sni=marly.toptechnonews.com&path=/nimws&encryption=none&headerType=none#4Nika-d201188796
-vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@[2a13:29c0:fc75:90b0:df84:b8d4:d3aa:1]:443?encryption=none&type=xhttp&headerType=&fp=random&host=s1246.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u711540us1246.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#4Kian-1c79298a14
-vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@[2a13:29c0:fc75:90b0:df84:b8d4:d3aa:1]:443?encryption=none&type=xhttp&headerType=&fp=random&host=s1245.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u711540us1245.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#4Sarina-38990a6850
-vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@[2a13:29c0:fc75:90b0:df84:b8d4:d3aa:1]:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=s1246.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u711540us1246.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#4Sarina-635adf4065
