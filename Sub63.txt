@@ -2,6 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?type=tcp&encryption=none&security=none #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?security=none&headerType=none&type=tcp&encryption=none #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?security=none&encryption=none&headerType=none&type=tcp #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?encryption=none&security=none&type=tcp&headerType=none #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.143.189.226:27775?security=&encryption=none&headerType=&type=tcp #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.140.234.91:27775?security=&encryption=none&headerType=&type=tcp #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@15.223.39.80:27775?security=&encryption=none&headerType=&type=tcp #🇨🇦 [ Configs by DukeMehdi ] VL-CA
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@13.59.152.140:27775?type=tcp&encryption=none&security=none #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://309c4bd0-7430-b8aa-2238-1075e9e29370@13.59.152.140:27775?encryption=none&security=none&type=tcp&headerType=none #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://3097ff27-3950-41e0-b330-81b868a25243@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -495,10 +502,3 @@ vless://2c2ae6be-3be4-4b7d-a530-90865e8aafd7@Hi.somo44.sbs:8880?path=/bhvcgvvc&s
 vless://2c26ed61-be8a-45d1-978c-3774e062ac2b@blog.allcaline.ir:6690?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=QZWXGRyvifcdtbfxZ2YxNRDqkfvaUeOC0uhfCs_ITEI&sid=a334d0f1d82608de #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://2c26ed61-be8a-45d1-978c-3774e062ac2b@206_207.iranacar.ir:6690?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=firefox&pbk=QZWXGRyvifcdtbfxZ2YxNRDqkfvaUeOC0uhfCs_ITEI&sid=a334d0f1d82608de #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn5.hirbilon.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mn5.hirbilon.net&fp=chrome&security=reality&pbk=fvj5mNVpyGagjF-7ebmJQcAqs3zSAzmxjjZeHPlY6lw&sid=05f6a5418c2a6865 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn2.hirbilon.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mn2.hirbilon.net&fp=chrome&security=reality&pbk=tXQHIQhIqCHpqpniHNVdiqb7jixaZzq08-KHEAGWB3M&sid=05f6a5418c2a6865 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn1.hirbilon.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mn1.hirbilon.net&fp=chrome&security=reality&pbk=pakeMwqKbfmqo9jOwgIJTCMIn2MYGKk95TpcYLDyEEI&sid=05f6a5418c2a6865 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn06.hirbilon.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mn06.hirbilon.net&fp=chrome&security=reality&pbk=HOrXNkH_IfWvuuLqci20ufZgMSIagpxK6oQwud9-YAk&sid=05f6a5418c2a6865 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn05.hirbilon.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mn05.hirbilon.net&fp=chrome&security=reality&pbk=B08PYFn9V_dsy4EE4bSqjfilyJy8RYLnqoRGsWYRdwU&sid=05f6a5418c2a6865 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn03.hirbilon.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mn03.hirbilon.net&fp=chrome&security=reality&pbk=sOihvb9lCHfYgNJ5FlE_7EHChjI27qnKfPF7ULdbFnA&sid=05f6a5418c2a6865 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn02.hirbilon.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mn02.hirbilon.net&fp=chrome&security=reality&pbk=3LyOfYxF1pSJQDM1rhIm6xbiSC897TzOWw79vXpUPGI&sid=05f6a5418c2a6865 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://2c20cd0b-16a9-4dc4-9a13-16f47822c9b0@mn01.hirbilon.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mn01.hirbilon.net&fp=chrome&security=reality&pbk=RSQ8q5l-Dv1rCN02BfeE_ZH2SIZr80hBTvZfGTZAO3M&sid=05f6a5418c2a6865 #🌐 [ Configs by DukeMehdi ] VL-XX

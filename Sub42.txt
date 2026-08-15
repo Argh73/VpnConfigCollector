@@ -2,6 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://89537879-e550-45e9-ab1c-5e1a11c168f1@201.24.118.145:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@194.26.229.220:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@194.26.229.209:2200?path=%2Fv1&sni=rzd.ru&type=ws #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@194.26.229.209:2200?encryption=none&type=ws&path=%2Fv1&security=none #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@194.26.229.209:2200?encryption=none&path=/v1&security=none&type=ws #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@194.26.229.209:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1 #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@185.247.16.4:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@185.247.16.4:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80?headerType=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V21.SiMansaNaT.Ir.&path=&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://893b9f79-d947-441b-8ce5-ea6a72ff85b0@SpeeDTeST.OrG:80?headerType=&host=WwW.SpeedTest.Net.WhiteBer.InsisTom.D6625996.V20.SiMansaNaT.Ir.&path=&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -495,10 +502,3 @@ vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=tcp #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@37.18.14.121:2027?type=raw&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&flow=xtls-rprx-vision&headerType=none #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@37.18.14.121:2027?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@37.18.14.121:2027?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@37.18.14.121:2027?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@37.18.14.121:2027/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@37.18.14.121:2027/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@37.18.14.121:2027/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=android&security=reality&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@217.19.122.234:2027?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@185.141.227.230:2027?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&type=tcp&headerType=none #🇷🇺 [ Configs by DukeMehdi ] VL-RU

@@ -2,6 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8449/?type=ws&encryption=none&flow=&path=%2Fapi%2Fv6%2Fconnect&security=tls&sni=gateway-v1.bosx.net&fp=ios #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8445?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv2%2Fconnect&alpn=http%2F1.1&fp=chrome #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8445?encryption=none&fp=edge&path=%2Fapi%2Fv2%2Fconnect&security=tls&sni=gateway-v1.bosx.net&type=ws #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8444?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fv1%2Fconnect&alpn=http%2F1.1&fp=android #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8443?type=ws&security=tls&encryption=none&sni=gateway-v1.bosx.net&path=%2Fapi%2Fconnect&alpn=http%2F1.1&fp=edge #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8443?encryption=none&fp=firefox&path=/api/connect&security=tls&sni=gateway-v1.bosx.net&type=ws #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://e83af88a-a884-48ba-b462-a1edccff15e7@66.90.93.74:8443/?type=ws&encryption=none&flow=&path=%2Fapi%2Fconnect&security=tls&sni=gateway-v1.bosx.net&fp=ios #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://e83af88a-a884-48ba-b462-a1edccff15e7@50.7.197.2:8443?type=ws&security=tls&path=/api/connect&sni=apkav-6.bosx.net&fp=chrome #🇬🇧 [ Configs by DukeMehdi ] VL-GB
 vless://e83af88a-a884-48ba-b462-a1edccff15e7@50.7.197.2:8443?path=/api/connect&security=tls&alpn=http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=apkav-6.bosx.net #🇬🇧 [ Configs by DukeMehdi ] VL-GB
 vless://e83af88a-a884-48ba-b462-a1edccff15e7@50.7.197.2:8443?path=%2Fapi%2Fconnect&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=apkav-6.bosx.net #🇬🇧 [ Configs by DukeMehdi ] VL-GB
@@ -495,10 +502,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?securi
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&security=&encryption=none&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?encryption=none&security=none&sni=pqh29v4.vetmainconf.shop&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v2.waipdirect.shop:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v4.vetmainconf.shop:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX

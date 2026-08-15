@@ -2,6 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+trojan://Aimer@92.243.74.3:8443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
+trojan://Aimer@92.243.74.2:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1 #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
+trojan://Aimer@92.243.74.23:2096?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
+trojan://Aimer@92.243.74.23:2096?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
+trojan://Aimer@92.243.74.23:2096?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&path=/?ed=2560&Host=epgb.aimercc.dpdns.org #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
+trojan://Aimer@92.243.74.23:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560 #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
+trojan://Aimer@92.243.74.23:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560 #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
 trojan://Aimer@92.243.74.23:2096/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
 trojan://Aimer@92.243.74.239:8443?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&path=/?ed=2560&Host=epgb.aimercc.dpdns.org #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
 trojan://Aimer@92.243.74.239:8443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560 #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
@@ -495,10 +502,3 @@ trojan://Aimer@154.17.12.30:7000?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3
 trojan://Aimer@154.17.12.30:7000?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560 #🇺🇸 [ Configs by DukeMehdi ] TJ-US
 trojan://Aimer@154.17.10.113:12266?security=tls&sni=epgb.aimercc.dpdns.org&type=ws&path=/?ed=2560&Host=epgb.aimercc.dpdns.org #🇺🇸 [ Configs by DukeMehdi ] TJ-US
 trojan://Aimer@154.17.10.113:12266?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560 #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://Aimer@154.17.10.113:12266/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://Aimer@150.109.11.223:443/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
-trojan://Aimer@149.104.29.121:443/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://Aimer@148.135.15.148:443/?type=ws&host=epmo.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epmo.ambercc.filegear-sg.me #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://Aimer@141.11.203.168:443?type=ws&sni=epgc.aimercc.dpdns.org&path=/?ed=2560&host=epgc.aimercc.dpdns.org #🇫🇷 [ Configs by DukeMehdi ] TJ-FR
-trojan://Aimer@141.11.203.168:443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw #🇫🇷 [ Configs by DukeMehdi ] TJ-FR
-trojan://Aimer@141.11.203.168:443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560 #🇫🇷 [ Configs by DukeMehdi ] TJ-FR

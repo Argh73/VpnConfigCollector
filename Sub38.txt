@@ -2,6 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://99139dd2-d76a-48da-bbb9-4eb06140d6df@87.107.104.132:55095?encryption=none&security=none&type=tcp&headerType=none #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://99139dd2-d76a-48da-bbb9-4eb06140d6df@87.107.104.132:55094?encryption=none&security=none&type=tcp&headerType=none #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&path=%2F&host=zula.ir&headerType=http #🇫🇮 [ Configs by DukeMehdi ] VL-FI
+vless://990f5f4d-5568-4e0a-96bf-2d86270d8fbf@65.109.241.111:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http #🇫🇮 [ Configs by DukeMehdi ] VL-FI
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?encryption=none&host=de1-moryvpnbot.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=de1-moryvpnbot.pages.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://9900e8bb-d01b-42a6-ba16-17f958fa0b6c@172.67.203.136:2096/?type=ws&encryption=none&path=%2F2096%2F%40VRayyNGvpn&security=tls&sni=bEAt.MIRaclETaxbiTS.Top. #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://98fbc017-1988-4204-924b-4e5f00fb5935@107.23.153.160:41426?security=none&encryption=none&headerType=none&type=tcp #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@104.16.46.27:80?encryption=none&security=none&type=ws&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev&path=/?ed=2560 #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://98f9fb8e-ac0c-4a54-80ff-dcce095d9fbd@103.21.244.254:80?encryption=none&security=none&type=ws&host=cold-snowflake-4912-ppal03.rarenok889.workers.dev&path=/?ed=2560 #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -495,10 +502,3 @@ vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@au.musicwave.net:443?encryption=non
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@94.183.170.157:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xU6Zom5XxRAodkNx7DnApB8NxtMMg9esJhhXzb3N1SM&sid=825d392c67e4&sni=ee.hurricanew.com #🇪🇪 [ Configs by DukeMehdi ] VL-EE
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@67.159.17.223:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ukD87Vk-vZlpFizTh-zSjst2lEN39Cfyjd4mNiu2CS0&sid=825d392c67e4&sni=au.musicwave.net #🇦🇹 [ Configs by DukeMehdi ] VL-AT
 vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@207.2.123.28:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zb1esVBjrdlitl7Z_YkRi44kC0NXVvF5U17LAXW6fDQ&sid=825d392c67e4&sni=sa.ch-moltisanti.ru #🇸🇪 [ Configs by DukeMehdi ] VL-SE
-vless://94c2debf-0389-4f77-81ec-2aa2ee0473af@109.61.18.218:16070?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=zula.ir #🇦🇪 [ Configs by DukeMehdi ] VL-AE
-vless://94bcd9a9-33a9-40e4-a6fd-05e30db5b457@20.70.160.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=140jRwI3SEyJezoVv7iFt2VEZOfDVu7CmPblFi2Q6ik&sid=5c333a77 #🇦🇺 [ Configs by DukeMehdi ] VL-AU
-vless://94b1665f-67ae-4afa-aecc-8921a2ba8f81@172.66.46.246:443?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=tls&encryption=none&host=elena.elena.ddns-ip.net&fp=chrome&type=ws&sni=elena.elena.ddns-ip.net #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://94b1665f-67ae-4afa-aecc-8921a2ba8f81@172.66.46.246:443?path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=elena.elena.ddns-ip.net&amp;fp=qq&amp;type=ws&amp;sni=elena.elena.ddns-ip.net #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80/?type=ws&encryption=none&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=%2F%3Fed%3D2560 #🌐 [ Configs by DukeMehdi ] VL-XX

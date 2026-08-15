@@ -2,6 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd #🇯🇵 [ Configs by DukeMehdi ] VL-JP
+vless://5d10fc2f-9183-42d0-b2f0-48f5a225fd13@172.66.41.21:443/?type=ws&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&alpn=h3%2Ch2&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@5.129.241.247:4100?&type=ws&headerType=none&host=live.ok.ru&path=%2Fv1 #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=chrome #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:4100?encryption=none&type=ws&host=live.ok.ru&path=/v1&packetEncoding=xudp #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:2200?path=%2Fv1&security=&encryption=none&type=ws #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:2200?encryption=none&type=ws&host=rzd.ru&path=/v1&packetEncoding=xudp #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@31.177.82.106:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1 #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://5d03fa60-a414-47ff-b936-60e1cf2c81f7@www.speedtest.net:443?path=/&security=tls&encryption=none&host=dl1-de-cdn.easy-upload.org&type=ws&sni=dl1-de-cdn.easy-upload.org #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://5d02517f-63d5-3e9f-b467-1bcf4d4e25d3@[2a14:7584:4408::2]:443?encryption=none&type=tcp&headerType=&fp=firefox&host=8adcedd7s8746.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u695099u8adcedd7s8746.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1 #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -495,10 +502,3 @@ vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087/?type=ws&encryp
 vless://597e868b-6e42-4120-bcd9-32e193b950f9@104.18.160.63:443/?type=ws&encryption=none&host=fm3.pages.dev&security=tls&sni=fm3.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://597e868b-6e42-4120-bcd9-32e193b950f9@104.16.239.254:443/?type=ws&encryption=none&host=fm3.pages.dev&security=tls&sni=fm3.pages.dev #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://597e7d0b-a733-4706-b0a5-eb56ab3787a1@185.83.114.61:8441?security=none&encryption=none&type=ws #🇮🇷 [ Configs by DukeMehdi ] VL-IR
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?type=ws&security=none&encryption=none&path=%2Fv1&headerType=none #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?path=%2Fv1&security=none&encryption=none&host=rzd.ru&type=ws #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?encryption=none&path=%2Fv1&security=none&type=ws #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@72.56.247.70:2200?encryption=none&host=rzd.ru&path=%2Fv1&security=none&type=ws #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@201.24.120.68:4100?type=ws&security=none&path=/v1 #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@201.24.120.68:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@201.24.120.68:4100?encryption=none&type=ws&host=live.ok.ru&path=%2Fv1&security=none #🇷🇺 [ Configs by DukeMehdi ] VL-RU
