@@ -2,503 +2,503 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiMTUyLjY3LjguMjA1IiwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJ2MmdvIHwg8J+HrvCfh7MgSU4gfCBWTUVTUyB8IDM4Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwibmV0IjoicmF3IiwicG9ydCI6IjQ0MyIsInBzIjoidjJnbyB8IPCfh7Dwn4e3IEtSIHwgVk1FU1MgfCAzNyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI2Ny4yMjAuODUuNDYiLCJhaWQiOiIwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJyYXciLCJwb3J0IjoiMTgwMDAiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMzYiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6MCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoxODAwMCwicHMiOiJ2MmdvIHwg8J+HuvCfh7ggVVMgfCBWTUVTUyB8IDM1Iiwic2N5IjoiYWVzLTEyOC1nY20iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJhaWQiOiIwIiwiaG9zdCI6IjYxLjI0NS4xMS42MCIsImlkIjoiYTNlM2E3MTAtNzlmOC00YWUwLWI4M2MtNjA3YWFiNDBkMTk3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoidjJnbyB8IPCfh7Xwn4etIFBIIHwgVk1FU1MgfCAzNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI0NyIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSIsInBvcnQiOiI0NDg2NyIsInBzIjoidjJnbyB8IPCfh63wn4ewIEhLIHwgVk1FU1MgfCAzMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJISzciLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiOWRlMWJjOS1iYWE3LTQxYWMtODZmNy1jY2Q1OTY5NWNiMjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraSIsInBvcnQiOiIyMzAyNiIsInBzIjoidjJnbyB8IPCfh63wn4ewIEhLIHwgVk1FU1MgfCAzMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiJISzYiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoiMTY4LjEzOC40My43NSIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJ2MmdvIHwg8J+Hr/Cfh7UgSlAgfCBWTUVTUyB8IDMxIiwic25pIjoiMTY4LjEzOC40My43NSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI0Ny44My4xOTguMzgiLCJhaWQiOiIwIiwiaG9zdCI6Ind3YWZqNWxobDZiaThhdTkudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJ2MmdvIHwg8J+HrfCfh7AgSEsgfCBWTUVTUyB8IDMwIiwic2N5IjoiYXV0byIsInNuaSI6Ind3YWZqNWxobDZiaThhdTkudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IkhLMTAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImhvc3QiOiIxNzIuMTExLjE0Ni42NCIsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOjgwLCJwcyI6InYyZ28gfCDwn4ev8J+HtSBKUCB8IFZNRVNTIHwgMjkiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNDAuODMuNTEuMTYxIiwiYWlkIjoiMCIsImhvc3QiOiIxNDAuODMuNTEuMTYxIiwiaWQiOiI2NzMzYzM1Ny1iYTExLTRlOWYtZjAwZi03ZDg3ZjI3NzZmZjkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiMjU2ODYiLCJwcyI6InYyZ28gfCDwn4ev8J+HtSBKUCB8IFZNRVNTIHwgMjgiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIzOC4yNDYuMjI2LjI0MCIsImFpZCI6IjAiLCJpZCI6IjdkNGJkOTYxLTIzMGMtNGIzNC1hYjVkLTA1Y2YwZGZiNGVhNSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjUyMDgwIiwicHMiOiJ2MmdvIHwg8J+HuvCfh7ggVVMgfCBWTUVTUyB8IDI3Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIzOC45MS4xMDcuNDkiLCJhaWQiOiIwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMjYiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIzOC4xMTAuMS4yNDYiLCJhaWQiOiIwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJyYXciLCJwb3J0IjoiMTgwMDAiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMjUiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InJhdyIsInBvcnQiOiIxODAwMCIsInBzIjoidjJnbyB8IPCfh6jwn4emIENBIHwgVk1FU1MgfCAyNCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNzMuMjQ5LjIwOS4xNDYiLCJhaWQiOjAsImlkIjoiMzkzNWMyZGMtZGJiMC00M2Y3LWIzNjctZmU4OWFiZTg3ZmRmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjIwMDg2LCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMjMiLCJzY3kiOiJhdXRvIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNDIuMTMyLjE3OC45OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYXBqaGRnZ3l4LmNvbSIsImlkIjoiNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDEyNjA0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLzVmNzJmMTgwLWIyMWItNGI3YS04NDg0LTI0MDc1OTA5Njc4NSIsInBvcnQiOiI0NDMiLCJwcyI6InYyZ28gfCDwn4ez8J+HsSBOTCB8IFZNRVNTIHwgMjIiLCJzY3kiOiJhdXRvIiwic25pIjoiYXBqaGRnZ3l4LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiaWQiOiJiNjVhMmQ2OS01NjM0LTQyYTItZTRiZS01NGU4YTYxNzY5MDAiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNDQzIiwicHMiOiJ2MmdvIHwg8J+HuvCfh7ggVVMgfCBWTUVTUyB8IDIxIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsImFpZCI6IjAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBvcnQiOiIxODAwMCIsInBzIjoidjJnbyB8IPCfh7rwn4e4IFVTIHwgVk1FU1MgfCAyMCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMjkuMTQ2Ljc3LjI0OCIsImFpZCI6MCwiaG9zdCI6IjEyOS4xNDYuNzcuMjQ4IiwiaWQiOiJmODM2YzczNi04N2ZjLTRmZGUtYWFiYy0wMDg1N2VjZGZmM2UiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiMzk0OTUiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTkiLCJzbmkiOiIxMjkuMTQ2Ljc3LjI0OCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNzguODMuNDUuMjkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNDg0MjIzMDAtNDU4Zi00ZGJiLWIwZjUtOTZmNDU0NTBhYjlmIiwibmV0IjoidGNwIiwicGF0aCI6Ii9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4vQmVnb29fVlBOL0JlZ29vX1ZQTi9CZWdvb19WUE4iLCJwb3J0IjoiMzg5OTgiLCJwcyI6InYyZ28gfCDwn4es8J+HpyBHQiB8IFZNRVNTIHwgMTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNTgiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20SS%20%7C%2017
-vmess://eyJhZGQiOiIxMjkuMTQ2LjE0My44MCIsImFpZCI6MCwiaWQiOiJkNDYwM2NjMi1lMGVlLTQ2NTEtODNmNS0xZGI1YjcxNjgxNzciLCJuZXQiOiJ0Y3AiLCJwb3J0Ijo0ODExMSwicHMiOiJ2MmdvIHwg8J+HuvCfh7ggVVMgfCBWTUVTUyB8IDE2Iiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIyMTYuMTA2LjE4My4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMjIzMjQiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTUiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoidjJnbyB8IPCfh6zwn4enIEdCIHwgVk1FU1MgfCAxNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMzAiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiVVMxNSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxOTguMjMuMTg0LjEyMiIsImFpZCI6IjAiLCJpZCI6IjY5MTBmNzhlLTNjMzgtNDZhMS1iMjg3LTgzNzI3OWFkOWI0YSIsIm5ldCI6IndzIiwicGF0aCI6Ii84MzcyNzlhZDliNGEiLCJwb3J0Ijo0NDMsInBzIjoidjJnbyB8IPCfh7rwn4e4IFVTIHwgVk1FU1MgfCAxMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4YzE2My5tZWl6aWJhNTU2Ni5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhZDBkZjM2YTNjYTM5ZTFhOWUzZTMwM2Y2NWI0NWRiNC5tb2Jnc2xiLnRiY2FjaGUuY29tIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTEiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjI1MCIsImFpZCI6IjAiLCJob3N0IjoiYWRzLng1LnJ1IiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxODAiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTAiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjM3IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MCIsInBzIjoidjJnbyB8IPCfh7rwn4e4IFVTIHwgVk1FU1MgfCA5Iiwic2N5IjoiYXV0byIsInNuaSI6ImFkcy54NS5ydSIsInRlc3RfbmFtZSI6IlVTMjQiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MCIsInBzIjoidjJnbyB8IPCfh7rwn4e4IFVTIHwgVk1FU1MgfCA4Iiwic2N5IjoiYXV0byIsInNuaSI6ImFkcy54NS5ydSIsInRlc3RfbmFtZSI6IlVTMTEiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJydXNoLXcxbml1LnRlZW9wcC5vbmxpbmUiLCJhaWQiOiIwIiwiaG9zdCI6InJ1c2gtdzFuaXUudGVlb3BwLm9ubGluZSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZpZGVvL3Y0c3gzcS96eHpydXJrYy5tM3U4IiwicG9ydCI6IjQ0MyIsInBzIjoidjJnbyB8IPCfh7rwn4e4IFVTIHwgVk1FU1MgfCA3Iiwic2N5IjoiYXV0byIsInNuaSI6InJ1c2gtdzFuaXUudGVlb3BwLm9ubGluZSIsInRlc3RfbmFtZSI6Ijk3IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMzIuMTQ1LjIwMC40MyIsImFpZCI6MCwiaWQiOiJjZWVhZWUwYi04OWFmLTQwYjEtYWExNC01NzdjYmRlMDNhODkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcCIsInBvcnQiOjIwNTQsInBzIjoidjJnbyB8IPCfh7rwn4e4IFVTIHwgVk1FU1MgfCA2Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMjEuNTcuODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsInBvcnQiOiI4NDQzIiwicHMiOiJ2MmdvIHwgVk1FU1MgfCA1Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIyMTYuMTI4LjE3Ni4xNjYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZWJjYTU1OWMtYTRhMS00MDYyLTk0NTMtNjQxMmQ4ZmY1MjU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL2ViY2E1NTljLWE0YTEtNDA2Mi05NDUzLTY0MTJkOGZmNTI1NSIsInBvcnQiOiIyODgwOSIsInBzIjoidjJnbyB8IPCfh6jwn4emIENBIHwgVk1FU1MgfCA0Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjcxIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6Ii9AUHJveHlWUE4xMSIsInBvcnQiOiIxODAwMCIsInBzIjoidjJnbyB8IPCfh6jwn4emIENBIHwgVk1FU1MgfCAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6Ijg0IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNzIuNjQuODAuMSIsImFpZCI6IjAiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwb3J0IjoiODQ0MyIsInBzIjoidjJnbyB8IFZNRVNTIHwgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRlc3RfbmFtZSI6IjIzIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6InYyZ28gfCBWTUVTUyB8IDEiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiI5IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=https%3A%2F%2Fwww.calmloud.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20128116
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=130.61.50.75#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20764842
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20235581
-hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20228320
-hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20627062
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20743363
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443?insecure=1&sni=vpn-us-003.fastervpn.world#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20124583
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@179.61.227.102:8443?insecure=1&sni=iq5ny.pleiades.codes#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20108938
-hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443?sni=usa1.spectrumproxy.shop#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20712514
-hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443?sni=gorbachev-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20584579
-hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443?sni=gorbachev-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20950312
-hysteria2://6a3fe9d0-0d68-4f29-ae99-5771d4217a45@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20906380
-hysteria2://1427eb10-7529-4d38-a6a2-01b337868b37@140.99.130.34:4466?insecure=1&sni=sg3.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20890291
-hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443?sni=gorbachev-new-th.kvnfreetest.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20973534
-vless://sGLzG6kUwBpZd73sW0nq@81.208.170.142:1500?security=reality&encryption=none&sni=www.ebay.com&fp=chrome&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&type=grpc&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20248266
-vless://fd12bf77-bca4-4ccc-8bd0-76a2cfc5985a@194.55.239.164:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sdnD0vxmj8kHBOoVM8TE9IyBCGwnKNB8hZVaHp_Zfjk&security=reality&sid=c427&sni=ads.vk.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20900357
-vless://f8fff57f-224a-4ae3-80c1-a9299796ad7c@172.67.215.201:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=11.ez-70ef02.workers.dev&path=/eyJqdW5rIjoicmc2S3lEeXFMV3Y3UHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1Ny4xMjkuNDcuNTIiXX0=&security=tls&sni=11.ez-70ef02.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20829512
-vless://f7c25743-140c-4d32-a296-a53bc49682d8@5.255.112.81:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20436199
-vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@104.21.23.72:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20440418
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&security=reality&sni=dartsearch-cn.net&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20540868
-vless://ea535a23-447f-4501-918c-de8a8b376bec@62.113.103.10:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20840021
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20322627
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20984985
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.67.191.52:2053?encryption=none&path=/&security=tls&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230762
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=/&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20472550
-vless://e7299042-7d8f-440f-8368-2516b0e69341@201.51.0.38:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20483992
-vless://e7299042-7d8f-440f-8368-2516b0e69341@201.51.0.38:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20438648
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20791268
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=random&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20964503
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.196.166:22224?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147663
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.196.166:22223?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20887149
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.74.196.166:22222?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20966281
-vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&host=lsjaoijji.global.ssl.fastly.neT.&path=/&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20372711
-vless://df67e751-ec34-4b9e-a8d8-e83606beacb8@188.72.103.4:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"/site/assets/vendor-b6e4/","mode":"","headers":null,"xPaddingBytes":"0","xPaddingObfsMode":true,"xPaddingKey":"hash","xPaddingHeader":"X-Client-Version","xPaddingPlacement":"queryInHeader","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","sessionIDPlacement":"header","sessionIDKey":"X-Upload-Token","sessionIDTable":"","sessionIDLength":"0","seqPlacement":"query","seqKey":"chunk_id","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"0","scMinPostsIntervalMs":"0","scMaxBufferedPosts":0,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"12-24","maxConnections":"0","cMaxReuseTimes":"100","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":0},"downloadSettings":null,"extra":null}&fp=edge&host=domashnyaya.hadouken.space&mode=packet-up&path=/site/assets/vendor-b6e4/&security=tls&sni=domashnyaya.hadouken.space&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20139527
-vless://df67e751-ec34-4b9e-a8d8-e83606beacb8@188.72.103.4:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"/public/build/module-3ab1/","mode":"","headers":null,"xPaddingBytes":"0","xPaddingObfsMode":true,"xPaddingKey":"hash","xPaddingHeader":"X-Client-Version","xPaddingPlacement":"queryInHeader","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","sessionIDPlacement":"header","sessionIDKey":"X-Upload-Token","sessionIDTable":"","sessionIDLength":"0","seqPlacement":"query","seqKey":"chunk_id","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"0","scMinPostsIntervalMs":"0","scMaxBufferedPosts":0,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"12-24","maxConnections":"0","cMaxReuseTimes":"100","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":0},"downloadSettings":null,"extra":null}&fp=edge&host=margarita.dbintro.space&mode=packet-up&path=/public/build/module-3ab1/&security=tls&sni=margarita.dbintro.space&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20901645
-vless://df67e751-ec34-4b9e-a8d8-e83606beacb8@188.72.103.4:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"/app/static/runtime-5f8d/","mode":"","headers":null,"xPaddingBytes":"0","xPaddingObfsMode":true,"xPaddingKey":"hash","xPaddingHeader":"X-Client-Version","xPaddingPlacement":"queryInHeader","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","sessionIDPlacement":"header","sessionIDKey":"X-Upload-Token","sessionIDTable":"","sessionIDLength":"0","seqPlacement":"query","seqKey":"chunk_id","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"0","scMinPostsIntervalMs":"0","scMaxBufferedPosts":0,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"12-24","maxConnections":"0","cMaxReuseTimes":"100","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":0},"downloadSettings":null,"extra":null}&fp=edge&host=carbonara.hotwigga.space&mode=packet-up&path=/app/static/runtime-5f8d/&security=tls&sni=carbonara.hotwigga.space&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20428214
-vless://df67e751-ec34-4b9e-a8d8-e83606beacb8@178.176.128.128:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"/content/sec.mp4/","mode":"packet-up","headers":null,"xPaddingBytes":"1-4","xPaddingObfsMode":true,"xPaddingKey":"pid","xPaddingHeader":"","xPaddingPlacement":"query","xPaddingMethod":"tokenish","uplinkHTTPMethod":"Head","sessionIDPlacement":"","sessionIDKey":"","sessionIDTable":"Base62","sessionIDLength":"4-8","seqPlacement":"query","seqKey":"chunk_id","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"65536-131072","scMinPostsIntervalMs":"10-30","scMaxBufferedPosts":64,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"4","maxConnections":"0","cMaxReuseTimes":"32","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":30},"downloadSettings":null,"extra":null}&fp=edge&host=green.benzogangmoney.space&mode=packet-up&path=/content/sec.mp4/&security=tls&sni=green.benzogangmoney.space&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20177731
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=support.zoom.us.de.vpnbase.net&path=/http&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20462834
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&host=de.vpnbase.net&path=/http&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20254434
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@198.202.211.1:8443?security=tls&type=ws&path=/uploader.php&host=maple.adaspoloandco.com&alpn=h2,http/1.1&sni=maple.adaspoloandco.com&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20106715
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&type=ws&security=tls&path=/&host=music1000.melobitmusic1.ir&sni=music1000.melobitmusic1.ir&alpn=h3,h2,http/1.1&fp=ios&insecure=0&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20792218
-vless://d8ce9ded-7aee-4869-bbdf-75e1cfc11dc7@46.243.142.89:9443?encryption=none&extra={"host":"","path":"/x","mode":"stream-one","headers":null,"xPaddingBytes":"0","xPaddingObfsMode":false,"xPaddingKey":"","xPaddingHeader":"","xPaddingPlacement":"","xPaddingMethod":"","uplinkHTTPMethod":"","sessionIDPlacement":"","sessionIDKey":"","sessionIDTable":"","sessionIDLength":"0","seqPlacement":"","seqKey":"","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"0","scMinPostsIntervalMs":"0","scMaxBufferedPosts":0,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"0","maxConnections":"4-8","cMaxReuseTimes":"256-512","hMaxRequestTimes":"0","hMaxReusableSecs":"900-1500","hKeepAlivePeriod":0},"downloadSettings":null,"extra":null}&fp=firefox&host=wl-pl-1.nodes.ac&mode=stream-one&path=/x&pbk=5hhzoP441DrGa2l5YlwizPSA5chdY2VjRP7CiEfLLA0&security=reality&sid=eea4ab7bddaeea39&sni=pl-1.nodes.ac&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20153156
-vless://d8ce9ded-7aee-4869-bbdf-75e1cfc11dc7@46.243.142.184:4443?encryption=none&extra={"host":"","path":"/x","mode":"stream-one","headers":null,"xPaddingBytes":"0","xPaddingObfsMode":false,"xPaddingKey":"","xPaddingHeader":"","xPaddingPlacement":"","xPaddingMethod":"","uplinkHTTPMethod":"","sessionIDPlacement":"","sessionIDKey":"","sessionIDTable":"","sessionIDLength":"0","seqPlacement":"","seqKey":"","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"0","scMinPostsIntervalMs":"0","scMaxBufferedPosts":0,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"16-32","maxConnections":"0","cMaxReuseTimes":"256-512","hMaxRequestTimes":"0","hMaxReusableSecs":"900-1500","hKeepAlivePeriod":30},"downloadSettings":null,"extra":null}&fp=firefox&host=se-2.nodes.ac&mode=stream-one&path=/x&pbk=h4ykk3TnjOoph-89y4vL9A_V9nQB1yp1WMN344yhU3I&security=reality&sid=791176388131b7e2&sni=se-2.nodes.ac&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20981981
-vless://d7ec3e31-a9c4-4bdf-a2d8-7f75a8381035@104.21.74.214:8880?path=/&encryption=none&host=weathered-lake-e883.35-bc4.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20367306
-vless://d7d8af23-36cd-4c66-a42a-4469c177210f@188.114.97.3:443?path=/eyJqdW5rIjoidmJOWHUwYnBOS00zT04iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xODYuMjE5LjgyIl19?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=fancy-rain-136e.thisisalee.workers.dev&fp=random&type=ws&allowInsecure=0&sni=FanCy-raIn-136E.tHisIsaLEe.wOrKeRS.deV#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20340433
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@188.114.97.6:2053?security=tls&type=ws&path=/J5aLQOY1R9ONWYCM&host=ov.iran-servers.shop&sni=ov.iran-servers.shop&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20443214
-vless://cf9e38e9-ee59-4146-a883-d3b678de341a@217.16.27.113:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=eh.vk.com&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20389030
-vless://cf9e38e9-ee59-4146-a883-d3b678de341a@217.16.27.113:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=ads.x5.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20321385
-vless://cf9e38e9-ee59-4146-a883-d3b678de341a@217.16.27.113:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=5post-gate.x5.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20355169
-vless://cf9e38e9-ee59-4146-a883-d3b678de341a@176.109.85.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=max.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20895382
-vless://cf9e38e9-ee59-4146-a883-d3b678de341a@176.109.85.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=eh.vk.com&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20140494
-vless://cf9e38e9-ee59-4146-a883-d3b678de341a@176.109.85.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=ads.x5.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20605735
-vless://cf9e38e9-ee59-4146-a883-d3b678de341a@176.109.85.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AiG06E-jizo9xtBbulKQvdQqhZfobZJBTQIKkaDjaiU&security=reality&sid=a1b2c3d4e5&sni=5post-gate.x5.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20428099
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@103.31.4.95:443?security=tls&type=ws&path=/GOrbEh&host=rubifen.adaspoloandco.com&sni=rubifen.adaspoloandco.com&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20344503
-vless://cec43c67-6328-4bd5-a4b1-12d400a25fdf@188.72.103.4:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"/app/static/runtime-5f8d/","mode":"","headers":null,"xPaddingBytes":"0","xPaddingObfsMode":true,"xPaddingKey":"hash","xPaddingHeader":"X-Client-Version","xPaddingPlacement":"queryInHeader","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","sessionIDPlacement":"header","sessionIDKey":"X-Upload-Token","sessionIDTable":"","sessionIDLength":"0","seqPlacement":"query","seqKey":"chunk_id","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"0","scMinPostsIntervalMs":"0","scMaxBufferedPosts":0,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"12-24","maxConnections":"0","cMaxReuseTimes":"100","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":0},"downloadSettings":null,"extra":null}&fp=edge&host=carbonara.hotwigga.space&mode=packet-up&path=/app/static/runtime-5f8d/&security=tls&sni=carbonara.hotwigga.space&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20688244
-vless://cec43c67-6328-4bd5-a4b1-12d400a25fdf@178.176.128.128:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"/content/sec.mp4/","mode":"packet-up","headers":null,"xPaddingBytes":"1-4","xPaddingObfsMode":true,"xPaddingKey":"pid","xPaddingHeader":"","xPaddingPlacement":"query","xPaddingMethod":"tokenish","uplinkHTTPMethod":"Head","sessionIDPlacement":"","sessionIDKey":"","sessionIDTable":"Base62","sessionIDLength":"4-8","seqPlacement":"query","seqKey":"chunk_id","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"65536-131072","scMinPostsIntervalMs":"10-30","scMaxBufferedPosts":64,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"4","maxConnections":"0","cMaxReuseTimes":"32","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":30},"downloadSettings":null,"extra":null}&fp=edge&host=green.benzogangmoney.space&mode=packet-up&path=/content/sec.mp4/&security=tls&sni=green.benzogangmoney.space&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20386199
-vless://cd2b4af7-416a-4212-80a8-9e29485b724b@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v2/vms/stream/genka&security=tls&sni=benzin.benz.ink&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20348684
-vless://cb794985-2800-4d88-af43-018dcb678f2f@94.237.89.10:3389?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20572528
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20115327
-vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@182.16.61.2:45647?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337312
-vless://ca599ed4-f7a0-4ddf-a45d-3cb6276d6cd7@66.90.93.74:8443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/connect&security=tls&sni=gateway-v1.bosx.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20257702
-vless://c7e9c591-2764-423a-afca-efbd010fd396@91.219.236.202:2053?encryption=none&security=tls&sni=forfreeuse.rtqa.ru&type=ws&host=forfreeuse.rtqa.ru&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20912249
-vless://c7e9c591-2764-423a-afca-efbd010fd396@87.106.141.152:2053?encryption=none&security=tls&sni=forfreeuse.rtqa.ru&type=ws&host=forfreeuse.rtqa.ru&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20293369
-vless://c7e9c591-2764-423a-afca-efbd010fd396@54.229.164.147:2053?encryption=none&security=tls&sni=forfreeuse.rtqa.ru&type=ws&host=forfreeuse.rtqa.ru&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20594906
-vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.240:2053?encryption=none&security=tls&sni=forfreeuse.rtqa.ru&type=ws&host=forfreeuse.rtqa.ru&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20429737
-vless://c0f16ee2-a909-4890-ab1c-96489230658a@104.21.67.171:443?encryption=none&host=admin.jikebet.com&path=/vless&security=tls&sni=admin.jikebet.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20922065
-vless://be42674a-296a-43d8-bf04-b8314d65ff63@199.232.78.159:443?allowInsecure=1&ed=2053&eh=Sec-WebSocket-Protocol&encryption=none&host=pane2.global.ssl.fastly.net&path=/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER&security=tls&sni=ssl.fastly.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20420669
-vless://bceda826-c83c-45d0-891e-15c4bfec76bc@168.222.141.146:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20505611
-vless://bc155a59-a4db-45e7-addf-db634b79757b@103.118.252.45:13131?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20962344
-vless://b8b01773-36b1-4b49-9bd0-6249f52345b4@63.141.128.22:443?encryption=none&host=misty-tooth-78ca.fobogah414-e7b.workers.dev&path=/eyJqdW5rIjoiTkNUaFg0ZnJNUjhhcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&sni=misty-tooth-78ca.fobogah414-e7b.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20722219
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@191.44.118.250:2053?encryption=none&flow=xtls-rprx-vision&pbk=E6u2RbffXIPvia5v5iIZVj6U_VpSBWmGTsHHNtH-5Rg&security=reality&sid=417063feab794131&sni=vk.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20798637
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@193.58.121.95:2053?encryption=none&flow=xtls-rprx-vision&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&security=reality&sid=a6bbc4aecf5d961f&sni=vk.ru&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20815874
-vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?encryption=none&host=bab-6.site&path=/vws/&security=tls&sni=bab-6.site&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20456907
-vless://b3d66abd-ea82-4616-92f0-1dec8d1e4cfc@194.26.229.222:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20415778
-vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=status.play.google.com&fp=ios&sid=5030&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20540097
-vless://af348651-1624-4710-b55f-0307a22d891f@213.136.92.67:443?security=reality&type=raw&sni=status.play.google.com&fp=ios&sid=5030&pbk=jvJPfOHtnr2sH79qG-rEtJHFbr36_7Ag7ARsUmtSDQo#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20609748
-vless://af325624-e28d-44fd-a8a7-058a439d128f@5.129.194.34:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20727198
-vless://adce7c2a-3191-49ae-b61c-9b8258ea1b0e@89.208.113.16:443?path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20859215
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@164.37.104.234:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20775376
-vless://a24668e1-e927-40e8-9850-c05e07cf5299@188.72.103.4:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"/public/build/module-3ab1/","mode":"","headers":null,"xPaddingBytes":"0","xPaddingObfsMode":true,"xPaddingKey":"hash","xPaddingHeader":"X-Client-Version","xPaddingPlacement":"queryInHeader","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","sessionIDPlacement":"header","sessionIDKey":"X-Upload-Token","sessionIDTable":"","sessionIDLength":"0","seqPlacement":"query","seqKey":"chunk_id","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"0","scMinPostsIntervalMs":"0","scMaxBufferedPosts":0,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"12-24","maxConnections":"0","cMaxReuseTimes":"100","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":0},"downloadSettings":null,"extra":null}&fp=edge&host=margarita.dbintro.space&mode=packet-up&path=/public/build/module-3ab1/&security=tls&sni=margarita.dbintro.space&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20275294
-vless://a24668e1-e927-40e8-9850-c05e07cf5299@188.72.103.4:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"/app/static/runtime-5f8d/","mode":"","headers":null,"xPaddingBytes":"0","xPaddingObfsMode":true,"xPaddingKey":"hash","xPaddingHeader":"X-Client-Version","xPaddingPlacement":"queryInHeader","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","sessionIDPlacement":"header","sessionIDKey":"X-Upload-Token","sessionIDTable":"","sessionIDLength":"0","seqPlacement":"query","seqKey":"chunk_id","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"0","scMinPostsIntervalMs":"0","scMaxBufferedPosts":0,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"12-24","maxConnections":"0","cMaxReuseTimes":"100","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":0},"downloadSettings":null,"extra":null}&fp=edge&host=carbonara.hotwigga.space&mode=packet-up&path=/app/static/runtime-5f8d/&security=tls&sni=carbonara.hotwigga.space&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20972775
-vless://a24668e1-e927-40e8-9850-c05e07cf5299@178.176.128.128:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"/content/sec.mp4/","mode":"packet-up","headers":null,"xPaddingBytes":"1-4","xPaddingObfsMode":true,"xPaddingKey":"pid","xPaddingHeader":"","xPaddingPlacement":"query","xPaddingMethod":"tokenish","uplinkHTTPMethod":"Head","sessionIDPlacement":"","sessionIDKey":"","sessionIDTable":"Base62","sessionIDLength":"4-8","seqPlacement":"query","seqKey":"chunk_id","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"65536-131072","scMinPostsIntervalMs":"10-30","scMaxBufferedPosts":64,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"4","maxConnections":"0","cMaxReuseTimes":"32","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":30},"downloadSettings":null,"extra":null}&fp=edge&host=green.benzogangmoney.space&mode=packet-up&path=/content/sec.mp4/&security=tls&sni=green.benzogangmoney.space&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20351631
-vless://9eb9de08-1b4b-4023-ae0d-cd28246b8778@82.40.62.221:27737?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20632126
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20399343
-vless://9b4ba157-f60b-4a5b-b326-4d561eb826d4@194.26.229.209:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20614312
-vless://9b44bfb4-9d28-4870-9fc3-5154d6d462ff@147.45.253.97:4100?path=/v1&security=none&encryption=none&host=live.ok.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20711537
-vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.214.247:8880?encryption=none&host=summer-snow-c151.320-3ef.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20583847
-vless://97ea73b6-2043-4238-903c-a1e3d4a43c96@104.18.1.1:2087?security=tls&type=ws&path=/download.php&host=Amphetamine.aDaspoloandco.com&sni=Amphetamine.aDaspoloandco.com&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20658934
-vless://92a4cb10-228f-4239-8c63-c566b20a9167@104.16.100.66:8880?encryption=none&host=square-waterfall-c1de.199-82d.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20303801
-vless://8ddedcc7-6c4e-4df3-a190-ac40926f6694@188.114.97.6:8880?path=/pyip&encryption=none&host=late-boat-fbd7.152-de6.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20444404
-vless://8bcfe782-60c4-4c09-b46c-330f1aa3741c@172.67.209.127:8880?encryption=none&security=none&type=ws&host=snowy-lab-6cab.237-2da.workers.dev&path=/pyip=proxyip.us.cmliussss.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20931728
-vless://8991a496-1baa-486f-9948-ffe44e68c072@162.159.156.214:8880?encryption=none&host=soft-band-8da6.426.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20376770
-vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@194.26.229.209:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20689819
-vless://87743dfc-1ee7-4248-b66c-0d538d29cc79@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v2/vms/stream/genka&security=tls&sni=benzin.benz.ink&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20601269
-vless://876e81f0-6961-43b4-bd64-7dc602e823ca@95.181.160.240:8433?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=/@Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20261583
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.21.74.214:2095?security=none&type=ws&path=/&host=download.pusytroller.gq&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20630435
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?security=none&type=ws&path=/&host=nmslfangbinxing.pusytroller.gq#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20656114
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?path=/&encryption=none&host=fuckfangbinxing.pusytroller.gq&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20738766
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.149.244:2095?security=none&type=ws&path=/&host=fuckingfangbinxing.pusytroller.cf&sni=www.fbi.gov#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20316141
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.149.244:2095?security=none&type=ws&path=/&host=fuckingfangbinxing.pusytroller.cf#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20389980
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20428176
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918484
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=dc8109baf0f607ea&sni=storage.yandex.net&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20377993
-vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@78.159.247.253:2027?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&security=reality&sid=8d3293f0066e129a&sni=storage.yandex.net&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20177352
-vless://84270e8b-567e-45c6-b2f2-56ec9a67ae1e@104.21.12.116:8880?encryption=none&type=ws&path=/pyip&host=young-leaf-a723.162-4da.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20396809
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@208.103.161.32:443?encryption=none&host=josni.hoyes.cloudns.ch&path=/sg-melbi&security=tls&sni=josni.hoyes.cloudns.ch&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20892969
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?encryption=none&type=ws&security=tls&path=/sg-melbi&host=josni.hoyes.cloudns.ch&sni=josni.hoyes.cloudns.ch&insecure=0&allowInsecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20714156
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@104.16.79.73:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20569809
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@95.85.228.161:8443?encryption=none&security=none&serviceName=grpc&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20216974
-vless://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?encryption=none&security=none&serviceName=grpc&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20896599
-vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?encryption=none&security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20257595
-vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@212.237.216.46:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fastcdn.intercom-home.online&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20557769
-vless://7db9bcc1-78f1-455d-944b-3363b867e670@172.64.88.251:8880?encryption=none&host=long-wildflower-3df6.341-165.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20337633
-vless://7d3963b5-4029-4878-a251-2437deaebcd7@51.75.91.250:1324?encryption=none&security=none&type=ws&host=api16-access-wf-sg.pangle.io&path=/?ed=2560#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20164682
-vless://7c9b4360-6be9-47f2-ace9-b87297ea3d8f@157.90.165.181:11762?encryption=none&flow=xtls-rprx-vision&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&security=reality&sni=swdist.apple.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20910726
-vless://7b3f2b09-11e2-4bdd-9e42-946c0a41447f@188.130.154.212:61169?encryption=none&host=mangaarabics.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20777676
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&type=tcp&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20279140
-vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20481204
-vless://7909e164-d482-4620-a370-07e6fda6676b@185.125.103.62:8082?encryption=none&fp=chrome&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=/@Marisa_kristi&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20442481
-vless://7595cd50-9326-48e4-a7bc-802e85e643ec@162.19.156.14:6800?pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&encryption=none&security=reality&fp=qq&type=tcp&headerType=none&sni=play.google.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20399261
-vless://737572bf-24d1-4465-aca9-6675f016a9f6@104.171.137.176:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20977329
-vless://730cbebb-39b2-4a1c-b2f8-f922095d6623@104.16.100.66:8880?encryption=none&host=wandering-bonus-e035.272.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20826022
-vless://7242eccf-5261-4e31-813e-871bfbde90c2@172.67.152.71:8880?encryption=none&type=ws&path=/pyip=ProxyIP.JP.CMLiussss.net&host=long-flower-ac0d.176-17e.workers.dev#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20171256
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?security=reality&type=tcp&packetEncoding=none&sni=vk.ru&fp=edge&flow=xtls-rprx-vision&sid=d26f4703cdd30f4e&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20970145
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:8443?security=reality&type=xhttp&path=/&host=laoye.in-gect.fun&packetEncoding=none&sni=laoye.in-gect.fun&fp=firefox&pbk=Z3adeet9wvavdQ8mY6BZYgoXe22BV5DFcsyFChWYNUM&mode=stream-one#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20256107
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=vk.ru&fp=edge&flow=xtls-rprx-vision&sid=d26f4703cdd30f4e&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20856756
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:8443?security=reality&type=xhttp&path=/media/v2/library&sni=derman.neobo-tooth.ru&fp=qq&pbk=nqtiSDaSO3QwovNGFdkU357K2p19qVaE1NEMmaG5-x8&mode=stream-one&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20864361
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096?security=none&type=ws&path=/&packetEncoding=none&sni=derman.neobo-tooth.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20699215
-vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@104.171.132.218:7771?encryption=none&fp=qq&mode=gun&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&security=reality&serviceName=5post-gate.x5.ru&sid=8248954896&sni=5post-gate.x5.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20250029
-vless://6d73dc1e-1627-4b16-b471-53e63aa16c78@104.18.36.122:8880?encryption=none&host=sweet-truth-ccdb.134-7e9.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20738148
-vless://6b21490b-b180-07d0-86e5-8fb50d38b200@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=ios&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20504444
-vless://694fbac8-56da-4ecd-be68-59c57b700e93@176.109.85.141:9444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bqLr1d3mbuP10WAYxWj8OEdSuZlVvrywrKq2U6ACw2w&security=reality&sid=12b9ecabbf3a3b88&sni=max.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20412004
-vless://670decfe-68cc-499e-8cb1-22b39c20acbb@159.194.230.94:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=rf3.helper-internet.com&spx=/&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20515987
-vless://645ea5d2-7d0a-4d66-940d-eefc2b84f4e9@172.64.94.251:8880?encryption=none&security=none&type=ws&host=fragrant-surf-4797.496-345.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20717424
-vless://63f1ce15-1a88-4698-8a0e-59b85d75e607@104.21.74.24:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=free.server11peekconfig.workers.dev&path=/eyJqdW5rIjoiNDIxWGNPNW5CQXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iLCJbMjYwMjpmYzU5OmIwOjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSJdfQ==&security=tls&sni=FRee.SeRver11pEEkcONFIg.WorkeRS.DEv&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20240260
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.40:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime55.workers.dev&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20937746
-vless://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.114.8:443?encryption=none&fp=chrome&host=noisy-term-e657.airdrop2014aa5168.workers.dev&path=/&security=tls&sni=noisy-term-e657.airdrop2014aa5168.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20251319
-vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.67.152.71:8880?encryption=none&host=misty-mouse-141d.177-f18.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20809558
-vless://58c1b245-2ea0-40b9-b512-bd2bbe3cbe3f@209.94.90.4:80?encryption=none&host=solitary-mountain-996f.223-38e.workers.dev&path=/pyip=Telegram🇨🇳#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20586570
-vless://56e4896e-90a9-4fe0-8480-90d3d68b9928@8.35.211.43:2053?encryption=none&fp=chrome&host=go.iranfree.de5.net&path=/&security=tls&sni=go.iranfree.de5.net&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20935904
-vless://5502312d-b5cf-4652-8c59-4d670dd047be@104.171.137.109:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20664682
-vless://5415953e-c623-1f62-4538-3a4300000000@104.21.208.1:443?security=tls&type=ws&path=/sync&host=ez-bd46ae.ezaccess13f54ec.workers.dev&packetEncoding=none&allowInsecure=1&sni=ez-bd46ae.ezaccess13f54ec.workers.dev&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20701244
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@83.220.172.122:2096?encryption=none&fp=safari&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20306624
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@83.220.172.122:2096?encryption=none&fp=qq&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20979655
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@83.220.172.122:2096?encryption=none&fp=edge&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20493276
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@37.18.14.33:2096?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20924376
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@37.18.14.33:2096?encryption=none&fp=edge&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20743466
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@176.12.69.251:2096?encryption=none&fp=safari&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20690235
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@176.12.69.251:2096?encryption=none&fp=qq&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20395532
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@176.12.69.251:2096?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20102429
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@176.12.69.200:2096?encryption=none&fp=safari&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20131807
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@176.12.69.200:2096?encryption=none&fp=qq&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20230073
-vless://53b7fdec-4ccb-481a-8d98-83aa19509330@176.12.69.200:2096?encryption=none&fp=firefox&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20789393
-vless://4e7eb9d5-022a-4b0a-ba37-2d1be458947b@31.77.203.95:443?encryption=none&path=/&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20589412
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&type=raw&sni=yahoo.com&fp=chrome&sid=fa&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20908988
-vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@172.67.137.154:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&path=ws&security=tls&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20628783
-vless://49c0ae46-767c-47d1-9703-8740e0c4b15a@104.21.78.92:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=flat-night-edd0.hosein9saleazhuongooyeh87.workers.dev&path=/eyJqdW5rIjoiZU1pQlVqNTBYVmpTeDlCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OmIwOjY0OjpdIl19&security=tls&sni=FLAT-night-EDD0.hOsEin9saLEAZhuongOoYeH87.wOrkerS.DeV&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20621717
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20344888
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20712748
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20938092
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20541331
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.98:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20168908
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20145020
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20458431
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20439796
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.86:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20587326
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20775003
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20247306
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20829081
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20446308
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20485354
-vless://48ddf2b8-940a-4096-a9eb-8707203258aa@193.168.46.180:443?security=reality&type=raw&sni=rruu.persik.host&fp=qq&flow=xtls-rprx-vision&sid=c1a7e9b4711d5f60&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20767384
-vless://43874ef1-1f74-4b8b-bc84-1d13caabd71b@104.171.137.176:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20606857
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?security=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20956733
-vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.247:10000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20656187
-vless://4283099c-ff0f-4ebe-bd00-6bf8ea0d1f2f@185.229.9.175:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZO7C9aMpoVJ6CmkKWUBS20eKe542_tGIc6wZFGB-yjY&security=reality&sid=b4e5b7cefcd0d47c&sni=www.vk.com&spx=/&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20118837
-vless://4283099c-ff0f-4ebe-bd00-6bf8ea0d1f2f@185.229.9.175:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2QoNARj5aaa5-kUEiwx38KzbbiENQZ95V7x9jFo6f2A&security=reality&sid=88a84e3390fcf4a7&sni=max.ru&spx=/&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20755884
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?encryption=none&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20815039
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?encryption=none&path=/pl&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20377512
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?encryption=none&host=mws.tunnelgate.org&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20768851
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?encryption=none&fp=qq&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20998453
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?encryption=none&fp=qq&path=/pl&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20277115
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?encryption=none&fp=qq&host=mws.tunnelgate.org&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20452811
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?encryption=none&fp=chrome&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20445918
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?alpn=http/1.1&encryption=none&fp=qq&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20846679
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?alpn=http/1.1&encryption=none&fp=qq&path=/pl&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20457942
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?alpn=http/1.1&encryption=none&fp=qq&host=mws.tunnelgate.org&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20833528
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?alpn=http/1.1&encryption=none&fp=chrome&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20955271
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443?alpn=http/1.1&encryption=none&fp=chrome&host=mws.tunnelgate.org&path=/ru&security=tls&sni=mws.tunnelgate.org&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20127992
-vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@172.67.157.183:8080?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=/eyJqdW5rIjoiV3NqWVRNQlpFSVVwWmsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20468324
-vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@172.67.157.183:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=/eyJqdW5rIjoiR2xWQ1FCQzYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=7x70yyvT7eQOtx-IQ9N3RJT1xn1jwkh9.asDFsAFdsAF.WORkerS.Dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20521451
-vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@104.21.14.42:2053?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=/eyJqdW5rIjoiYVgxNXpobkJlaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&sni=7x70yyvT7eQoTX-Iq9n3RJT1XN1JWkh9.ASdfsAFDsaf.WOrkERs.DEv&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20876292
-vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@104.21.14.42:2052?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=/eyJqdW5rIjoic3pLZkVUMlIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20148876
-vless://401d950d-4f5c-45c7-bf44-8b69acf35f6f@188.114.97.3:2053?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=7x70yyvt7eqotx-iq9n3rjt1xn1jwkh9.asdfsafdsaf.workers.dev&path=/eyJqdW5rIjoidTBROThObHpLVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&sni=7X70yYvt7EqotX-iq9N3RJt1Xn1JWKH9.ASdfSafDSAf.wOrkERs.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20146187
-vless://3fe8191f-52ae-4e38-8385-5869ab47fb70@104.16.100.66:8880?path=/pyip=ProxyIP.US.CMLiussss.net&security=none&encryption=none&host=jolly-violet-a006.10-ae8.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20228881
-vless://3d87736d-8e59-4f54-b366-eca70cb4af45@62.152.60.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=z3VKP6dhO20t484bp5k1z-Ezf5GkFpIEsitEVbLqfDw&security=reality&sid=75076e902f384f9d&sni=api-maps.yandex.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20456900
-vless://3d87736d-8e59-4f54-b366-eca70cb4af45@62.152.60.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=na5nUX4PTmfcZ3tkSopLj96017evhUILnN825TOeZBw&security=reality&sid=0afc69a960c8e0e3&sni=max.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20501450
-vless://3d87736d-8e59-4f54-b366-eca70cb4af45@213.226.112.98:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dA5LR27yLUWVKSHhvN2pI69mTNVXyfGzAXjhha_QU04&security=reality&sid=13375a162630e39e&sni=api-maps.yandex.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20740015
-vless://3d87736d-8e59-4f54-b366-eca70cb4af45@213.226.112.98:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Kn4zO1_lGTKE2iigU4I3YZvCwwPXoLiu9JhoTjoRDVg&security=reality&sid=d95caa6de7e6b1ff&sni=max.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20847734
-vless://3d87736d-8e59-4f54-b366-eca70cb4af45@185.229.9.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=z3VKP6dhO20t484bp5k1z-Ezf5GkFpIEsitEVbLqfDw&security=reality&sid=75076e902f384f9d&sni=api-maps.yandex.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20232641
-vless://3d87736d-8e59-4f54-b366-eca70cb4af45@185.229.9.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=na5nUX4PTmfcZ3tkSopLj96017evhUILnN825TOeZBw&security=reality&sid=0afc69a960c8e0e3&sni=max.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20544809
-vless://3b21da15-50af-4bc1-b9e4-ba8500000000@104.17.148.22:443?security=tls&type=ws&path=/NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN-NetliVPN&host=netlivpn0861.bh74hfg764.workers.dev&sni=netlivpn0861.bh74hfg764.workers.dev&fp=chrome&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20524522
-vless://39947382-3212-41c9-bc3a-589574ac8b23@84.235.244.108:22573?security=none&type=ws&path=/&host=uae.unixzone.us&packetEncoding=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20673910
-vless://3775ad6e-d281-8bc5-36e9-9c5324a69393@167.99.178.229:1161?security=none&encryption=none&host=cdn-apple.com&headerType=http&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20573070
-vless://3666e25b-a1c2-48ec-b060-075392b1aa6e@172.64.155.209:443?alpn=h2&encryption=none&host=GERMAN.sarzamiiinahang.ir&mode=auto&path=/Meh?di=443&security=tls&sni=GERMAN.sarzamiiinahang.ir&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20330328
-vless://34a1ada8-4a1a-434b-8583-7b68668f6e9d@91.243.86.196:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dRPcJM7ZWihjiGNHuIJ4iaCpLxHAKoo59WE-vsTZASs&security=reality&sid=41f6de54&sni=www.cloudflare.com&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20611942
-vless://2acde116-5949-48d8-a1e6-60a1d2547deb@172.67.176.21:8880?encryption=none&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20750763
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@77.222.46.162:2200?path=/v1&encryption=none&host=77.222.46.162&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20966723
-vless://2aa7f4b1-e859-46d0-b8ac-8587811ab7b1@212.67.9.113:2200?path=/v1&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20172929
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@80.78.244.33:9890?encryption=none&fp=safari&mode=gun&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20507862
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@80.78.244.33:9890?encryption=none&fp=firefox&mode=gun&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20488213
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@62.233.43.86:9898?encryption=none&fp=qq&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20823439
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9882?encryption=none&fp=safari&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20478862
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9882?encryption=none&fp=qq&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20560519
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&serviceName=grpc-tunnel&mode=gun#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20268379
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873?encryption=none&fp=qq&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20594161
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873?encryption=none&fp=firefox&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20292178
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873?encryption=none&fp=firefox&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20369948
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873?encryption=none&fp=chrome&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20104059
-vless://2a08d2aa-63ec-4739-8f63-8e0e43169a86@37.9.4.128:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"","mode":"","headers":null,"xPaddingBytes":"100-1000","xPaddingObfsMode":false,"xPaddingKey":"","xPaddingHeader":"","xPaddingPlacement":"","xPaddingMethod":"","uplinkHTTPMethod":"","sessionIDPlacement":"","sessionIDKey":"","sessionIDTable":"","sessionIDLength":"0","seqPlacement":"","seqKey":"","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"0","scMinPostsIntervalMs":"0","scMaxBufferedPosts":0,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"8-16","maxConnections":"0","cMaxReuseTimes":"0","hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriod":0},"downloadSettings":null,"extra":null}&fp=edge&host=api1.madapp.cc&mode=packet-up&path=/api/v2/&security=tls&sni=api1.madapp.cc&type=xhttp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20978284
-vless://28329230-13e2-4c76-a265-dd1305e03e72@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v2/partner/xafiz&security=tls&sni=benzin.benz.ink&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196904
-vless://28329230-13e2-4c76-a265-dd1305e03e72@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20400880
-vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@172.67.135.69:443?encryption=none&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20732010
-vless://269c4c7d-6e37-4c63-9a8f-2f162bd892a3@185.103.100.134:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20489616
-vless://23da643f-f43c-4c83-af3f-4193eacd878d@87.228.101.34:443?encryption=none&fp=ios&mode=gun&pbk=DmpMjyYBIU4KdMNY-0M8TxX5OBrQQ1A5E28Y9_-VQDk&security=reality&serviceName=mtdklsqa&sid=aaaa&sni=metrics.selectel.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20457177
-vless://23da643f-f43c-4c83-af3f-4193eacd878d@87.228.101.34:443?encryption=none&fp=firefox&mode=gun&pbk=DmpMjyYBIU4KdMNY-0M8TxX5OBrQQ1A5E28Y9_-VQDk&security=reality&serviceName=mtdklsqa&sid=aaaa&sni=metrics.selectel.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20745424
-vless://23da643f-f43c-4c83-af3f-4193eacd878d@87.228.101.34:443?encryption=none&fp=firefox&mode=gun&pbk=3ZHq23cnEeKllJQYQ_S5TsAv-4grmPFAOY31z3QKOBU&security=reality&serviceName=zrvxqfpn&sid=aaaa&sni=api.selectel.ru&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20593331
-vless://233251d4-0110-4ad7-9e54-79ff28d53393@flv.iranfibernet.com:80?encryption=none&security=none&type=ws&host=mobiledevelop1212.global.ssl.fastly.net&path=/?ed#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20297156
-vless://2280e7ad-57cb-4ae7-91c5-b7e73e65fbb9@84.201.172.95:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=api-maps.yandex.ru&spx=/&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20210931
-vless://2280e7ad-57cb-4ae7-91c5-b7e73e65fbb9@194.55.239.177:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=sso.passport.yandex.ru&spx=/&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20873958
-vless://2280e7ad-57cb-4ae7-91c5-b7e73e65fbb9@158.160.59.97:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=web.max.ru&spx=/&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20595017
-vless://2280e7ad-57cb-4ae7-91c5-b7e73e65fbb9@158.160.50.102:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=sso.passport.yandex.ru&spx=/&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20228283
-vless://2280e7ad-57cb-4ae7-91c5-b7e73e65fbb9@158.160.46.238:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=ads.x5.ru&spx=/&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20948965
-vless://224c6892-f346-07d0-91db-149da1f0c170@139.100.197.28:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=edge&security=tls&sni=search.setlisting.ru&type=raw#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20640046
-vless://2216b0ee-b94a-4ea9-8780-ccc21c4b5f31@80.93.52.44:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20363763
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?path=/&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20487094
-vless://1b6de5d8-3285-422c-b6fe-2989918f528b@124.156.182.132:443?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=d19dcb524604e214&pbk=CdNLdccy_ALnjDvwZa14eP31CoJ_BLqJAS2OLCNwogg&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20609662
-vless://1a2f7607-b36a-4996-b7a2-72359123c446@194.26.229.211:4100?encryption=none&host=live.ok.ru&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20365530
-vless://1a2f7607-b36a-4996-b7a2-72359123c446@194.26.229.211:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20883871
-vless://1a12ce71-8c7c-4aff-9261-df28e7bb69e6@193.168.46.180:443?security=reality&type=raw&sni=rruu.persik.host&fp=qq&flow=xtls-rprx-vision&sid=c1a7e9b4711d5f60&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20967624
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20489427
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?path=/v1&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20130590
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@104.171.133.161:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20951213
-vless://130e6aab-9eba-441e-9021-22cbccc72832@80.78.244.33:9890?encryption=none&fp=qq&mode=gun&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20812132
-vless://130e6aab-9eba-441e-9021-22cbccc72832@176.109.106.34:9888?mode=gun&security=reality&encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&fp=chrome&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20539845
-vless://130e6aab-9eba-441e-9021-22cbccc72832@176.109.106.34:9888?encryption=none&fp=ios&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20182605
-vless://130e6aab-9eba-441e-9021-22cbccc72832@176.109.106.34:9888?encryption=none&fp=firefox&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20356547
-vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.122:8080?path=/?ed&security=none&encryption=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20512285
-vless://112912a9-cedf-485d-b8ed-d8f8d4774437@31.129.96.186:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20323586
-vless://106b0505-da24-4ae4-b22c-302ab814f6f4@79.137.192.188:2200?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20602859
-vless://106b0505-da24-4ae4-b22c-302ab814f6f4@104.171.136.172:4100?encryption=none&path=/v1&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20381647
-vless://0afc6426-606c-48e7-bd70-3c424a416842@61.145.123.58:58011?type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20838834
-vless://0a12328a-572e-46a5-9332-84d21a986407@199.232.78.159:443?encryption=none&security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=SvnTeamChannel.global.ssl.fastly.net&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20877995
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?security=none&type=ws&path=/&host=mypanel.unixzone.us&sni=mypanel.unixzone.us&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20312658
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?security=none&type=ws&path=/&host=mypanel.unixzone.us&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20906699
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?security=none&type=ws&path=/vless/&host=OV-Italy1.09vpn.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20780584
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?encryption=none&type=ws&path=/vless/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20141785
-vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?security=none&type=ws&path=/usserver&host=uspanel.unixzone.us&sni=uspanel.unixzone.us#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20128857
-vless://03dc60cb-a8d4-4226-93fe-0e6cbf77fe5a@69.48.201.136:30016?security=none&type=ws&path=/usserver&host=uspanel.unixzone.us&encryption=none#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20480569
-trojan://humanity@216.24.57.1:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20990174
-trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839406
-trojan://humanity@2.144.22.10:40443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment&fp=chrome&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20368526
-trojan://humanity@2.144.21.112:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20920891
-trojan://humanity@2.144.15.223:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20797047
-trojan://humanity@104.17.111.4:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20921982
-trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20297726
-trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20736703
-trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20187115
-trojan://humanity@104.16.174.36:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20656740
-trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=/assignment&sni=www.ignitelimit.com&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20526490
-trojan://acacbab-baac-abac-dcab-aacabcbcabcb@127.0.0.1:8080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20478510
-trojan://aacbacb-baac-caab-cdba-caccbabaabbc@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20433487
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20817077
-trojan://UO36402987@34.251.228.118:443?sni=definite-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20732925
-trojan://UO36402987@34.251.228.118:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20578716
-trojan://UO36402987@34.251.228.118:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20490319
-trojan://Telegram_healer_config@188.114.97.3:443?path=/tr/ox5zBiRQjs2Rscy0XwxXY2ZzE?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=6m1rgyieclmrx9hef1.z6-0hlnubjibwzpa85.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=6M1RGyIeClMRx9hef1.z6-0HlnubjIbWZpa85.wOrKerS.DEv#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20155377
-trojan://Telegram_healer_config@104.21.24.95:443?path=/tr/zJi4ccv7FeEo780U?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20117204
-trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20985875
-trojan://QV31589740@51.44.160.58:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20548421
-trojan://QV31589740@51.44.160.58:443?sni=great-krill.rooster465.autos&fp=chrome&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20500335
-trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20218097
-trojan://PQ05174892@3.35.17.250:443?sni=wise-rhino.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20567346
-trojan://PQ05174892@47.128.224.11:443?sni=vast-werewolf.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20777590
-trojan://PQ05174892@63.179.149.234:443?sni=usable-dogfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20118855
-trojan://PQ05174892@57.181.28.187:443?sni=thorough-elf.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20894991
-trojan://PQ05174892@47.129.0.251:443?sni=sharing-filly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20919480
-trojan://PQ05174892@3.38.191.161:443?sni=rare-lion.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20737230
-trojan://PQ05174892@54.238.4.188:443?sni=pumped-clam.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20365977
-trojan://PQ05174892@13.114.100.100:443?sni=pleased-sawfly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20444647
-trojan://PQ05174892@18.183.172.58:443?sni=picked-hippo.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20394584
-trojan://PQ05174892@43.203.206.201:443?sni=massive-ocelot.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20580642
-trojan://PQ05174892@44.249.55.18:443?sni=lucky-chimp.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20471511
-trojan://PQ05174892@54.93.54.137:443?sni=informed-alpaca.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20107808
-trojan://PQ05174892@52.220.197.180:443?sni=immense-eagle.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20616912
-trojan://PQ05174892@13.231.255.107:443?sni=humorous-starling.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20874498
-trojan://PQ05174892@54.238.185.99:443?sni=glorious-hamster.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20611081
-trojan://PQ05174892@56.10.68.131:443?sni=excited-alien.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20561170
-trojan://PQ05174892@35.90.27.143:443?sni=evident-ant.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20322273
-trojan://PQ05174892@3.35.48.58:443?sni=ethical-monkfish.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20748624
-trojan://PQ05174892@13.212.186.116:443?sni=eminent-panther.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20504620
-trojan://PQ05174892@57.180.40.220:443?sni=brief-flamingo.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20151240
-trojan://PQ05174892@13.212.196.153:443?sni=adapted-worm.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20582523
-trojan://ND91608427@18.181.164.216:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20854133
-trojan://ND91608427@18.181.164.216:443?allowInsecure=1&sni=upright-impala.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20723563
-trojan://ND91608427@185.244.208.210:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20179560
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20898854
-trojan://ND91608427@43.203.119.20:443?allowInsecure=1&sni=uncommon-feline.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20909898
-trojan://ND91608427@52.196.121.8:443?sni=thankful-mustang.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20580727
-trojan://ND91608427@52.196.121.8:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20611474
-trojan://ND91608427@18.181.175.120:443?sni=sure-humpback.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20110668
-trojan://ND91608427@18.181.175.120:443?sni=sure-humpback.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20131565
-trojan://ND91608427@3.112.238.99:443?sni=stunning-mite.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20742176
-trojan://ND91608427@3.112.238.99:443?allowInsecure=1&sni=stunning-mite.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20971926
-trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20783048
-trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20706154
-trojan://ND91608427@13.125.239.182:443?sni=saving-octopus.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20330895
-trojan://ND91608427@13.125.239.182:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20307345
-trojan://ND91608427@202.78.163.248:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20668387
-trojan://ND91608427@13.230.118.96:443?sni=real-werewolf.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20946690
-trojan://ND91608427@54.180.228.238:443?sni=pure-ram.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20995982
-trojan://ND91608427@54.180.228.238:443?allowInsecure=1&sni=pure-ram.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20400719
-trojan://ND91608427@3.113.1.131:443?sni=perfect-slug.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20744527
-trojan://ND91608427@3.113.1.131:443?sni=perfect-slug.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20862005
-trojan://ND91608427@3.113.1.131:443?sni=perfect-slug.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20535375
-trojan://ND91608427@3.113.24.17:443?sni=nearby-egret.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20259975
-trojan://ND91608427@3.113.24.17:443?sni=nearby-egret.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20153537
-trojan://ND91608427@43.201.103.8:443?sni=intimate-moray.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20661283
-trojan://ND91608427@43.201.103.8:443?allowInsecure=1&sni=intimate-moray.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20429074
-trojan://ND91608427@15.237.137.197:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20911343
-trojan://ND91608427@15.237.137.197:443?security=tls&type=tcp&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20500472
-trojan://ND91608427@15.237.137.197:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20223535
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20119585
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20463200
-trojan://ND91608427@43.201.46.108:443?allowInsecure=1&sni=exotic-chow.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20238862
-trojan://ND91608427@91.199.84.120:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20126686
-trojan://ND91608427@202.78.163.148:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20164887
-trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20267735
-trojan://ND91608427@35.72.13.34:443?sni=casual-bee.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20500871
-trojan://ND91608427@35.72.13.34:443?sni=casual-bee.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20513095
-trojan://ND91608427@35.72.13.34:443?security=tls&sni=casual-bee.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20173640
-trojan://ND91608427@3.112.15.214:443?sni=adjusted-labrador.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20888236
-trojan://ND91608427@3.112.15.214:443?sni=adjusted-labrador.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20637403
-trojan://ND91608427@185.244.208.13:443?sni=ace-starling.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20473635
-trojan://ND91608427@185.244.208.13:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20901152
-trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20542258
-trojan://ND91608427@91.199.84.120:443?sni=dynamic-grubworm.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20356880
-trojan://ND91608427@91.199.84.120:443?security=tls&sni=dynamic-grubworm.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20664937
-trojan://ND91608427@57.180.27.225:443?sni=picked-guinea.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20662878
-trojan://ND91608427@57.180.27.225:443?sni=picked-guinea.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20608154
-trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20215644
-trojan://ND91608427@57.180.27.225:443?security=tls&sni=picked-guinea.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20261226
-trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20607796
-trojan://ND91608427@57.180.13.78:443?security=tls&sni=healthy-louse.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20691941
-trojan://ND91608427@52.196.121.8:443?sni=thankful-mustang.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20173840
-trojan://ND91608427@52.196.121.8:443?sni=thankful-mustang.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20841165
-trojan://ND91608427@52.196.121.8:443?security=tls&sni=thankful-mustang.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20720119
-trojan://ND91608427@44.246.163.102:443?sni=fleet-bonefish.rooster465.autos&type=raw&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20745306
-trojan://ND91608427@44.246.163.102:443?sni=fleet-bonefish.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20982474
-trojan://ND91608427@44.246.163.102:443?fp=chrome&sni=fleet-bonefish.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20385804
-trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20196575
-trojan://ND91608427@43.203.247.197:443?sni=definite-malamute.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20792127
-trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20352400
-trojan://ND91608427@43.203.247.197:443?security=tls&sni=definite-malamute.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20948167
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20417479
-trojan://ND91608427@43.203.119.20:443?sni=uncommon-feline.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20705397
-trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20373976
-trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20708002
-trojan://ND91608427@43.201.56.44:443?sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20231299
-trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20666352
-trojan://ND91608427@43.201.56.44:443?security=tls&sni=distinct-llama.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20397833
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20287325
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20833455
-trojan://ND91608427@43.201.46.108:443?sni=exotic-chow.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20749257
-trojan://ND91608427@43.201.46.108:443?security=tls&sni=exotic-chow.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20355107
-trojan://ND91608427@43.201.46.108:443?security=tls&sni=exotic-chow.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20749203
-trojan://ND91608427@35.72.13.34:443?sni=casual-bee.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20327294
-trojan://ND91608427@35.72.13.34:443?sni=casual-bee.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20665078
-trojan://ND91608427@35.72.13.34:443?security=tls&sni=casual-bee.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20664081
-trojan://ND91608427@35.72.13.34:443?security=tls&sni=casual-bee.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20576266
-trojan://ND91608427@35.72.13.34:443?security=tls&sni=casual-bee.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20820138
-trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20168049
-trojan://ND91608427@3.38.106.2:443?sni=communal-sunbird.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20940486
-trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20925157
-trojan://ND91608427@3.38.106.2:443?security=tls&sni=communal-sunbird.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20440643
-trojan://ND91608427@3.36.131.218:443?sni=humorous-malamute.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20120996
-trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20826085
-trojan://ND91608427@3.36.131.218:443?security=tls&sni=humorous-malamute.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20623280
-trojan://ND91608427@3.113.24.17:443?sni=nearby-egret.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20553185
-trojan://ND91608427@3.113.24.17:443?sni=nearby-egret.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20570443
-trojan://ND91608427@202.78.163.248:443?sni=relaxed-gull.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20623320
-trojan://ND91608427@202.78.163.248:443?sni=relaxed-gull.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20531616
-trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20593554
-trojan://ND91608427@202.78.163.248:443?fp=chrome&sni=relaxed-gull.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20570439
-trojan://ND91608427@202.78.163.148:443?sni=discrete-basilisk.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20529791
-trojan://ND91608427@202.78.163.148:443?allowInsecure=1&fp=chrome&sni=discrete-basilisk.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20413131
-trojan://ND91608427@185.244.208.210:443?security=tls&sni=upright-hamster.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20322441
-trojan://ND91608427@185.244.208.13:443?sni=ace-starling.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20763937
-trojan://ND91608427@18.178.132.111:443?sni=devoted-heron.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20303213
-trojan://ND91608427@18.178.132.111:443?sni=devoted-heron.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20811866
-trojan://ND91608427@18.178.132.111:443?security=tls&sni=devoted-heron.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20346896
-trojan://ND91608427@13.231.232.184:443?sni=better-molly.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20973914
-trojan://ND91608427@13.231.232.184:443?sni=better-molly.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20287267
-trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20208847
-trojan://ND91608427@13.231.232.184:443?security=tls&sni=better-molly.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20708853
-trojan://ND91608427@13.230.118.96:443?sni=real-werewolf.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20837552
-trojan://ND91608427@13.230.118.96:443?sni=real-werewolf.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20810160
-trojan://ND91608427@13.230.118.96:443?sni=real-werewolf.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20291182
-trojan://ND91608427@13.230.118.96:443?security=tls&sni=real-werewolf.rooster465.autos&type=tcp&headerType=none&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20982435
-trojan://ND91608427@13.230.118.96:443?security=tls&sni=real-werewolf.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20641603
-trojan://MiTiVPN@151.101.56.7:443?type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e1@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s11-mitivpn--mitivpn--mitivpn-mitivpn---mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http/1.1&fp=firefox&insecure=1&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20914725
-trojan://Mehdi1234@172.64.144.251:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=purple-recipe-5e30.cimavo4626.workers.dev&path=/&sni=purple-recipe-5e30.cimavo4626.workers.dev&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20210732
-trojan://Masir_Sefid@masir_sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/zyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20301037
-trojan://HC04361579@3.38.99.157:443?sni=star-shrimp.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20512328
-trojan://HC04361579@3.38.99.157:443?allowInsecure=1&sni=star-shrimp.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20965462
-trojan://HC04361579@3.39.132.127:443?sni=star-bluejay.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20619515
-trojan://HC04361579@3.39.132.127:443?sni=star-bluejay.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20118614
-trojan://HC04361579@185.14.47.125:443?sni=eminent-lamb.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20671529
-trojan://HC04361579@185.14.47.125:443?sni=eminent-lamb.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20248044
-trojan://FH72359861@18.143.132.167:443?sni=worthy-perch.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20243723
-trojan://FH72359861@18.143.132.167:443?security=tls&sni=worthy-perch.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20750386
-trojan://FH72359861@13.113.131.176:443?sni=wise-gibbon.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20218398
-trojan://FH72359861@13.113.131.176:443?sni=wise-gibbon.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20550864
-trojan://FH72359861@13.231.123.71:443?sni=winning-shrimp.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20788578
-trojan://FH72359861@13.231.123.71:443?sni=winning-shrimp.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20360832
-trojan://FH72359861@13.231.123.71:443?sni=winning-shrimp.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20716228
-trojan://FH72359861@3.120.138.119:443?sni=up-dinosaur.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20787728
-trojan://FH72359861@13.113.71.200:443?sni=trusting-elf.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20859521
-trojan://FH72359861@13.113.71.200:443?allowInsecure=0&sni=trusting-elf.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20526907
-trojan://FH72359861@15.237.214.103:443?sni=tough-hermit.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20654320
-trojan://FH72359861@18.177.139.241:443?sni=steady-prawn.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20528360
-trojan://FH72359861@18.177.139.241:443?sni=steady-prawn.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20124832
-trojan://FH72359861@18.177.139.241:443?sni=steady-prawn.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20147086
-trojan://FH72359861@3.39.132.127:443?sni=star-bluejay.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20260788
-trojan://FH72359861@3.39.132.127:443?sni=star-bluejay.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20304870
-trojan://FH72359861@3.39.132.127:443?sni=star-bluejay.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20204966
-trojan://FH72359861@3.39.132.127:443?sni=star-bluejay.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20839443
-trojan://FH72359861@87.121.33.32:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20585458
-trojan://FH72359861@15.237.112.48:443?sni=smiling-fowl.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20709506
-trojan://FH72359861@15.237.112.48:443?sni=smiling-fowl.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20500891
-trojan://FH72359861@15.237.112.48:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20116290
-trojan://FH72359861@43.207.83.177:443?sni=settled-camel.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20582471
-trojan://FH72359861@43.207.83.177:443?sni=settled-camel.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20721992
-trojan://FH72359861@43.207.83.177:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20577980
-trojan://FH72359861@79.133.126.136:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20391605
-trojan://FH72359861@89.39.70.120:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20649503
-trojan://FH72359861@202.78.163.156:443?sni=primary-leech.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20907013
-trojan://FH72359861@202.78.163.156:443?allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20245184
-trojan://FH72359861@54.178.52.185:443?sni=pretty-adder.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20764620
-trojan://FH72359861@54.178.52.185:443?allowInsecure=0&sni=pretty-adder.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20974428
-trojan://FH72359861@13.114.100.100:443?sni=pleased-sawfly.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20979016
-trojan://FH72359861@13.114.100.100:443?sni=pleased-sawfly.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20259412
-trojan://FH72359861@13.114.100.100:443?sni=pleased-sawfly.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20590294
-trojan://FH72359861@202.78.163.175:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20140799
-trojan://FH72359861@54.150.234.233:443?sni=needed-gelding.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20318654
-trojan://FH72359861@54.150.234.233:443?sni=needed-gelding.rooster465.autos&fp=chrome&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20273072
-trojan://FH72359861@54.150.234.233:443?allowInsecure=0&sni=needed-gelding.rooster465.autos#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20658894
-trojan://FH72359861@35.181.168.168:443#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20148878
-trojan://FH72359861@91.199.84.155:443?sni=modern-bedbug.rooster465.autos&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20428922
-trojan://FH72359861@91.199.84.155:443?security=tls&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20684188
-trojan://FH72359861@43.203.206.201:443?sni=massive-ocelot.rooster465.autos&type=tcp&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20963125
-trojan://FH72359861@43.203.206.201:443?sni=massive-ocelot.rooster465.autos&type=tcp&fp=chrome#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20608768
+ss://YWVzLTI1Ni1nY206M0I5dkZUQlNscA@47.57.232.119:2119 #🇭🇰 [ Configs by DukeMehdi ] SS-HK
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@213.183.63.218:9008 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@213.183.59.211:9008 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ@103.172.116.5:9008 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@213.183.63.218:9008 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@213.183.59.211:9008 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@103.172.116.5:9008 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6dkRTOUcycA@185.4.65.6:21247 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.70:9060 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@213.183.63.221:9060 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@213.183.59.214:9060 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@213.183.59.211:9060 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@213.183.59.206:9060 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@213.183.63.221:9060 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@213.183.59.214:9060 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@213.183.59.211:9060 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@213.183.59.206:9060 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@80.92.204.106:9057 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@217.30.10.68:9057 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@213.183.59.206:9057 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg@213.183.59.177:9057 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.68:9057 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@213.183.59.206:9057 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@213.183.59.177:9057 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.68:9093 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.63:9093 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.68:9093 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.63:9093 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@213.183.63.217:9094 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@213.183.63.217:9094 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@217.30.10.70:9056 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@217.30.10.18:9056 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@103.172.116.103:9056 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg==@103.172.116.103:9056 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQEAyMjEuMTUwLjEwOS44MTo0Mjk3OA== #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p222.panda001.net:15098 #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p141.panda001.net:4652 #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@p110.panda001.net:54345 #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@e001.panda003.net:2003 #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@61.220.130.70:50701 #🇹🇼 [ Configs by DukeMehdi ] SS-TW
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.150.109.5:9555 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.201.169.70:54345 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@210.56.60.70:16612 #🇭🇰 [ Configs by DukeMehdi ] SS-HK
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.98:64759 #🇹🇼 [ Configs by DukeMehdi ] SS-TW
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.105:41632 #🇹🇼 [ Configs by DukeMehdi ] SS-TW
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.31.72:15098 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@125.141.26.5:2003 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@112.213.102.188:41632 #🇭🇰 [ Configs by DukeMehdi ] SS-HK
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p222.panda001.net:15098 #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p141.panda001.net:4652 #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@p110.panda001.net:54345 #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@e001.panda003.net:2003 #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@61.220.130.70:50701 #🇹🇼 [ Configs by DukeMehdi ] SS-TW
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@27.255.82.134:2078 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:13979 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.201.169.70:54345 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.98:64759 #🇹🇼 [ Configs by DukeMehdi ] SS-TW
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.31.72:15098 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.5:2003 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6cWF6cGxtbjEyMzY1NDdkcjQycQ@45.144.176.135:3001 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039 #🇱🇹 [ Configs by DukeMehdi ] SS-LT
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@5.188.181.201:9040 #🇪🇸 [ Configs by DukeMehdi ] SS-ES
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@217.30.10.63:9040 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@217.30.10.18:9040 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@185.135.86.173:9040 #🇱🇻 [ Configs by DukeMehdi ] SS-LV
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@5.188.181.201:9040 #🇪🇸 [ Configs by DukeMehdi ] SS-ES
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@217.30.10.63:9040 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@185.135.86.173:9040 #🇱🇻 [ Configs by DukeMehdi ] SS-LV
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ@217.30.10.70:9007 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ@217.30.10.68:9007 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ@213.183.63.218:9007 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ@103.172.116.79:9007 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@217.30.10.68:9007 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@213.183.63.218:9007 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWQ==@103.172.116.79:9007 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.68:9018 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.63:9018 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.18:9018 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@103.172.116.103:9018 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.68:9018 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@217.30.10.63:9018 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw==@103.172.116.103:9018 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.70:9088 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@103.172.116.103:9088 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg==@103.172.116.103:9088 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@95.174.23.218:989 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@94.20.154.26:989 #🇦🇿 [ Configs by DukeMehdi ] SS-AZ
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.171.89:989 #🇪🇸 [ Configs by DukeMehdi ] SS-ES
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.38.163.53:989 #🇱🇺 [ Configs by DukeMehdi ] SS-LU
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.223.109.126:989 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@91.132.94.200:989 #🇸🇮 [ Configs by DukeMehdi ] SS-SI
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.46.238.35:989 #🇱🇻 [ Configs by DukeMehdi ] SS-LV
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@89.163.140.153:989 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@85.90.217.65:989 #🇪🇸 [ Configs by DukeMehdi ] SS-ES
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@83.217.9.76:989 #🇹🇷 [ Configs by DukeMehdi ] SS-TR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.170:989 #🇨🇦 [ Configs by DukeMehdi ] SS-CA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.113:989 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@74.121.191.98:989 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.12.116.66:989 #🌐 [ Configs by DukeMehdi ] SS-KE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@54.37.139.110:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@54.37.136.249:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@54.36.115.241:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.159.111.208:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.27.48:989 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.23.63:989 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.17.169:989 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.6.8:989 #🇺🇦 [ Configs by DukeMehdi ] SS-UA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@5.188.108.10:989 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.217.232:989 #🇱🇻 [ Configs by DukeMehdi ] SS-LV
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989 #🇲🇰 [ Configs by DukeMehdi ] SS-MK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989 #🇲🇰 [ Configs by DukeMehdi ] SS-MK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.64:989 #🇭🇷 [ Configs by DukeMehdi ] SS-HR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.62:989 #🇭🇷 [ Configs by DukeMehdi ] SS-HR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.61:989 #🇭🇷 [ Configs by DukeMehdi ] SS-HR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.60:989 #🇭🇷 [ Configs by DukeMehdi ] SS-HR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@43.254.132.220:989 #🇹🇭 [ Configs by DukeMehdi ] SS-TH
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@41.203.4.34:989 #🇿🇦 [ Configs by DukeMehdi ] SS-ZA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.220.232:989 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.60.199.125:989 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.59.99:989 #🇪🇬 [ Configs by DukeMehdi ] SS-EG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989 #🇧🇷 [ Configs by DukeMehdi ] SS-BR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.42.7:989 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.27.148:989 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.113.163:989 #🇲🇾 [ Configs by DukeMehdi ] SS-MY
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.165.233.93:989 #🇵🇾 [ Configs by DukeMehdi ] SS-PY
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.252.5.234:989 #🇪🇪 [ Configs by DukeMehdi ] SS-EE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.55.21:989 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.52.112:989 #🇨🇱 [ Configs by DukeMehdi ] SS-CL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.168:989 #🇮🇸 [ Configs by DukeMehdi ] SS-IS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989 #🇮🇸 [ Configs by DukeMehdi ] SS-IS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.19.203.147:989 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989 #🇫🇮 [ Configs by DukeMehdi ] SS-FI
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.181:989 #🇦🇱 [ Configs by DukeMehdi ] SS-AL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@31.171.153.178:989 #🇦🇱 [ Configs by DukeMehdi ] SS-AL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.134:989 #🌐 [ Configs by DukeMehdi ] SS-SC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@23.92.127.133:989 #🌐 [ Configs by DukeMehdi ] SS-SC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.159.247:989 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.158.181:989 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.174.129.4:989 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.221:989 #🇨🇾 [ Configs by DukeMehdi ] SS-CY
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.169.137.214:989 #🇨🇾 [ Configs by DukeMehdi ] SS-CY
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.156.137.67:989 #🇰🇿 [ Configs by DukeMehdi ] SS-KZ
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@213.136.80.36:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@212.237.210.158:989 #🇨🇭 [ Configs by DukeMehdi ] SS-CH
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@202.59.10.102:989 #🇲🇾 [ Configs by DukeMehdi ] SS-MY
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.185.174:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@195.154.169.198:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.227.178:989 #🇧🇪 [ Configs by DukeMehdi ] SS-BE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.130.160:989 #🇭🇺 [ Configs by DukeMehdi ] SS-HU
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.71.126.31:989 #🇷🇸 [ Configs by DukeMehdi ] SS-RS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.32.29:989 #🇳🇴 [ Configs by DukeMehdi ] SS-NO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.225.104:989 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.233.65.67:989 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.89:989 #🇷🇴 [ Configs by DukeMehdi ] SS-RO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.38:989 #🇷🇴 [ Configs by DukeMehdi ] SS-RO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.14.217.115:989 #🇷🇴 [ Configs by DukeMehdi ] SS-RO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@193.235.207.28:989 #🇨🇿 [ Configs by DukeMehdi ] SS-CZ
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@193.182.144.240:989 #🇮🇱 [ Configs by DukeMehdi ] SS-IL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.27.87:989 #🇮🇱 [ Configs by DukeMehdi ] SS-IL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.249.78:989 #🇧🇪 [ Configs by DukeMehdi ] SS-BE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.49:989 #🇸🇮 [ Configs by DukeMehdi ] SS-SI
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989 #🇸🇮 [ Configs by DukeMehdi ] SS-SI
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.227.17:989 #🇨🇦 [ Configs by DukeMehdi ] SS-CA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.211.161:989 #🇭🇺 [ Configs by DukeMehdi ] SS-HU
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.102:989 #🇬🇷 [ Configs by DukeMehdi ] SS-GR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989 #🇬🇷 [ Configs by DukeMehdi ] SS-GR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.94:989 #🇩🇰 [ Configs by DukeMehdi ] SS-DK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.79:989 #🇩🇰 [ Configs by DukeMehdi ] SS-DK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.36.27.116:989 #🇩🇰 [ Configs by DukeMehdi ] SS-DK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989 #🇲🇩 [ Configs by DukeMehdi ] SS-MD
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.231.45:989 #🇨🇴 [ Configs by DukeMehdi ] SS-CO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.230.9:989 #🇨🇱 [ Configs by DukeMehdi ] SS-CL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989 #🇵🇪 [ Configs by DukeMehdi ] SS-PE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989 #🇲🇽 [ Configs by DukeMehdi ] SS-MX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.29:989 #🇦🇷 [ Configs by DukeMehdi ] SS-AR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@188.123.123.133:989 #🇸🇰 [ Configs by DukeMehdi ] SS-SK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989 #🇳🇴 [ Configs by DukeMehdi ] SS-NO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.219:989 #🇵🇷 [ Configs by DukeMehdi ] SS-PR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.255.123.90:989 #🌐 [ Configs by DukeMehdi ] SS-NG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.237.185.160:989 #🇱🇹 [ Configs by DukeMehdi ] SS-LT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989 #🇵🇹 [ Configs by DukeMehdi ] SS-PT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989 #🇳🇴 [ Configs by DukeMehdi ] SS-NO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.180.12.81:989 #🇦🇹 [ Configs by DukeMehdi ] SS-AT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.164.35.9:989 #🇧🇦 [ Configs by DukeMehdi ] SS-BA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989 #🇲🇩 [ Configs by DukeMehdi ] SS-MD
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.123.101.241:989 #🇹🇷 [ Configs by DukeMehdi ] SS-TR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@180.149.44.120:989 #🇦🇿 [ Configs by DukeMehdi ] SS-AZ
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@179.49.5.114:989 #🇪🇨 [ Configs by DukeMehdi ] SS-EC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@178.175.134.2:989 #🇲🇩 [ Configs by DukeMehdi ] SS-MD
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@176.10.80.6:989 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989 #🇲🇹 [ Configs by DukeMehdi ] SS-MT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@170.80.111.5:989 #🇬🇹 [ Configs by DukeMehdi ] SS-GT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@163.172.64.22:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@158.247.213.230:989 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989 #🇸🇰 [ Configs by DukeMehdi ] SS-SK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.93.51.34:989 #🇲🇲 [ Configs by DukeMehdi ] SS-MM
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989 #🌐 [ Configs by DukeMehdi ] SS-SC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989 #🌐 [ Configs by DukeMehdi ] SS-SC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.20.79:989 #🌐 [ Configs by DukeMehdi ] SS-SC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.16.212:989 #🇨🇴 [ Configs by DukeMehdi ] SS-CO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@151.236.30.184:989 #🇦🇹 [ Configs by DukeMehdi ] SS-AT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.230:989 #🇲🇽 [ Configs by DukeMehdi ] SS-MX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@146.185.248.22:989 #🇦🇲 [ Configs by DukeMehdi ] SS-AM
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.59.16.146:989 #🇨🇷 [ Configs by DukeMehdi ] SS-CR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.142.4:989 #🇵🇦 [ Configs by DukeMehdi ] SS-PA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@135.125.244.103:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.255.210.49:989 #🇨🇾 [ Configs by DukeMehdi ] SS-CY
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@131.255.4.219:989 #🇨🇴 [ Configs by DukeMehdi ] SS-CO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@121.127.46.147:989 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@104.192.226.106:989 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.75.118.27:989 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.238.213.96:989 #🇻🇳 [ Configs by DukeMehdi ] SS-VN
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989 #🇻🇳 [ Configs by DukeMehdi ] SS-VN
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.106.229.219:989 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@94.20.154.26:989 #🇦🇿 [ Configs by DukeMehdi ] SS-AZ
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.171.89:989 #🇪🇸 [ Configs by DukeMehdi ] SS-ES
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989 #🇱🇺 [ Configs by DukeMehdi ] SS-LU
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.223.109.126:989 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@91.132.94.200:989 #🇸🇮 [ Configs by DukeMehdi ] SS-SI
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@89.46.238.35:989 #🇱🇻 [ Configs by DukeMehdi ] SS-LV
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@89.163.140.153:989 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989 #🇨🇦 [ Configs by DukeMehdi ] SS-CA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.150:989 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@74.121.191.98:989 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@62.12.116.66:989 #🌐 [ Configs by DukeMehdi ] SS-KE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.111.208:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.27.48:989 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.17.169:989 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.6.8:989 #🇺🇦 [ Configs by DukeMehdi ] SS-UA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@5.188.108.10:989 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.37:989 #🇲🇰 [ Configs by DukeMehdi ] SS-MK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.185.15:989 #🇲🇰 [ Configs by DukeMehdi ] SS-MK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.64:989 #🇭🇷 [ Configs by DukeMehdi ] SS-HR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.61:989 #🇭🇷 [ Configs by DukeMehdi ] SS-HR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989 #🇭🇷 [ Configs by DukeMehdi ] SS-HR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@45.136.196.45:989 #🇪🇸 [ Configs by DukeMehdi ] SS-ES
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@41.203.4.34:989 #🇿🇦 [ Configs by DukeMehdi ] SS-ZA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989 #🇧🇷 [ Configs by DukeMehdi ] SS-BR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.165.233.93:989 #🇵🇾 [ Configs by DukeMehdi ] SS-PY
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.252.5.234:989 #🇪🇪 [ Configs by DukeMehdi ] SS-EE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.55.21:989 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.168:989 #🇮🇸 [ Configs by DukeMehdi ] SS-IS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989 #🇮🇸 [ Configs by DukeMehdi ] SS-IS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.19.203.147:989 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989 #🇫🇮 [ Configs by DukeMehdi ] SS-FI
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@31.171.153.181:989 #🇦🇱 [ Configs by DukeMehdi ] SS-AL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.134:989 #🌐 [ Configs by DukeMehdi ] SS-SC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@23.92.127.133:989 #🌐 [ Configs by DukeMehdi ] SS-SC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.174.129.4:989 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.169.137.221:989 #🇨🇾 [ Configs by DukeMehdi ] SS-CY
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989 #🇷🇸 [ Configs by DukeMehdi ] SS-RS
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.38:989 #🇷🇴 [ Configs by DukeMehdi ] SS-RO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.14.217.115:989 #🇷🇴 [ Configs by DukeMehdi ] SS-RO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989 #🇧🇪 [ Configs by DukeMehdi ] SS-BE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989 #🇸🇮 [ Configs by DukeMehdi ] SS-SI
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989 #🇬🇷 [ Configs by DukeMehdi ] SS-GR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989 #🇬🇷 [ Configs by DukeMehdi ] SS-GR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989 #🇩🇰 [ Configs by DukeMehdi ] SS-DK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.116:989 #🇩🇰 [ Configs by DukeMehdi ] SS-DK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.231.45:989 #🇨🇴 [ Configs by DukeMehdi ] SS-CO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.230.9:989 #🇨🇱 [ Configs by DukeMehdi ] SS-CL
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.120.229.28:989 #🇵🇪 [ Configs by DukeMehdi ] SS-PE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.179.23:989 #🇲🇽 [ Configs by DukeMehdi ] SS-MX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@190.103.176.29:989 #🇦🇷 [ Configs by DukeMehdi ] SS-AR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989 #🇳🇴 [ Configs by DukeMehdi ] SS-NO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.47.255.219:989 #🇵🇷 [ Configs by DukeMehdi ] SS-PR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989 #🌐 [ Configs by DukeMehdi ] SS-NG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989 #🇵🇹 [ Configs by DukeMehdi ] SS-PT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989 #🇳🇴 [ Configs by DukeMehdi ] SS-NO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989 #🇦🇹 [ Configs by DukeMehdi ] SS-AT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.164.35.9:989 #🇧🇦 [ Configs by DukeMehdi ] SS-BA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989 #🇲🇩 [ Configs by DukeMehdi ] SS-MD
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.123.101.241:989 #🇹🇷 [ Configs by DukeMehdi ] SS-TR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@180.149.44.120:989 #🇦🇿 [ Configs by DukeMehdi ] SS-AZ
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@179.49.5.114:989 #🇪🇨 [ Configs by DukeMehdi ] SS-EC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989 #🇲🇹 [ Configs by DukeMehdi ] SS-MT
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@163.172.64.22:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@158.247.213.230:989 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989 #🇸🇰 [ Configs by DukeMehdi ] SS-SK
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989 #🌐 [ Configs by DukeMehdi ] SS-SC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989 #🌐 [ Configs by DukeMehdi ] SS-SC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989 #🌐 [ Configs by DukeMehdi ] SS-SC
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989 #🇨🇴 [ Configs by DukeMehdi ] SS-CO
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@146.185.248.22:989 #🇦🇲 [ Configs by DukeMehdi ] SS-AM
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.59.16.146:989 #🇨🇷 [ Configs by DukeMehdi ] SS-CR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989 #🇵🇦 [ Configs by DukeMehdi ] SS-PA
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@135.125.244.103:989 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.75.118.27:989 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.163.218.2:989 #🇻🇳 [ Configs by DukeMehdi ] SS-VN
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.106.229.219:989 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AzNy4yMzUuNTUuODQ6OTg5 #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AyMTMuMTM2LjgwLjM2Ojk4OQ #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxOTUuMjExLjQxLjEwOjk4OQ #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxOTQuNjguNDQuMjA2Ojk4OQ #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxODUuODkuMjM4LjM2Ojk4OQ #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxNTEuMjM2LjIzLjEwNTo5ODk #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A1NC4zNy4xMzYuMjQ5Ojk4OQ #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0A0Ni4xODMuMTg1LjE1Ojk4OQ #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@80.92.204.106:9010 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@217.30.10.68:9010 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA@217.30.10.63:9010 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.68:9010 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@217.30.10.63:9010 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ@172.105.218.17:8099 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ@172.104.123.158:8097 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ@139.162.5.19:8099 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ=@172.104.123.158:8097 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA@217.30.10.68:9073 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA@103.172.116.79:9073 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.68:9073 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@103.172.116.79:9073 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw@54.199.83.239:2333 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw@43.202.49.222:2333 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw==@54.199.83.239:2333 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6ZG91Yi5pbw==@43.202.49.222:2333 #🇰🇷 [ Configs by DukeMehdi ] SS-KR
+ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw@185.135.86.173:9029 #🇱🇻 [ Configs by DukeMehdi ] SS-LV
+ss://YWVzLTI1Ni1jZmI6ZFUzRFNOUzh3WVBYekVLdw==@185.135.86.173:9029 #🇱🇻 [ Configs by DukeMehdi ] SS-LV
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@217.30.10.68:9038 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@217.30.10.63:9038 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@213.183.59.190:9038 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@194.116.173.21:9038 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.68:9038 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.63:9038 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@213.183.59.190:9038 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.70:9084 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.18:9084 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@213.183.63.218:9084 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@213.183.59.206:9084 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@103.172.116.5:9084 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@103.172.116.103:9084 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@213.183.63.218:9084 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@213.183.59.206:9084 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.5:9084 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag==@103.172.116.103:9084 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY@95.169.4.174:254 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY@93.179.112.70:253 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY=@95.169.4.174:254 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDY=@93.179.112.70:253 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@97.64.122.63:253 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@199.115.228.30:253 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@198.181.56.163:238 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@172.96.192.100:246 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU@144.168.58.170:254 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU=@97.64.122.63:253 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU=@199.115.228.30:253 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU=@198.181.56.163:238 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU=@172.96.192.100:246 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDU=@144.168.58.170:254 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@97.64.31.80:247 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@172.96.192.58:254 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@144.168.60.70:252 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@104.243.30.252:246 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM@104.243.25.95:253 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM=@97.64.31.80:247 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM=@172.96.192.58:254 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM=@144.168.60.70:252 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM=@104.243.30.252:246 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDM=@104.243.25.95:253 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA@217.30.10.70:9070 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA@217.30.10.68:9070 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA==@217.30.10.68:9070 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@84.17.53.163:80 #🇨🇭 [ Configs by DukeMehdi ] SS-CH
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@84.17.34.108:80 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@84.17.34.108:110 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.159.222.36:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.159.222.19:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.159.104.104:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.61.155:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.54.235:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.54.209:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.204.17:443 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.202.190:443 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.200.141:443 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.59.21.132:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.59.21.131:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.59.21.130:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.214:443 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.213:443 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.212:443 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.211:443 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@31.172.67.43:443 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@212.102.38.88:443 #🇨🇿 [ Configs by DukeMehdi ] SS-CZ
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@212.102.38.41:443 #🇨🇿 [ Configs by DukeMehdi ] SS-CZ
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@198.244.231.74:443 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@198.244.231.34:443 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@198.244.231.28:443 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@198.244.231.27:443 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@198.244.231.26:443 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@198.244.231.25:443 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.84.198:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.83.15:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.83.12:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.169:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.166:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.165:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.163:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.162:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.161:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.59.160:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.204.83:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.204.82:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.204.79:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.204.78:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.204.75:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.204.74:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.19.210:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.18.235:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.18.107:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.18.105:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.171.97:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.171.67:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.170.225:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.170.224:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.170.219:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.170.211:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.170.210:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.170.208:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.170.207:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.169.128:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.139.37:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.139.36:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.138.150:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.138.149:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.138.148:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.71.221:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.71.220:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.55.84:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.212:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.211:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.209:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.196:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.195:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.186:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.183:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.181:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.240:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.171:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.170:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.169:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.168:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.167:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@143.244.58.102:443 #🇨🇿 [ Configs by DukeMehdi ] SS-CZ
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@143.244.43.216:110 #🇨🇦 [ Configs by DukeMehdi ] SS-CA
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.95.99.192:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.95.98.94:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.95.64.70:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.95.157.210:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.95.126.193:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.95.126.108:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.95.125.11:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.94.143.221:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@84.17.34.108:110 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.214:443 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.213:443 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.212:443 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.211:443 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@31.172.67.43:443 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.88:443 #🇨🇿 [ Configs by DukeMehdi ] SS-CZ
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@212.102.38.41:443 #🇨🇿 [ Configs by DukeMehdi ] SS-CZ
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.165:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.163:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.162:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.161:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.59.160:443 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443 #🇨🇿 [ Configs by DukeMehdi ] SS-CZ
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTk5LjE1LjcwOjQ0Mw== #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy43MC4xOTQuMTQyOjQ0Mw== #🌐 [ Configs by DukeMehdi ] SS-XX
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.183.200.172:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.180.254.10:443 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.95.169.40:443 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.64.6.209:443 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.255.43.76:443 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.254.199.122:443 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.254.129.246:443 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.251.73.151:443 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.251.168.143:443 #🇸🇬 [ Configs by DukeMehdi ] SS-SG
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.250.238.74:443 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.245.219.99:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.199.66.30:443 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.190.1.125:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.187.181.151:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.185.251.195:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
