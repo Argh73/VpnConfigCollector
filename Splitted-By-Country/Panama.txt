@@ -1,45 +1,68 @@
-vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
-vless://588f094b-431b-422c-b80b-007945037072@95.164.47.60:443?path=%2Fwebsocket&amp;security=tls&amp;encryption=none&amp;host=de02.abvpn.ru&amp;type=ws&amp;sni=de02.abvpn.ru#7
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=www.nintendogames.net#Japan%20NTT%20Pc
-trojan://BxceQaOe@16.162.103.28:7674?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://BxceQaOe@54.46.126.133:9408?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCJhZGQiOiJ2MTAuaGRhY2QuY29tIiwicG9ydCI6IjMwODA3IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MTAuaGRhY2QuY29tIiwidGxzIjoiIn0=
+trojan://6ec301428255a78a1d826988d86cc87e@18.162.156.145:50887?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
+trojan://6ec301428255a78a1d826988d86cc87e@18.163.114.228:26704?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:51396?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
-trojan://humanity@104.26.14.137:443?allowInsecure=1&sni=www.ignitelimit.com#%E2%9D%93%E6%9C%AA%E7%9F%A5%E4%B8%A8yoyapai.com%5Cr
-ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MEAxNzYuMzIuMzUuNTE6MTA5MTY/#%F0%9F%87%B7%F0%9F%87%BA_RU%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%A8yoyapai.com%5Cr
-ssr://MjMxMTAzbGV2ZWx4LnVuY2xlbWFuY28uY29tOjM3ODY2OmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpaR0ZxYTJScmFtUXlZU1prYWpJelozTmgvP29iZnNwYXJhbT1aRE13TUdNeE1USTNOUzV0YVdOeWIzTnZablF1WTI5dCZyZW1hcmtzPThKJTJCSHV2Q2ZoN2hWVXkweE56SXVPVFl1TVRZd0xqSTFNQzAxTWpreCZwcm90b3BhcmFtPU1URXlOelU2UzFkUlNHaGxjVmR2T0ElM0QlM0Q=
+trojan://BxceQaOe@16.163.139.175:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://humanity@104.18.152.152:443?allowInsecure=1&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD%E4%B8%A8yoyapai.com%5Cr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVkyQHRpbmtlcmVkLXBlbm5pZXMtcHVwcGllcy5mcmVlc29ja3Mud29yazo0NDM/#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com%5Cr
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCAiYWRkIjogInYxMC5oZGFjZC5jb20iLCAicG9ydCI6IDMwODA3LCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0In0=
+trojan://6ec301428255a78a1d826988d86cc87e@16.162.100.124:51396?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+ssr://api.meituan88.com:3210:auth_aes128_md5:rc4-md5:tls1.2_ticket_authZGkxNVBWremarks=8J-HuPCfh6xTR183fDEuNk1CL3M=&obfsparam=NjY1MjAzNDYzLmRvdXlpbi5jb20=&protoparam=MjAzNDYzOllNbzNzbg==
+trojan://8r<[9'l6hAO#8ZQi@172.64.149.54:2096?path=/tr&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#EPODONIOS
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989#%F0%9F%87%B5%F0%9F%87%A6PA-138.186.142.4-7947
-trojan://BxceQaOe@16.162.103.28:7674?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
-trojan://6ec301428255a78a1d826988d86cc87e@18.163.114.228:26704?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://BxceQaOe@16.163.139.175:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
-vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443?&security=reality&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&sid=0b&fp=chrome&sni=ru2.skydrgn-online.online&type=tcp&headerType=none&path=%2F#%E7%BE%8E%E5%9C%8B%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com
-vless://875d3876-ab9a-4dd6-8a8d-bf57f03403aa@104.26.13.40:8880?&security=false&fp=chrome&type=ws&headerType=none&host=square-sea-01d1.339-be3.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#%E7%BE%8E%E5%9C%8B%E4%B8%A8yoyapai.com_36
-vless://5aab0d40-c509-4560-b048-ade921fdfb6a@70.39.197.13:46197?&security=reality&pbk=npJEB6VpYJ9iYTZ-z0IL06Xs7PEz0N3fZU_IRwftQ00&sid=f24c17bb7fc284&fp=chrome&sni=updates.cdn-apple.com&type=tcp&headerType=none&path=%2F#%E5%85%8D%E8%B2%BB%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com_37
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.190:8880?mode=gun&security=none&encryption=none&type=grpc#@v2Sourcetrojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#@v2Source
-vless://288bb3f1-8994-47cf-8bd8-9b7d4d716461@104.19.145.222:8880/?type=ws&encryption=none&flow=&host=newvless2026.nova-b0f3f5.workers.dev&path=/?ed=2560#🇭🇰HK
+vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&amp;allowInsecure=0&amp;encryption=none&amp;type=tcp&amp;sni=swdist.apple.com&amp;sid=232c6f7b520b89&amp;fp=ios&amp;pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&amp;spx=/WrlEujUojrpP7Bk&amp;headerType=none#Japan+AWS
+vless://+2rVQexR2fMYcjtu63hvqLzjdYQmGkO4AxBps1D9ZzdtljGB001uRWxBBK/RBwUPDESTjk1hFYprbsXg3SOtIK21E1/yfab2CxB4nhXWrUfUBVDpAOO5eWNwlBZNgicXbNbQ6N7Y8vI2jbB/9n5hLR27o8tKGSGzaMLf9cbSG7IynUW/AHHwUh/DraHqmxkJ9jOsLyQC2LEUML2PnMbPng==   تمام شد
+vless://0183ea01-1071-4b3b-97fa-67dd115fe8f8@176.120.17.90:2083?encryption=none&amp;type=http&amp;path=/
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Mkt2bkducjQvbDNPaVJmNEhiMlEzR01iSzUvSGJUZnpKVy9yS2QvdTI1MD06a0N4aFZERVNaSm1UNHp1WEhDR2RpTzdRZ1hMY0xGYWR6bWFGTHlkYnpGOD0=@51.89.118.24:8080?security=none&amp;type=tcp#@ParsRoute-1000.00GB%F0%9F%93%8A
+vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@104.24.248.204:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#😟Ch: @pPal03😟جوین بده عمو جون😟
+vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?encryption=none&security=none&type=ws&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=/?ed=2560#😟Ch: @pPal03😟جوین بده عمو جون😟
+vless://2e3471c1-9eb0-4810-aec3-09c1118d2dfc@104.16.241.253:80?encryption=none&security=none&type=ws&host=morning-wildflower-70dd-ppal03.xotocip989.workers.dev&path=/?ed=2560#👽Tel: @pPal03👽جوین بدید گوگولیا👽
+vless://2e3471c1-9eb0-4810-aec3-09c1118d2dfc@104.24.196.67:80?encryption=none&security=none&type=ws&host=morning-wildflower-70dd-ppal03.xotocip989.workers.dev&path=/?ed=2560#👽Tel: @pPal03👽جوین بدید گوگولیا👽
+vless://3b77447b-a712-4de0-aea5-ad80fdd283fd@3x-ui-multi-production-5f14.up.railway.app:443?fp=chrome&host=3x-ui-multi-production-5f14.up.railway.app&path=/in9&security=tls&sni=3x-ui-multi-production-5f14.up.railway.app&type=ws#Spain-es-client
+vless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@103.21.244.75:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#🥑Tel: @pPal03🥑Join🥑
+vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch: @pPal03🔥
+vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@172.64.92.243:80?encryption=none&security=none&type=ws&host=square-moon-bc81-ppal03.tivere6418.workers.dev&path=/?ed=2560#🔥Ch: @pPal03🔥
 vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.16.203.166:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
-vless://92c8098f-1143-05ef-4d67-004d9c81343d@subgift3.up.railway.app:443?encryption=none&security=tls&sni=subgift3.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=subgift3.up.railway.app&path=/ws/92c8098f-1143-05ef-4d67-004d9c81343d&packetEncoding=xudp#117
+vless://592bac53-90ec-44b5-811b-01f6adf28f41@104.24.140.39:80?encryption=none&security=none&type=ws&host=wild-glade-236b-ppal03.xawego3471.workers.dev&path=/?ed=2560#🥸Tel: @pPal03🥸جوین بدید گوگولیا🥸
+vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@104.24.218.13:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel: @pPal03 && جوین بدید
+vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#Tel: @pPal03 && جوین بدید
+vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.16.52.89:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch: @pPal03😛جوین بدید😛
+vless://7fea28c6-f9b0-45ce-b7c2-ed3a3991d1e8@104.24.248.85:80?encryption=none&security=none&type=ws&host=curly-waterfall-509e-ppal03.wimiba9167.workers.dev&path=/?ed=2560#😛Ch: @pPal03😛جوین بدید😛
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.16.40.145:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
+vless://818a98bf-e7d0-45d5-800b-24d4058234c6@104.24.172.153:80?encryption=none&security=none&type=ws&host=still-smoke-881e-ppal03.cabit21569.workers.dev&path=/?ed=2560#🤖Ch: @pPal03🤖جوین بدید🤖
+vless://94b0cde3-a305-4d89-a192-575339220c7f@104.16.233.169:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch: @pPal03🔴⚪️🔵جوین بدید عزیزان🔴⚪️🔵
+vless://94b0cde3-a305-4d89-a192-575339220c7f@104.24.91.178:80?encryption=none&security=none&type=ws&host=flat-rain-e26e-ppal03.cigoyob991.workers.dev&path=/?ed=2560#🔴⚪️🔵Ch: @pPal03🔴⚪️🔵جوین بدید عزیزان🔴⚪️🔵
 vless://a1311ab3-0498-4cfd-b2c9-b5a4ba7d2999@104.24.247.189:80?encryption=none&security=none&type=ws&host=rapid-mountain-e6a9-ppal03.rahog30057.workers.dev&path=/?ed=2560#👁Ch: @pPal03👁جوین بدید گوگولیا👁
-trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=1#Japan%20%F0%9F%87%AF%F0%9F%87%B5
-trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?allowInsecure=1&sni=t11.qifei.app#Japan%20%F0%9F%87%AF%F0%9F%87%B5
-trojan://FH72359861@sterling-fowl.rooster465.autos:443?allowInsecure=0&sni=sterling-fowl.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+vless://a3875c94-e968-404c-b62d-5a292d20e6d8@103.21.244.4:80?encryption=none&security=none&type=ws&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&path=/?ed=2560#💟Tel: @pPal03💟جوین بدید عزیزانم💟
+vless://a3875c94-e968-404c-b62d-5a292d20e6d8@104.16.171.121:80?encryption=none&security=none&type=ws&host=polished-limit-deb9-ppal03.latopi8673.workers.dev&path=/?ed=2560#💟Tel: @pPal03💟جوین بدید عزیزانم💟
+vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.16.183.83:80?encryption=none&security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev&path=/?ed=2560#😇Tel: @pPal03😇
+vless://d4e672e0-bc04-45c1-b710-df097fa41d23@104.24.219.162:80?encryption=none&security=none&type=ws&host=jolly-fog-9e08-ppal03.revog68198.workers.dev&path=/?ed=2560#😇Tel: @pPal03😇
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#@Rayan_Config-82.38.31.176-@beepassvpn_bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#@Rayan_Config-82.38.31.179-@beepassvpn_bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#@Rayan_Config-82.38.31.187-@beepassvpn_bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#@Rayan_Config-82.38.31.208-@beepassvpn_bot
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#@Rayan_Config-82.38.31.218-@beepassvpn_bot
+vless://54bb59cf-96fc-4a66-8488-fa2391f2e650@190.97.165.84:448/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&alpn=channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-&security=reality&pbk=XxCsLlJ3kJJa2MiPHS3FlF0DyAS9TkQkn8lfCVZgDQw&sid=cd2d4a8f08aa985d#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%A6%20PA-2
+vless://06ea96b5-65c6-41a4-86fd-2ec06857b258@cf2.helishot.info:443?encryption=none&security=tls&sni=fire.rezazzz.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=fire.rezazzz.ir&path=/#🏳️ 387 ✨ زن زندگی آزادی
+trojan://AE62539071@distinct-quail.rooster465.autos:443?sni=distinct-quail.rooster465.autos&type=tcp&path=/#🏳️ 193 ✨ زن زندگی آزادی
+trojan://FH72359861@modern-bedbug.rooster465.autos:443?sni=modern-bedbug.rooster465.autos&path=/#🏳️ 524 ✨ زن زندگی آزادی
+trojan://ND91608427@185.244.208.210:443?security=tls&sni=upright-hamster.rooster465.autos&path=/#🏳️ 632 ✨ زن زندگی آزادی
+trojan://PQ05174892@3.36.76.19:443?sni=renewing-leopard.rooster465.autos&type=tcp&fp=chrome#🏳️ 784 ✨ زن زندگی آزادی
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52012?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=sdx1qdzqgp8lcajn#🏳️ 104 ✨ زن زندگی آزادی
+hysteria2://jkcnkc84dvggvi2n@38.107.232.146:54040?sni=38.107.232.146&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=JynMarket#🏳️ 507 ✨ زن زندگی آزادی
+vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=/WrlEujUojrpP7Bk&headerType=none#Japan+AWS
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&fp=&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%8C%805@oneclickvpnkeyshysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.104:8443/?insecure=1&sni=mercedes-grape.yyuyy.com#%F0%9F%8C%806@oneclickvpnkeysss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU@51.255.13.232:8388#%F0%9F%8C%8099@oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE@176.97.73.215:8388#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://FH72359861@emerging-porpoise.rooster465.autos:443?allowInsecure=0&sni=emerging-porpoise.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://FH72359861@adapting-giraffe.rooster465.autos:443?allowInsecure=0&sni=adapting-giraffe.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://AE62539071@polished-imp.rooster465.autos:443?allowInsecure=1&sni=polished-imp.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://FH72359861@helping-shark.rooster465.autos:443?allowInsecure=1#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 trojan://FH72359861@internal-mongoose.rooster465.autos:443?allowInsecure=0&sni=internal-mongoose.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://FH72359861@needed-gelding.rooster465.autos:443?allowInsecure=0&sni=needed-gelding.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://FH72359861@many-pangolin.rooster465.autos:443?allowInsecure=1#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://FH72359861@magical-airedale.rooster465.autos:443?allowInsecure=0&sni=magical-airedale.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
+trojan://FH72359861@trusting-elf.rooster465.autos:443?allowInsecure=0&sni=trusting-elf.rooster465.autos#Japan%20%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@138.186.142.4:989 #🇵🇦 [ Configs by DukeMehdi ] SS-PA
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.142.4:989 #🇵🇦 [ Configs by DukeMehdi ] SS-PA
 vless://54bb59cf-96fc-4a66-8488-fa2391f2e650@190.97.165.84:448/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&alpn=channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-&security=reality&pbk=XxCsLlJ3kJJa2MiPHS3FlF0DyAS9TkQkn8lfCVZgDQw&sid=cd2d4a8f08aa985d #🇵🇦 [ Configs by DukeMehdi ] VL-PA
 vless://54bb59cf-96fc-4a66-8488-fa2391f2e650@190.97.165.84:448/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=XxCsLlJ3kJJa2MiPHS3FlF0DyAS9TkQkn8lfCVZgDQw&sid=cd2d4a8f08aa985d #🇵🇦 [ Configs by DukeMehdi ] VL-PA
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@188.166.121.10:2096?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=/#🏳️ 496 ✨ زن زندگی آزادی
-trojan://AE62539071@3.38.191.182:443?sni=saved-ghoul.rooster465.autos&type=tcp&path=/#🏳️ 95 ✨ زن زندگی آزادی
-trojan://AE62539071@dynamic-grubworm.rooster465.autos:443?security=tls&path=/#🇭🇰 195 ✨ زن زندگی آزادی
-trojan://AE62539071@modest-pup.rooster465.autos:443?sni=modest-pup.rooster465.autos&type=tcp&path=/#🏳️ 251 ✨ زن زندگی آزادی
-trojan://AE62539071@outgoing-ladybird.rooster465.autos:443?sni=outgoing-ladybird.rooster465.autos&type=tcp&path=/#🏳️ 260 ✨ زن زندگی آزادی
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?sni=unbiased-garfish.rooster465.autos&type=tcp&path=/#🏳️ 305 ✨ زن زندگی آزادی
-trojan://FH72359861@43.207.87.43:443?sni=casual-stallion.rooster465.autos&path=/#🏳️ 390 ✨ زن زندگی آزادی
-trojan://FH72359861@great-wasp.rooster465.autos:443?sni=great-wasp.rooster465.autos&type=tcp&path=/#🏳️ 492 ✨ زن زندگی آزادی
-trojan://FH72359861@light-filly.rooster465.autos:443?sni=light-filly.rooster465.autos&fp=chrome&type=tcp&path=/#🏳️ 509 ✨ زن زندگی آزادی
-trojan://HC04361579@3.39.132.127:443?sni=star-bluejay.rooster465.autos&fp=chrome&type=tcp&path=/#🏳️ 595 ✨ زن زندگی آزادی
-trojan://PQ05174892@13.212.44.180:443?sni=smooth-hornet.rooster465.autos&fp=chrome&type=tcp&path=/#🏳️ 757 ✨ زن زندگی آزادی
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52002?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=ielzukpwth087afx#🏳️ 94 ✨ زن زندگی آزادی
-hysteria2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa1.api3-max.ru:443?insecure=0&allowInsecure=0#🏳️ 190 ✨ زن زندگی آزادی
-hysteria2://AstroVPN_official@hystry.accuratenetworkchecker.ir:8083?sni=vhd.nth.gelzaro.ir&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=4b6gmo4jujpapx99#🏳️ 279 ✨ زن زندگی آزادی
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@2a0c:4ac1:8::121:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🏳️ 400 ✨ زن زندگی آزادی
-hysteria2://ik0zt621uw9iqvsi@assets.gateway-stream.com:52023?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=detgimgm8qh8i2g2#🏳️ 503 ✨ زن زندگی آزادی
