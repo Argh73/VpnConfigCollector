@@ -2,6 +2,11 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://1f347596-193a-baf6-a33b-4eeb1bbb548b@69.46.46.17:443?path=%2Fws%2F1f347596-193a-baf6-a33b-4eeb1bbb548b&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=rvg-production-cc31.up.railway.app&fp=ios&type=ws&allowInsecure=0&sni=rvg-production-cc31.up.railway.app #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://1f2c36a3-bfd0-4491-8fd7-cdff97bb4f9d@109.122.249.131:3232/?encryption=none&host=zula.ir&type=tcp&headerType=http #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@fat-sp.arpozan.cloud:8443?encryption=none&security=tls&sni=fat-sp.arpozan.cloud&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc&mode=gun #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@fat-sp.arpozan.cloud:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=fat-sp.arpozan.cloud&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.228.161:8443?encryption=none&security=none&type=grpc&authority=&serviceName=grpc&mode=gun #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@95.85.224.3:8443?type=grpc&serviceName=grpc #🇪🇪 [ Configs by DukeMehdi ] VL-EE
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?type=grpc&serviceName=grpc #🇹🇷 [ Configs by DukeMehdi ] VL-TR
 vless://1f29762d-3f23-4207-9e39-f774de5d49ba@138.124.62.241:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=fat-sp.arpozan.cloud&type=grpc #🇪🇸 [ Configs by DukeMehdi ] VL-ES
@@ -91,6 +96,7 @@ vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&ty
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?encryption=none&security=none&type=ws&host=ov-italy1.09vpn.com&path=%2Fvless%2F #🇮🇹 [ Configs by DukeMehdi ] VL-IT
 vless://1e280316-0408-47c4-b058-05b8f1f17f02@57.131.32.191:80?alpn=http%2F1.1&fp=chrome&host=ov-italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws #🇮🇹 [ Configs by DukeMehdi ] VL-IT
 vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mx.bexumconnect.ltd #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mx.bexumconnect.ltd #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://1dff0d64-d1f8-43a3-d982-35fc65327ffe@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://1df5e589-3301-427e-b0aa-0017ffde1555@91.107.155.193:4050?security=reality&encryption=none&pbk=oVRY8h7Njgw25j3CNhaJVMUys378tTvecrSRbrB3gyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.de&sid=2ebd6e17dec6a5d9 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://1df5e589-3301-427e-b0aa-0017ffde1555@65.109.199.233:4050?security=reality&encryption=none&pbk=oVRY8h7Njgw25j3CNhaJVMUys378tTvecrSRbrB3gyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.de&sid=2ebd6e17dec6a5d9 #🇫🇮 [ Configs by DukeMehdi ] VL-FI
@@ -389,6 +395,7 @@ vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.128.70.91:8686?encryption=none&s
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.128.236.199:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.68.184:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.21.170:8686?security=reality&encryption=none&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&headerType=none&type=tcp&sni=www.apple.com&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.20.124:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.18.89:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.109.44:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.105.5:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
@@ -495,10 +502,3 @@ vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.172.59:8686?encryption=none&
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.169.246:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.167.132:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
 vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.160.150:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.159.35:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.159.138:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.157.106:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.156.182:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.154.28:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.149.139:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
-vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.147.186:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG

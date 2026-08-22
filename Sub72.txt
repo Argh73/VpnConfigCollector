@@ -2,6 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.214:8080?encryption=none&security=&sni=&type=ws&alpn=&host=&path=/?ed=2048 #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.144:8080?type=ws&sni=40.160.69.144 #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.144:8080?encryption=none&security=none&type=ws&path=%2F%3Fed #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.112:8080?type=ws&sni=40.160.69.112 #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.69.112:8080?path=/?ed&security=none&encryption=none&type=ws #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.72:8080?type=ws&sni=40.160.68.72 #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.72:8080?path=/?ed&security=none&encryption=none&type=ws #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.55:8080?type=ws&sni=40.160.68.55 #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.55:8080?path=/?ed&security=none&encryption=none&type=ws #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://11af1c47-865a-47c6-92ff-118013655d78@40.160.68.233:8080?type=ws&sni=40.160.68.233 #🇺🇸 [ Configs by DukeMehdi ] VL-US
@@ -204,6 +211,7 @@ vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406/?encrypt
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@87.107.110.155:4406?type=tcp&headerType=http&host=www.varzesh3.com&security=none #🇮🇷 [ Configs by DukeMehdi ] VL-IR
 vless://0fc8452a-17f9-47de-95dd-65de502d39da@45.32.131.28:31001/?type=ws&encryption=none&host=madcity2.777999.lol #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=%2F55072%2Fapi&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://0fc0e114-8ed6-4c8e-931e-7e3674929750@meshbuzz.bond:443?path=%2Fadycon&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=oaimvo42.nava-shop1.ir&fp=ios&type=ws&allowInsecure=0&sni=oaimvo42.nava-shop1.ir #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://0fbff144-bbed-44c0-972b-3ecb0d5579d6@95.216.27.15:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=-Oj9x6Ts_2S_DdORCDilSpcLJcIYpL67uQ8VBFHL4yk&sid=2606b22a3c3b3971&sni=www.google.com #🇫🇮 [ Configs by DukeMehdi ] VL-FI
 vless://0fbff144-bbed-44c0-972b-3ecb0d5579d6@95.216.27.15:2053?pbk=-Oj9x6Ts_2S_DdORCDilSpcLJcIYpL67uQ8VBFHL4yk&security=reality&sid=2606b22a3c3b3971&sni=www.google.com&type=tcp #🇫🇮 [ Configs by DukeMehdi ] VL-FI
 vless://0fbff144-bbed-44c0-972b-3ecb0d5579d6@95.216.27.15:2053?fp=chrome&pbk=-Oj9x6Ts_2S_DdORCDilSpcLJcIYpL67uQ8VBFHL4yk&security=reality&sid=2606b22a3c3b3971&sni=www.google.com&type=tcp #🇫🇮 [ Configs by DukeMehdi ] VL-FI
@@ -494,11 +502,3 @@ vless://0c0a38a1-c5db-4780-8f1c-fc4338af7ef0@185.141.107.176:2080?encryption=non
 vless://0c04dd79-71ad-475e-9a22-8fe625afccbb@ZuLa.ir:8080?type=grpc&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH?ed=8880&path=/telegram---VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram--VPNCUSTOMIZE--telegram----VPNCUSTOMIZE?ed=2048&security=none&encryption=none&host=seyyed.webdade.ip-ddns.com&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://0c04dd79-71ad-475e-9a22-8fe625afccbb@104.18.15.19:8080/?type=ws&encryption=none&host=seyyed.webdade.ip-ddns.com&path=%2Ftelegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY-telegram%2CELiV2RAY%3Fed%3D2560 #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://0c01ce13-2315-4fb0-bb90-fede266e652a@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@64.225.94.56:5959?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
-vless://0bec912d-d0b9-42e1-ae34-9236a453ff93@154.17.236.159:443/?type=ws&encryption=none&host=usb.cayuo.me&path=%2Fbing&security=tls&sni=usb.cayuo.me&packetEncoding=xudp #🇺🇸 [ Configs by DukeMehdi ] VL-US
-vless://0bdb1407-0554-4834-97cd-ba3487af59b5@join-zedmodeon.servehalflife.com:2095?path=%40ZEDMODEON-ZEDMODEON-JOINZEDMODEON-%40ZEDMODEON&security=none&encryption=none&host=hi-sis.%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A%E5%88%97%E5%88%97%E4%B8%8A.tech&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://0bd6aa8d-3bdb-4fa3-893e-75a844e2e409@104.16.99.215:8880?path=/pyip=ProxyIP.JP.CMLiussss.net&encryption=none&host=wispy-cake-ec69.193-bc6.workers.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://0bd6aa8d-3bdb-4fa3-893e-75a844e2e409@104.16.101.215:8880?security=none&type=ws&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&host=wispy-cake-ec69.193-bc6.workers.dev&packetEncoding=xudp&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://0bd6aa8d-3bdb-4fa3-893e-75a844e2e409@104.16.101.215:8880?path=/&security=none&encryption=none&host=wispy-cake-ec69.193-bc6.workers.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?security=none&encryption=none&headerType=none&type=tcp #🇺🇸 [ Configs by DukeMehdi ] VL-US
-vless://0bcec952-a452-43ed-9468-4547b9f5dfc4@70.39.197.9:59216?path=%2F+&security=none&type=tcp #🇺🇸 [ Configs by DukeMehdi ] VL-US

@@ -2,6 +2,15 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr3.g2ray.com:443?encryption=none&security=tls&type=ws&path=%2Fca004eb637%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr3.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr3.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr2.g2ray.com:443?encryption=none&security=tls&type=ws&path=%2F21c13feb6ae4%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr2.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr2.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr1.g2ray.com:443?encryption=none&security=tls&type=ws&path=%2F21c13feb6ae4%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr1.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr1.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr.g2ray.com:443?encryption=none&security=tls&type=ws&path=%2Fca004eb637%2F #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr.g2ray.com:443?encryption=none&security=tls&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://2bd0516b-d354-4b73-a198-9d826ab478ae@vlgr.g2ray.com:443?encryption=none&flow=xtls-rprx-direct&security=xtls&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -208,14 +217,9 @@ vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@45.151.30.127:9873?mode=gun&securit
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@200.165.228.114:9871?type=grpc&security=reality&encryption=none&sni=dl.google.com&serviceName=grpc-tunnel&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@200.165.228.114:9871?security=reality&type=grpc&mode=gun&serviceName=grpc-tunnel&packetEncoding=none&allowInsecure=1&sni=dl.google.com&fp=chrome&sid=aabb&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0 #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@200.165.228.114:9871?fp=firefox&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc #🇺🇸 [ Configs by DukeMehdi ] VL-US
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.109.108.83:9830?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.109.108.83:9830?encryption=none&fp=firefox&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.109.108.196:9892?type=grpc&headerType=none&security=reality&encryption=none&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&serviceName=grpc-tunnel&fp=ios #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.109.108.196:9892?encryption=none&fp=qq&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.109.108.196:9892?encryption=none&fp=qq&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabbccdd&sni=dl.google.com&type=grpc #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.108.252.108:9880?type=grpc&security=reality&encryption=none&sni=dl.google.com&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&headerType=none&serviceName=grpc-tunnel&mode=gun #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.108.252.108:9880?type=grpc&headerType=none&security=reality&encryption=none&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&serviceName=grpc-tunnel&fp=firefox #🇷🇺 [ Configs by DukeMehdi ] VL-RU
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.108.252.108:9880?encryption=none&fp=firefox&mode=gun&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@176.108.240.241:9894?type=grpc&security=reality&fp=chrome&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&sni=dl.google.com&serviceName=grpc-tunnel&nonce=lVux8yWw #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://2a633e66-29cd-4eff-8716-3bcaa8d07f5e@184.tradeip.store:443?security=reality&encryption=none&pbk=ALDFngG9lUzucMfJSdsdisqYpZHA98VHJ_kheILqxTM&headerType=none&fp=chrome&spx=%2Fa5caf0e438138df&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=dd16090fea #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://2a5db195-0d58-40a5-a4c2-432711b01057@151.101.2.133:80/?type=ws&encryption=none&host=ks.com&path=%2Fws #🇺🇸 [ Configs by DukeMehdi ] VL-US
@@ -498,7 +502,3 @@ vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:4410:5400:6ff:fe43:
 vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:311:5400:6ff:fe43:9d49]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s3609.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u729792us3609.wagahaha.xyz&serviceName=&mode=&alpn= #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:311:5400:6ff:fe43:9d49]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s3608.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u729792us3608.wagahaha.xyz&serviceName=&mode=&alpn= #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:311:5400:6ff:fe43:9d49]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s3607.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u729792us3607.wagahaha.xyz&serviceName=&mode=&alpn= #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:150:5400:6ff:fe44:1cfd]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s3784.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u729792us3784.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:150:5400:6ff:fe44:1cfd]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s3783.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u729792us3783.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1 #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://28ba1c0a-63b8-44b0-8bc8-01ef87f8f8b3@de2.arta-net.top:39539?type=tcp&encryption=none&security=none&path=%2f #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://28af86fc-34fa-4b4e-b96f-041a1b687823@194.87.234.219:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nbb--6566d244.vpn.partners #🇷🇺 [ Configs by DukeMehdi ] VL-RU
