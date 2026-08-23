@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://82d145c1-d691-4eef-9de1-9c316db4859a@143.246.198.91:2054?type=grpc&security=reality&fp=firefox&pbk=z8O-5nI4-3eKexufSrkEUvAubPw7a73cQtTGNDp3Uxo&sid=6ffc74326185d4d6&sni=www.ibm.com&serviceName=grpc#@DeltaKroneckerGithub
+vless://82d145c1-d691-4eef-9de1-9c316db4859a@132.243.174.112:2054?type=grpc&security=reality&fp=firefox&pbk=JFzd2AbfzZSnMefyKEXNIae_QEZAo5o239pmuHHZsAY&sid=b27b172e7453e810&sni=www.swisscom.ch&serviceName=grpc#@DeltaKroneckerGithub
+vless://82719790-ff61-4284-8668-ba140a4d6cbd@193.187.95.21:20040?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=O4ymaaoTi3woCs3MWktyrXKhlU5RCK1Wo0G_T0u_Vi4&security=reality&sid=5db60b1f&sni=yandex.ru&type=raw#@DeltaKroneckerGithub
 vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?type=tcp&headerType=none&security=reality&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&fp=qq&sni=deepl.com&sid=aae8&spx=%2F#@DeltaKroneckerGithub
 vless://81d520e6-079a-49cb-a2ef-05c3cd3946d8@31.15.16.37:80?encryption=none&amp;type=tcp&amp;allowInsecure=1#@DeltaKroneckerGithub
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&headerType=none#@DeltaKroneckerGithub
@@ -26,10 +29,10 @@ vless://7ee53e03-96ed-4121-9da2-62f3d3374506@178.72.147.249:4100?encryption=none
 vless://7ec90e95-2de2-4e30-a647-e4a29c64f08f@129.153.71.28:28863?encryption=none&security=tls&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=%2F%40Marisa_kristi#@DeltaKroneckerGithub
 vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&headerType=none&type=tcp#@DeltaKroneckerGithub
 vless://7e81824b-35e0-4eb1-89e9-592f0c92aa6b@yx.zhourf2006.dpdns.org:443/?type=ws&encryption=none&flow=&host=yx.zhourf2006.dpdns.org&path=%2Fblog%2Franking%2Ftask%2Fproxyip%3D156.246.92.195%2C172.238.6.57%2C43.207.197.79%2C156.246.91.114%2C161.248.254.27%2C153.121.45.101%2C101.36.105.226%3Fed%3D2560&security=tls&sni=yx.zhourf2006.dpdns.org&fp=chrome&packetEncoding=xudp#@DeltaKroneckerGithub
-vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#@DeltaKroneckerGithub
+vless://7d90f043-ed7f-40c9-ac2f-352987904958@ov-germany1.09vpn.com:80?&security=none&type=ws&headerType=&host=ov-germany1.09vpn.com&path=%2Fvless%2F#@DeltaKroneckerGithub
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@57.129.41.216:80?security=none&type=ws&path=/vless/&host=OV-Germany1.09vpn.com&encryption=none#@DeltaKroneckerGithub
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:8443?&security=tls&type=ws&headerType=&host=ov-germany1.09vpn.com&path=%2Fvless%2F#@DeltaKroneckerGithub
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#@DeltaKroneckerGithub
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80/?type=ws&encryption=none&flow=&host=OV-Germany1.09vpn.com&path=/vless/#@DeltaKroneckerGithub
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:8443?type=ws&security=tls&sni=&host=&path=%2Fvless%2F#@DeltaKroneckerGithub
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:8443?security=tls&sni=OV-Germany1.09vpn.com&type=ws&path=%2Fvless%2F&allowInsecure=1#@DeltaKroneckerGithub
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?encryption=none&amp;host=OV-Germany1.09vpn.com&amp;path=%2Fvless%2F&amp;security=none&amp;type=ws#@DeltaKroneckerGithub
 vless://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@5.42.103.91:2200?encryption=none&path=%2Fv1&security=none&type=ws#@DeltaKroneckerGithub
@@ -499,6 +502,3 @@ vless://423b1d79-08c4-403f-9d5e-c541f791b55f@194.48.250.172:443?encryption=none&
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@194.48.250.172:13443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#@DeltaKroneckerGithub
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@177.3.214.181:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=nordic.cendora.ru&fp=qq&flow=xtls-rprx-vision&sid=2186a755ed67b034&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU#@DeltaKroneckerGithub
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@154.196.139.50:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=asia.cendora.ru&fp=chrome&security=reality&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&sid=e53048e82bb20077#@DeltaKroneckerGithub
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.73.137:443?flow=xtls-rprx-vision&sni=eu-central.cendora.ru&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&type=tcp&fp=chrome&encryption=none&headerType=none&security=reality&sid=00bca5982f82d083#@DeltaKroneckerGithub
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.76.198:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=chrome&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#@DeltaKroneckerGithub
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.241.47:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&sni=eu-central.cendora.ru#@DeltaKroneckerGithub
