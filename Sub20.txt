@@ -2,13 +2,13 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://06188bf1-a31d-468d-811e-7fa7cb3678d6@104.17.225.220:80?security=&type=ws&path=/backup&host=Tak6U1.AmOOzEshGaH-pc.COM&encryption=none#4Kian-1f005e0212
-vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#4Jadi-c5b546d77e
 vless://05e09c8a-a3a9-4bd5-acf9-2c3c87bab827@145.239.173.163:443?type=tcp&encryption=none&security=none#4Mohsen-a7d0821f7b
 vless://05cf7b0e-ad1a-42bb-80e7-73ae45b1019a@188.114.97.6:8443?path=/api/voip/updates/static/x9i2&security=tls&encryption=none&insecure=0&host=france.io-com-de-dev.org&ech=encryptedsni.com+udp://8.8.8.8&type=ws&allowInsecure=0&sni=france.io-com-de-dev.org#4Mohsen-1f8cafaf95
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=/&security=none&encryption=none&type=ws#4Mohsen-d9e5b9554e
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=none&encryption=none&type=ws#4Kian-3d40595abc
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=/&security=&encryption=none&type=ws#4Nika-a18103472e
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@62.171.228.244:8443?security=reality&encryption=none&pbk=PiMm8p728z5Z3ukO__9Y1pqXKv2PBQWq99ifoxRHJzU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=face912fc5a49158#4Sarina-2a5b74d442
+vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?security=reality&encryption=none&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=f648da8196bdb32e#4FreeIran-5688bf7080
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@167.233.219.201:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ei2ET7SLe8rAO3KOlUWyXy0U22zb86VNOqUCshRVl8&security=reality&sid=f648da8196bdb32e&sni=www.bing.com&type=tcp#4Kian-6f22b2c253
 vless://0596d8de-cf34-402a-b533-163b15e642eb@198.41.199.255:443?path=/downloader.php&security=tls&encryption=none&insecure=0&host=windy.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=windy.adaspoloandco.com&note=@FreeOnlineVPN#4Jadi-656afc99eb
 vless://0580f04d-b5a2-42ef-8ca5-0b232500b4e8@5.75.192.3:7190?security=reality&type=tcp&headerType=&path=&host=&sni=pypi.org&fp=chrome&pbk=mPyGyFIPaIJskk9IhHv9rkv7amf77CYUV0KVeqDsPU8&sid=7398e0c72f7d5c0e#4Jadi-02ed0847c9
@@ -58,10 +58,8 @@ vless://05084096-5d03-4d63-8a7a-db17db9935b0@25.25.25.25:2082?path=%2F%3Fed%3D20
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=none&encryption=none&type=ws#4Sarina-57a5cf7a44
 vless://04d630b3-4b8d-422d-b53c-99addcb13191@104.16.75.207:443?alpn=h3,h2,http/1.1&fm={"tcp":[{"settings":{"delay":"0","length":"1","maxSplit":"","packets":"tlshello"},"type":"fragment"}]}&fp=chrome&type=xhttp&sni=v3.sub1vpn.dpdns.org&mode=auto&path=/api&security=tls&encryption=none&extra={"xPaddingBytes":"100-1000","xmux":{"cMaxReuseTimes":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","maxConnections":6}}&insecure=0&host=v3.sub1vpn.dpdns.org&allowInsecure=0#4Kian-06766b88ba
 vless://04c9681a-277f-4d97-8922-1bc64bc1cc07@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#4Kian-c95b694262
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.4chan.org:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#4Jadi-e623ba3571
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@russia.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#4Kian-c8db80f0e3
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@japan.com:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#4Kian-602aa234aa
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@fbi.gov:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#4Kian-d9cda0dc68
 vless://0498c972-921e-48d2-bb2d-ac2a74ebc1f8@assets.portebularnaku.org:8443?encryption=mlkem768x25519plus.native.0rtt.bMT5OWHemaw8_xxN4a4DyFs3KuWja6jldZa7GEpKKzo&type=tcp&security=reality&headerType=none&sni=www.icloud.com&fp=chrome&insecure=1&allowInsecure=1&pbk=N2YpjFfKGE6DLK2_ubWR1BFzm0oGAXJYe9hDVV-wzj4&sid=c8b765cd07b03f24&flow=xtls-rprx-vision#4Jadi-63c63b19e7
 vless://04969b01-ac6a-4056-b5cd-852ccf45f102@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#4Jadi-640b1e45ad
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#4FreeIran-0b584b9c75
@@ -86,12 +84,12 @@ vless://03853d6b-2436-45f0-8d14-3a8ba9593e71@de-sont23oo-mk75gi8a.mobile-shahab.
 vless://037ec3f3-d983-4f05-9ae2-03f0c1d7977c@143.246.136.234:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#4Sarina-54d29158c6
 vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#4Kian-5c5c7fbcc3
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=ro-3.ariyuz.org&type=ws&allowInsecure=0&sni=ro-3.ariyuz.org#4Mohsen-d30f9abda3
+vless://03707fb7-0990-440f-88f6-b0e0f7242a38@ytryurdj64bbb.localip.ir:443?&security=tls&fp=chrome&alpn=http/1.1&sni=ro-3.ariyuz.org&type=ws&headerType=none&host=ro-3.ariyuz.org&path=/#4Nika-9a593f5b0d
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?path=/&security=tls&encryption=none&insecure=0&host=nl-10.ariyuz.org&fp=chrome&type=ws&allowInsecure=0&sni=nl-10.ariyuz.org#4Nika-702ac92ddf
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nl-10.ariyuz.org#4Nika-617fedc582
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl-10.ariyuz.org&fp=chrome&type=ws&allowInsecure=0&sni=nl-10.ariyuz.org#4Sarina-89537a08d7
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?encryption=none&fp=chrome&host=nl-10.ariyuz.org&path=/&security=tls&sni=nl-10.ariyuz.org&type=ws#4Mohsen-33b91017eb
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?alpn=http/1.1&encryption=none&fp=chrome&host=nl-10.ariyuz.org&path=/&security=tls&sni=nl-10.ariyuz.org&type=ws#4Kian-71f727d08a
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@5hsytrdbbvcrxokk.localip.ir:443?&security=tls&fp=chrome&alpn=http/1.1&sni=nl-10.ariyuz.org&type=ws&headerType=none&host=nl-10.ariyuz.org&path=/#4Nika-66c199cfaa
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.19.229.21:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#4Jadi-86bdb269c7
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.19.229.21:443?path=/&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#4Mohsen-02dc2b2500
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.18.32.47:443?path=/&security=tls&encryption=none&insecure=0&host=ro-3.ariyuz.org&type=ws&allowInsecure=0&sni=ro-3.ariyuz.org#4Jadi-71f9d61bd1
@@ -126,6 +124,7 @@ vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?encryption=none&f
 vless://01a95af3-a2f6-453e-9f88-b2fc011627cc@92.114.24.95:43630?encryption=none&security=none&type=tcp&headerType=none#4Mohsen-d05109f76e
 vless://018a9e2e-9bfd-4a9e-a20d-c07eb53fa439@91.234.39.183:8080?path=/&security=none&encryption=none&type=ws#4Mohsen-9648651515
 vless://0183ea01-1071-4b3b-97fa-67dd115fe8f8@176.120.17.90:2083?encryption=none&type=http&path=/#4Nika-e3ada2b10c
+vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=none&encryption=none&host=bale.ai&headerType=http&type=tcp#4Sarina-04ae991c4a
 vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?encryption=none&security=none&type=tcp&headerType=http&host=bale.ai#4FreeIran-391f3bde52
 vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&headerType=none&type=tcp#4FreeIran-6164493c8a
 vless://01566881-bc1c-4376-9531-d540963c287b@f1.springpaatogh8.store:2053?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=chess.sorza.ir&path=/?ed=2560/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet#4Kian-8ed6f2e4d4
@@ -138,7 +137,6 @@ vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F
 vless://00d1eaf8-14a6-4ea7-a939-e80ad114a819@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#4Mohsen-f14540516a
 vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@yt.orpheous.ru:443?security=reality&encryption=none&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yt.orpheous.ru&sid=e4aa362b5f9d07d7#4Kian-145191644b
 vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@yt.orpheous.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yt.orpheous.ru&fp=chrome&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&type=tcp&headerType=none#4Kian-6af2ebba31
-vless://00ca2ff9-c6a1-48e2-812d-2b15f7b6c3a5@yt.orpheous.ru:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&flow=xtls-rprx-vision&security=reality&sni=&fp=chrome&pbk=9rdvkUGJyNbRvsB0Pp06h1URq9AHDPRtH9-wmNB1-j4&sid=e4aa362b5f9d07d7&type=tcp&headerType=none#4Nika-953a99733e
 vless://00b65e0f-0e35-41ba-9429-3a990932e5f1@djaflkjdfl-production.up.railway.app:443?path=/ws/vless/00b65e0f-0e35-41ba-9429-3a990932e5f1?ed&security=tls&alpn=h3&encryption=none&insecure=0&host=djaflkjdfl-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=djaflkjdfl-production.up.railway.app#4Sarina-384827f647
 vless://00b41e07-68e6-46b0-928f-a02becd4e398@site.lezzasivo.ir:2082?security=reality&encryption=mlkem768x25519plus.native.0rtt.f7Tb0m3B9X1wwykTgP_vWHH6uXOt8CX-MAipUAObJ1c&pbk=wlmLbcRWfPz3NkrX18vCrw-C3s3qzeipsfnrm457x1k&headerType=http&fp=chrome&type=tcp&sni=check-host.net&sid=31eec4cab22d3de8#4Mohsen-1dde8d5d6e
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#4Mohsen-7104ac97cb
@@ -329,7 +327,6 @@ trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingn
 trojan://shenmegui@185.49.33.47:8461?security=tls&sni=$jp.swiftfalcon.app#4Sarina-7ea8d50271
 trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp#4Mohsen-32e553f3cf
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#4Mohsen-7e810641a7
-trojan://s6wf9fh1eemfsks8@94.101.178.169:2083?security=reality&pbk=QsKfulnzA2Nt5-3qdaGhUcckahPz2P_AIZxAxF8UTz4&headerType=none&fp=chrome&spx=/c3a51ac62b5ccc6&type=tcp&sni=www.bing.com&sid=d0a561#4FreeIran-f7b4cad6da
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#4Kian-5deeb592a9
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?type=grpc&sni=cdn-21.gsmxreality.com&allowInsecure=1&serviceName=443trojan#4FreeIran-c270da4ccf
 trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#4Jadi-132724ad40
@@ -390,7 +387,6 @@ trojan://i8YdP0ivWoz5KEgN@151.115.62.113:444?security=tls&sni=pl-25a97ea5.xeovo.
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN%3DUCe.2Jd@185.137.157.254:443?security=tls#4Sarina-d850810054
 trojan://humanity@www.speedtest.org:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#4Jadi-1cc41d3be0
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#4Nika-e068c6a59b
-trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#4Nika-3fb48c53d3
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com#4Mohsen-006ceb55d6
 trojan://humanity@www.speedtest.org:443?allowInsecure=1&sni=www.ignitelimit.com#4Sarina-229bb0603b
 trojan://humanity@www.speedtest.org:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4Jadi-1d15b40144
@@ -408,7 +404,6 @@ trojan://humanity@render.com:443?security=tls&type=ws&sni=www.ignitelimit.com&pa
 trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#4Kian-7c3b533e7f
 trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Sarina-68c863a694
 trojan://humanity@render.com:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4Mohsen-23bafb8595
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#4Nika-ab05711b1c
 trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4Sarina-5c8d7272b3
 trojan://humanity@ip.myip2.qzz.io:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#4Sarina-0572878a2c
 trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#4Nika-7c349c11d1
@@ -417,6 +412,7 @@ trojan://humanity@gr3.levikogjgfdd.ir:443?security=tls&fp=chrome&sni=www.calmlun
 trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Nika-a8ee80df5c
 trojan://humanity@86.38.214.205:443?sni=www.ignitelimit.com#4FreeIran-d54f7580a5
 trojan://humanity@86.38.214.205:443?security=tls&sni=www.ignitelimit.com#4Kian-b9a416eca5
+trojan://humanity@86.38.214.205:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#4FreeIran-432baa68df
 trojan://humanity@86.38.214.205:443?allowInsecure=1&sni=www.ignitelimit.com#4Nika-97b28309c0
 trojan://humanity@86.38.214.205:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4FreeIran-d1c3d8586b
 trojan://humanity@85.198.11.172:40443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&allowInsecure=1#4FreeIran-e4eb6fbc39
@@ -458,7 +454,6 @@ trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4FreeIran-e681f95e60
 trojan://humanity@188.114.97.7:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#4Nika-9c9433b747
 trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#4Jadi-d98c5fc1e9
-trojan://humanity@188.114.97.7:443?security=tls&sni=www.ignitelimit.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#4FreeIran-97f982944f
 trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4FreeIran-984e73f05c
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Mohsen-ac1a3e0987
 trojan://humanity@188.114.97.7:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4Kian-fec0e4c84e
@@ -475,7 +470,6 @@ trojan://humanity@172.67.221.242:443?security=tls&sni=www.ignitelimit.com&type=w
 trojan://humanity@172.67.221.242:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4Mohsen-6d3eafa3f4
 trojan://humanity@172.67.149.60:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#4Mohsen-93f126a1bc
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Sarina-ad438c48c0
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4FreeIran-0bda3116f9
 trojan://humanity@172.67.149.60:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4Mohsen-ceeea39d5e
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#4Kian-e2db8c2229
 trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Nika-7a9ab33b28
@@ -497,8 +491,14 @@ trojan://humanity@130.250.137.171:443?security=tls&sni=www.ignitelimit.com&type=
 trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Sarina-6f1b48267d
 trojan://humanity@130.250.137.171:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4FreeIran-7eb961e4d0
 trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com#4Sarina-d1b1d61aaf
+trojan://humanity@104.26.15.137:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#4FreeIran-2def793c52
 trojan://humanity@104.26.15.137:443?allowInsecure=1&sni=www.ignitelimit.com#4Sarina-20269a5ae0
 trojan://humanity@104.26.15.137:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4Sarina-c6252086e0
 trojan://humanity@104.26.14.137:443?sni=www.ignitelimit.com#4Mohsen-33b7847dac
 trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#4Sarina-4f58f786a3
 trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com#4Mohsen-3c513a0725
+trojan://humanity@104.26.14.137:443?allowInsecure=1&sni=www.ignitelimit.com#4Sarina-1153b5125a
+trojan://humanity@104.26.14.137:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4Sarina-26df5c66bf
+trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#4Sarina-a7454c0e68
+trojan://humanity@104.21.46.3:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#4Nika-8fb9f09f57
+trojan://humanity@104.20.6.134:443?sni=www.ignitelimit.com#4Jadi-82061faff3

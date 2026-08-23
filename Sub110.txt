@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443/?type=ws&encryption=none&flow=&security=tls&sni=de-new.ariyuz.org #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443/?type=ws&encryption=none&flow=&security=tls&sni=de-new-1.ariyuz.org #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.44:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de-new.ariyuz.org #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?encryption=none&type=ws&path=%2F%23Farah_VPN-52&security=tls&sni=germany-2.ariyuz.org #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.251:443?&security=tls&fp=chrome&alpn=http/1.1&sni=germany-2.ariyuz.org&type=ws&headerType=none&host=germany-2.ariyuz.org&path=/ #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.236:443/?type=ws&encryption=none&host=us-1.ariyuz.org&path=%2F&security=tls&sni=us-1.ariyuz.org&alpn=http%2F1.1&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.235:443/?type=ws&encryption=none&host=het1.ariyuz.org&path=%2F&security=tls&sni=het1.ariyuz.org&alpn=http%2F1.1&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -502,3 +498,7 @@ vless://-----v2ray_fark-----@v2ray-fark8.ddns.net:2053?type=grpc&serviceName=@v2
 vless://-----v2ray_fark-----@v2ray-fark7.ddns.net:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://-----v2ray_fark-----@v2ray-fark6.ddns.net:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://-----v2ray_fark-----@v2ray-fark5.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://-----v2ray_fark-----@v2ray-fark5.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX

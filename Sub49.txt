@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@66.81.247.247:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org #🇺🇸 [ Configs by DukeMehdi ] VL-US
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.85.119.195:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org #🇷🇴 [ Configs by DukeMehdi ] VL-RO
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.85.119.123:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org #🇷🇴 [ Configs by DukeMehdi ] VL-RO
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.85.118.85:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org #🇷🇴 [ Configs by DukeMehdi ] VL-RO
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.85.118.187:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org #🇷🇴 [ Configs by DukeMehdi ] VL-RO
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.84:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.67:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org #🇩🇪 [ Configs by DukeMehdi ] VL-DE
@@ -502,3 +498,7 @@ vless://ead50296-83f5-4aac-bebe-fdd221618ead@69.165.75.160:10086?encryption=none
 vless://ead060e5-21f9-5369-b9f9-175ab7faa20f@191.44.32.103:50064?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SLrTZEGZV42hDpfoCkqPZwwVK2V57Db3y6LxKbxexGU&sid=ae85b4253042d74b&sni=www.vk.com #🇧🇾 [ Configs by DukeMehdi ] VL-BY
 vless://ead060e5-21f9-5369-b9f9-175ab7faa20f@191.44.32.103:5000?encryption=none&flow=xtls-rprx-vision&pbk=SLrTZEGZV42hDpfoCkqPZwwVK2V57Db3y6LxKbxexGU&security=reality&sid=ec4a18&sni=www.vk.com&spx=%2F1rlps4jHgkaq01i&type=tcp&fp=chrome #🇧🇾 [ Configs by DukeMehdi ] VL-BY
 vless://eace00a6-39df-474d-af49-9ed74d948eba@178.83.226.142:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=-x9vdxai-qKAzuhxV7H2RIbEmIh_ZgdiFxiUA5q0B1I&sid=75fa8ffff864069a&allowInsecure=1 #🇬🇧 [ Configs by DukeMehdi ] VL-GB
+vless://eabd29d4-9b74-454f-bd80-536eb4e9eaf2@bypass.de-dp-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=dc8109baf0f607ea #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148/?encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=tcp&headerType=http #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?security=&encryption=none&headerType=http&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX

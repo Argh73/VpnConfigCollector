@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://-----v2ray_fark-----@v2ray-fark5.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1,h2,h3&sni=uy.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=wu.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://-----v2ray_fark-----@v2ray-fark3.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=&alpn=http/1.1,h2&sni=uy.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://-----v2ray_fark-----@v2ray-fark2.ddns.net:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=wu.foxnt-telegram-foxnt.shop #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -502,3 +498,7 @@ trojan://tXsBdKfoe9@104.25.145.188:2083/?type=ws&host=cpuhot.boshrachoice.ir.&pa
 trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443/?type=tcp&security=tls #🇮🇩 [ Configs by DukeMehdi ] TJ-ID
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443/?type=tcp&security=tls #🇰🇷 [ Configs by DukeMehdi ] TJ-KR
 trojan://t3re5bgbot4z4z3t@xiweini.dpdns.org:30101?sni=xiweini.dpdns.org&peer=xiweini.dpdns.org&security=tls #🌐 [ Configs by DukeMehdi ] TJ-XX
+trojan://t3re5bgbot4z4z3t@xiweini.dpdns.org:30101?security=tls&sni=xiweini.dpdns.org&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] TJ-XX
+trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?type=ws&path=%2Ftrojan&host=sp.cloudv.qzz.io&sni=sp.cloudv.qzz.io #🌐 [ Configs by DukeMehdi ] TJ-XX
+trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?type=ws&path=%2Ftrojan&host=sp.cloudv.qzz.io&security=none #🌐 [ Configs by DukeMehdi ] TJ-XX
+trojan://t1k5znTjT8@212.227.98.235:4433?type=ws&path=%2Ftrojan&host=sp.cloudv.qzz.io #🇪🇸 [ Configs by DukeMehdi ] TJ-ES
