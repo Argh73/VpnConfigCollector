@@ -2,6 +2,15 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
+vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de.wlrus.cfd #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?encryption=none&security=tls&sni=de.wlrus.cfd&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=de.wlrus.cfd&type=tcp #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:5443/?type=tcp&encryption=none&flow=&security=tls&sni=de.wlrus.cfd #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:3443?type=grpc&security=tls&fp=firefox&sni=de.wlrus.cfd #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:3443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=de.wlrus.cfd #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://8fe31772-a4b7-4a70-9fa2-34124c7284ca@194.31.223.87:3443?encryption=none&security=tls&sni=de.wlrus.cfd&type=grpc #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.8:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fr.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.28:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@45.131.212.23:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@193.233.255.14:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fr.sellflow.org #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://8fdf6dde-a1ca-456d-9b18-86b74d5768e6@141.227.160.236:8443?flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org #🇫🇷 [ Configs by DukeMehdi ] VL-FR
@@ -13,6 +22,8 @@ vless://8fc836e4-f72f-40d7-8a55-8677324a2079@185.143.234.122:80/?type=ws&encrypt
 vless://8fc03edf-6833-4c58-bbe4-0b35806dae84@ql6k-m23nix.logicara.top:443?flow=xtls-rprx-vision&fp=chrome&pbk=IZz9Lj4tnHzNj9AkGlcOQxQXMJe0EGZLtIyX1a_yNAg&security=reality&sid=01d72fe094c8f6ef&sni=www.bing.com&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@51.75.169.41:2053?mode=gun&security=reality&encryption=none&authority=&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&fp=chrome&type=grpc&serviceName=2053vless&sni=sourceforge.net&sid=5640288dca4f8519 #🇫🇷 [ Configs by DukeMehdi ] VL-FR
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@us5.levikogjgfdd.ir:62145?security=none&encryption=none&host=Telegram-Leviko_v2ray&headerType=none&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.231.196:62145?security=none&type=tcp&encryption=none #🇳🇱 [ Configs by DukeMehdi ] VL-NL
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@92.5.226.0:62145?security=none&type=tcp&encryption=none #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.168.165:62145 #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.162.54:62145?security=none&type=tcp&packetEncoding=none #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@84.235.162.54:62145?security=none&type=tcp&encryption=none #🇳🇱 [ Configs by DukeMehdi ] VL-NL
@@ -30,6 +41,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.124.143:62145 #🇨🇴 [ C
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.7:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.162:62145?security=none&type=tcp&encryption=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.123.142:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.120.174:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.13.37:62145?security=none&type=tcp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.180.12.255:62145?&type=tcp&headerType=none&path=%2F #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.159.193:62145?security=none&type=tcp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
@@ -37,9 +49,11 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.152.114:62145?&type=tcp&hea
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.150.84:62145?security=none&type=tcp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.144.94:62145?security=none&type=tcp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.178.144.128:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.209.191:62145?security=none&type=tcp&encryption=none #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.206.101:62145?security=none&encryption=none&headerType=none&type=tcp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.206.101:62145?security=&encryption=none&headerType=none&type=tcp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.198.26:62145?security=none&type=tcp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.101.197.109:62145?security=none&type=tcp&encryption=none #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.43:62145?type=raw #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.241:62145 #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.239.194:62145?security=none&type=tcp&encryption=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
@@ -65,6 +79,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.236:62145?encryption=no
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.210:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.194:62145?security=none&type=tcp&packetEncoding=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.177:62145?security=none&type=tcp&packetEncoding=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.160:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.11:62145?type=tcp&security=none&encryption=none&headerType=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.70:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.235.27:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
@@ -89,6 +104,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.231.100:62145?security=none
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.230.78:62145?security=none&type=tcp #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.230.43:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.230.163:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.230.133:62145/?type=tcp&encryption=none&flow= #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.70:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.25:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.229.23:62145?security=none&type=tcp&packetEncoding=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
@@ -153,6 +169,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.217.4:62145?&type=tcp&heade
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.217.159:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.217.152:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.216.1:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.216.119:62145/?type=tcp&encryption=none&flow= #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.215.84:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.214.234:62145?security=none&type=tcp&encryption=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.214.20:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
@@ -212,6 +229,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.173:62145?&type=tcp&hea
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.155:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.152:62145 #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.189.106:62145 #🇨🇴 [ Configs by DukeMehdi ] VL-CO
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.38:62145?security=none&type=tcp&packetEncoding=xudp #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.248:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.238:62145?security=none&type=tcp&encryption=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.188.226:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
@@ -226,10 +244,12 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.248:62145?security=none
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.193:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.186.161:62145?security=none&type=tcp&encryption=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.99:62145?security=none&type=tcp&encryption=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.66:62145?security=none&type=tcp&packetEncoding=xudp #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.31:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.228:62145?security=none&type=tcp&encryption=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.200:62145?security=none&type=tcp #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.1:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.186:62145?security=none&type=tcp #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.135:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.185.126:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.184.51:62145 #🇨🇴 [ Configs by DukeMehdi ] VL-CO
@@ -263,6 +283,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.165.97:62145 #🇨🇴 [ Co
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.165.253:62145?security=&encryption=none&headerType=none&type=tcp #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.165.253:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.164.131:62145?&type=tcp&headerType=none&path=%2F #🇨🇴 [ Configs by DukeMehdi ] VL-CO
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.163.194:62145?security=none&type=tcp&packetEncoding=xudp #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.154:62145?encryption=none&security=none&type=tcp&headerType=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.162.116:62145?security=none&type=tcp&encryption=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.161.150:62145?security=none&type=tcp&encryption=none #🇨🇴 [ Configs by DukeMehdi ] VL-CO
@@ -276,6 +297,7 @@ vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.143.79:62145?type=tcp #🇳�
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.136.110:62145/?type=tcp&encryption=none&flow=&packetEncoding=xudp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.129.83:62145?&type=tcp&headerType=none&path=%2F #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.129.222:62145?&security=false&fp=chrome&type=tcp&headerType=none&path=%2F #🇳🇱 [ Configs by DukeMehdi ] VL-NL
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@134.98.128.102:62145?security=none&type=tcp&encryption=none #🇳🇱 [ Configs by DukeMehdi ] VL-NL
 vless://8fb16c20-43a2-49ef-a32b-87639df15b39@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://8fab26eb-f2eb-4c10-a11d-f7e5202930e4@134.17.16.156:443?security=reality&encryption=none&pbk=l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg&fp=chrome&type=grpc&serviceName=webhook&sni=ads.x5.ru&sid=91d568bc3b #🇧🇾 [ Configs by DukeMehdi ] VL-BY
 vless://8fa3730b-8c35-4acd-9ac1-6a08d23a0deb@150.241.108.219:43386?type=tcp&security=reality&pbk=OrhjqqCdUFCD2DW2ZWSjccDRRcVTj2GomOuWE6FFjgY&fp=chrome&sni=www.latimes.com&spx=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN #🇺🇸 [ Configs by DukeMehdi ] VL-US
@@ -296,7 +318,6 @@ vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@united.lorluma.ir:6300?security=rea
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@united.lorluma.ir:6300?fp=qq&security=reality&encryption=none&headerType=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&sni=play.google.com #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@alaUK.marzban-locations.com:6300?fp=qq&security=reality&encryption=none&headerType=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&type=tcp&sni=play.google.com #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@alaFI.marzban-locations.com:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=qq&type=tcp&sni=play.google.com #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@alaFI.marzban-locations.com:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://8f6ccdb2-2b4e-4834-a90b-344bff490402@45.91.248.163:6300?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=play.google.com #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://8f646a01-2cc1-4270-ad43-f87e157e4d44@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/ #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://8f646a01-2cc1-4270-ad43-f87e157e4d44@webshecan.webredirect.org:2087?type=tcp&amp;security=reality&amp;fp=chrome&amp;pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&amp;sni=www.speedtest.net&amp;flow=xtls-rprx-vision&amp;sid=53242a95&amp;spx=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -481,24 +502,3 @@ vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.202.24:11925?type=ws&securit
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.202.24:11925?path=/&security=none&encryption=none&type=ws #🇫🇮 [ Configs by DukeMehdi ] VL-FI
 vless://8dd3f783-aa97-420b-8aaa-d8a6c9679dad@116.204.164.30:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://8dd32d18-f32b-4204-b03b-74d5394a6487@swe05.myxasecure.space:443?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=swe05.myxasecure.space&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&fp=firefox #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dd32d18-f32b-4204-b03b-74d5394a6487@swe01.myxasecure.space:443?&security=reality&flow=xtls-rprx-vision&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&fp=firefox&sni=swe01.myxasecure.space&type=tcp&headerType=none&host=swe01.myxasecure.space&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dd32d18-f32b-4204-b03b-74d5394a6487@78.159.131.173:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&sid=e852dc&sni=booking.com #🇦🇱 [ Configs by DukeMehdi ] VL-AL
-vless://8dcd0c9f-4393-49e8-aef8-6eee570d1e5b@deu415.unboundaccess.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.screwfix.com #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=&encryption=none&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@soskeynets.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca8.myfymain.com:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca39.speedmeter.shop:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880?encryption=none&security=none&sni=&type=grpc&alpn=&host=&path= #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca38.speedmeter.shop:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca37.myfymain.com:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca36.speedmeter.shop:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca35.myfymain.com:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.speedmeter.shop:8880/?type=grpc&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca33.myfymain.com:8880?mode=gun&security=&encryption=none&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
