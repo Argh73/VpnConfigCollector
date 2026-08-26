@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@140.99.233.156:2087?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048 #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@140.99.233.156:2087?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048 #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.52.249.135:10082?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048 #🇰🇷 [ Configs by DukeMehdi ] VL-KR
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048 #🇺🇸 [ Configs by DukeMehdi ] VL-US
@@ -359,6 +358,7 @@ vless://f7091306-5958-4c13-8d79-c74a135b7dd5@81.90.20.214:443?type=tcp&security=
 vless://f7091306-5958-4c13-8d79-c74a135b7dd5@2.26.49.208:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5mfLd7cQ9DsVW2_cHPPucMWv9MDN1kW6JORPNZIAyy8&sid=b0d8f964b7ac8ac9&sni=cdn2-51.cdn-vkvideo.com #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://f7024ef7-dd35-4fe8-a18d-4186a0ae910c@ee-t3.vinnypuxtomoon.today:7444?type=grpc&headerType=none&security=reality&encryption=none&sni=ee-t3.vinnypuxtomoon.today&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&serviceName=grpc-md-8h3k4j6n2p4q8r5t #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f7024ef7-dd35-4fe8-a18d-4186a0ae910c@ee-t3.vinnypuxtomoon.today:2053?type=tcp&security=reality&encryption=none&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&sni=ee-t3.vinnypuxtomoon.today&flow=xtls-rprx-vision&fp=firefox&spx=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://f6fc0eed-ec8c-4f6a-883d-421706ca6886@194.26.229.212:2200?path=/v1&security=&encryption=none&type=ws #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://f6fc0eed-ec8c-4f6a-883d-421706ca6886@194.26.229.212:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1 #🇷🇺 [ Configs by DukeMehdi ] VL-RU
 vless://f6facd31-c0f7-444f-8b7d-be754eaea9cc@43.224.150.210:443?security=reality&encryption=none&pbk=cQ4VTKqrqqCRqcfMx9F4rOV56w7KmOXAyv_FlEZy7C4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=5f8bf82edbd1569b #🇩🇪 [ Configs by DukeMehdi ] VL-DE
 vless://f6fa8cbd-6f5a-4a2c-8a28-9a1e6f48bdd6@fr.pixvpn.app:8443?type=grpc&mode=gun&serviceName=grpc-jd&security=reality&fp=chrome&sni=jd.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=41a4cee2c50c4fc3 #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -438,7 +438,6 @@ vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@172.66.158.115:8880?host=steep-brea
 vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.17.64.70:8880?host=steep-bread-32f0.92-d12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net+&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.17.64.70:8880?encryption=none&security=none&type=ws&host=steep-bread-32f0.92-d12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.17.180.201:8880?security=none&type=ws&host=steep-bread-32f0.92-d12.workers.dev #🌐 [ Configs by DukeMehdi ] VL-XX
-vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.17.178.154:8880?path=/pyip&security=&encryption=none&host=steep-bread-32f0.92-d12.workers.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.17.178.154:8880?path=%2Fpyip&security=&encryption=none&host=steep-bread-32f0.92-d12.workers.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f6e14309-5cff-4f5d-bce1-06a260159bbe@104.16.25.46:8880?host=steep-bread-32f0.92-d12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&sni=steep-bread-32f0.92-d12.workers.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
 vless://f6de0905-ef53-4bbc-a747-25bc3ce4fe68@172.66.40.99:8880?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=Kk78.4qwertyuiopasdfghjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre0107252.sub420-mohamad.OnlinE.&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
@@ -502,3 +501,4 @@ vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&e
 vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&amp;encryption=none&amp;host=%2FTELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN%3Fed%3D2048&amp;headerType=none&amp;type=tcp #🇺🇸 [ Configs by DukeMehdi ] VL-US
 vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://f647c9dd-e84c-44c2-85a4-1e3e47848fcc@104.16.212.130:8443/?type=xhttp&encryption=none&security=tls&sni=Tsest2.varzesh3.ru&alpn=h2&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
