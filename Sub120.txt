@@ -2,503 +2,503 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vless://04c9681a-277f-4d97-8922-1bc64bc1cc07@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp&note=@FreeOnlineVPN#4Kian-c95b694262
-vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@173.245.49.225:2053?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#4FreeIran-13e554b233
-vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@172.64.83.118:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#4Kian-2071dfec5f
-vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@172.64.80.125:2096?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#4Mohsen-4bbbe38fd9
-vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@104.25.118.181:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#4Nika-8b6507e7b7
-vless://04c28ab4-4997-4a73-9bd4-7cc6c9f6bcba@104.24.67.123:2087?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=panel.berzulo.ir&type=ws&allowInsecure=0&sni=panel.berzulo.ir#4FreeIran-6ceee69c5e
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?path=/vless/&security=&encryption=none&host=ov-italy1.09vpn.com&type=ws&sni=ov-italy1.09vpn.com#4Jadi-865e424bd7
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80/?type=ws&encryption=none&flow=&host=OV-Italy1.09vpn.com&path=/vless/#4Mohsen-125356b54f
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?security=none&type=ws&host=OV-Italy1.09vpn.com&path=/vless/#4FreeIran-8587e1f2e7
-vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@57.131.32.191:80?path=/vless/&security=&encryption=none&host=ov-italy1.09vpn.com&type=ws&sni=ov-italy1.09vpn.com#4Sarina-6527dc0ef2
-vless://0498c972-921e-48d2-bb2d-ac2a74ebc1f8@assets.portebularnaku.org:8443?encryption=mlkem768x25519plus.native.0rtt.bMT5OWHemaw8_xxN4a4DyFs3KuWja6jldZa7GEpKKzo&type=tcp&security=reality&headerType=none&sni=www.icloud.com&fp=chrome&insecure=1&allowInsecure=1&pbk=N2YpjFfKGE6DLK2_ubWR1BFzm0oGAXJYe9hDVV-wzj4&sid=c8b765cd07b03f24&flow=xtls-rprx-vision#4Jadi-63c63b19e7
-vless://04969b01-ac6a-4056-b5cd-852ccf45f102@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#4Jadi-640b1e45ad
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&allowInsecure=0&encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#4FreeIran-0b584b9c75
-vless://048c2cb6-b4be-4f2a-bc04-994624b53629@193.233.133.152:53587?security=reality&encryption=none&pbk=5PCekntOkWAQ-IRoIZ7twOntrfim4eqqSUO_nVgTQyM&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.intel.com&sid=2b5661a042d2#4Sarina-8487c81227
-vless://048a61f8-b236-4082-b1c3-c22a85693c12@162.128.181.182:443?security=reality&encryption=none&pbk=gcqSfWJ1yR5Aa2fsBYZ3vyaC0yQnil4qqNMZN4weZlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=674a07ea4d1c4255#4Kian-950a1ebe24
-vless://0432902e-6604-40cd-bbd0-57ab4e5d909f@www.speedtest.net:443?security=tls&fp=chrome&packet-encoding=xudp&sni=bPB-4dc4958B.hXjkcgHcHv.woRkeRs.deV&type=ws&headerType=none&host=bPB-4dc4958B.hXjkcgHcHv.woRkeRs.deV&path=/eyJqdW5rIjoiOENNZnB6WTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119#4Mohsen-53a6c43799
-vless://0432902e-6604-40cd-bbd0-57ab4e5d909f@188.114.97.6:8080?host=bpb-4dc4958b.hxjkcghchv.workers.dev&path=/eyJqdW5rIjoiOENNZnB6WTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=none&type=ws#4Mohsen-01e751b5ca
-vless://0432902e-6604-40cd-bbd0-57ab4e5d909f@188.114.97.6:443?path=/eyJqdW5rIjoiOENNZnB6WTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&alpn=http/1.1&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["5","94","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["109","1"],"delays":["1"],"maxSplit":"355"}}]}&insecure=0&host=bpb-4dc4958b.hxjkcghchv.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=bpb-4dc4958b.hxjkcghchv.workers.dev#4Sarina-e3b6ce0e2c
-vless://0432902e-6604-40cd-bbd0-57ab4e5d909f@188.114.97.6:443?encryption=none&security=tls&type=ws&host=bpb-4dc4958b.hxjkcghchv.workers.dev&path=/eyJqdW5rIjoiOENNZnB6WTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&sni=bpb-4dc4958b.hxjkcghchv.workers.dev&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={"tcp":#4Nika-6c58cb7fc3
-vless://0432902e-6604-40cd-bbd0-57ab4e5d909f@104.17.148.22:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=bpb-4dc4958b.hxjkcghchv.workers.dev&path=/eyJqdW5rIjoiOENNZnB6WTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=bPB-4dc4958B.hXjkcgHcHv.woRkeRs.deV&type=ws#4Sarina-7bf7c73c04
-vless://0432902e-6604-40cd-bbd0-57ab4e5d909f@104.17.147.22:443?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=bpb-4dc4958b.hxjkcghchv.workers.dev&path=/eyJqdW5rIjoiOENNZnB6WTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=bPB-4dc4958B.hXjkcgHcHv.woRkeRs.deV&type=ws#4Jadi-97c54c1dcc
-vless://042adee0-9b4f-43f5-a915-a627313f28c0@www.homaxcorp.com.homaxcorp.com:2055/?type=ws&encryption=none&flow=&host=images.mzstatic.com&path=/&packetEncoding=xudp#4FreeIran-fd946a42d3
-vless://041e1ba9-5d17-4e7c-baac-c5aa877da29b@185.125.103.62:8082?encryption=none&security=tls&sni=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=ruu2rx-oycdrnsrzc.9uokolpk04vmg2ecqb8oys7.workers.dev&path=/@Marisa_kristi#4Kian-4841712af1
-vless://0408ff45-0c98-4875-bb9e-be81bcc0c495@213.21.229.126:12345?encryption=none&security=tls&sni=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=wjwkhoaftdgrt8qus.mp8pmwdgwf3sdapasouszjobjr57nrxxgtx9n.workers.dev&path=/@Marisa_kristi#4Sarina-6e7fdcd675
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=186.190.211.188#4FreeIran-2b963dd0ff
-vless://03f929bb-7a94-4400-a882-d846d18b614e@185.141.107.42:777?encryption=none&security=none&type=tcp&headerType=none&host=@BlueberryNetWork#4Kian-a40d0b56ec
-vless://03e5f7fb-d569-403b-8740-9e3b4f7dd94a@151.242.168.239:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&host=/?TELEGRAM@V2ray_confiigheaderType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=frantax.my3cx.de&sid=fd55b698ee8c3629#4Jadi-16ea011f50
-vless://03e5f7fb-d569-403b-8740-9e3b4f7dd94a@151.242.168.239:443?security=reality&encryption=none&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&host=/?TELEGRAM@MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=frantax.my3cx.de&sid=fd55b698ee8c3629#4FreeIran-2f33b428a0
-vless://03e1f9fc-eda7-ffb0-ca09-c83212f97218@69.46.46.100:443?path=/ws/03e1f9fc-eda7-ffb0-ca09-c83212f97218&security=tls&alpn=http/1.1&encryption=none&host=ghol-production.up.railway.app&fp=chrome&type=ws&sni=ghol-production.up.railway.app#4Mohsen-8bf49ae367
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?path=/cdn/v3/live&security=tls&encryption=none&insecure=0&host=cf6.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf6.rumedia-cdn.com#4FreeIran-fa9e6e7cc6
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?path=/cdn/v3/live&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cf6.rumedia-cdn.com&type=ws&allowInsecure=0&sni=cf6.rumedia-cdn.com#4FreeIran-edc99a742a
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?path=/cdn/v3/live&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cf6.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf6.rumedia-cdn.com#4Sarina-a0fddc8003
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?path=%2Fcdn%2Fv3%2Flive&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cf6.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf6.rumedia-cdn.com#4Kian-c954c808cd
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?encryption=none&type=ws&host=cf6.rumedia-cdn.com&path=/cdn/v3/live&security=tls&fp=chrome&sni=cf6.rumedia-cdn.com&alpn=http/1.1#4Sarina-de1f8014f3
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?encryption=none&fp=chrome&host=cf6.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf6.rumedia-cdn.com&type=ws#4Sarina-31b7d1440a
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?alpn=http%2F1.1&encryption=none&host=cf6.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=cf6.rumedia-cdn.com&type=ws#4FreeIran-d1ce67c4c6
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443?allowInsecure=1&encryption=none&path=/cdn/v3/live&security=tls&sni=cf6.rumedia-cdn.com&type=ws#4Sarina-c7fedb14e7
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@94.156.232.254:443/?type=ws&encryption=none&flow=&host=cf6.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=cf6.rumedia-cdn.com&alpn=http/1.1#4Kian-8c3c47f0e9
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@31.76.88.10:8443?security=reality&encryption=none&pbk=LceNbOus12Xf9wqkpHRV98Q6DHY8w-5twDvjLHFW8jI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=ade84e150892ab4a#4FreeIran-eebe18b248
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@31.76.88.10:8443?security=reality&encryption=none&pbk=LceNbOus12Xf9wqkpHRV98Q6DHY8w-5twDvjLHFW8jI&headerType=&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=ade84e150892ab4a#4Kian-2334861a94
-vless://03c48eca-e0aa-4e18-998c-1f53f1de293c@31.76.88.10:443?path=/cdn/v3/live&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cf5.rumedia-cdn.com&fp=chrome&type=ws&allowInsecure=0&sni=cf5.rumedia-cdn.com#4Sarina-afbcdd60bc
-vless://03bd5d6c-a283-4c93-97ff-7a164cfd5a84@146.75.119.82:80?mode=auto&path=%2FZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON&security=&encryption=none&host=Ze%64omo%64e.global.ssl.fastly.net&type=xhttp#4Kian-99c49abcd8
-vless://03a8d415-1d9c-470d-9e2d-ea0fd6aef9c0@104.21.6.82:8080?encryption=none&security=none&type=ws&host=server7.wimig16819.workers.dev&path=%2FeyJqdW5rIjoiSWdvVk5ETHBhRnNQamIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0%3D%3Fed%3D2560#4Jadi-01941711b8
-vless://0389f39c-0187-4331-8ed7-2211f0413afc@mtn2.6.6.6.6.divar.ir.hamrahaval.fun:9001?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#4Mohsen-f8942bdf3d
-vless://0389f39c-0187-4331-8ed7-2211f0413afc@mtn2.6.6.6.6.divar.ir.hamrahaval.fun:9001?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#4Jadi-602b26ffaf
-vless://037ec3f3-d983-4f05-9ae2-03f0c1d7977c@143.246.136.234:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#4Sarina-54d29158c6
-vless://03746754-100d-565e-11bf-def7f5522759@69.46.46.105:443?path=/ws/03746754-100d-565e-11bf-def7f5522759&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cobalt-delta-8e5d-production.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=cobalt-delta-8e5d-production.up.railway.app#4Mohsen-618a4fdba0
-vless://03746754-100d-565e-11bf-def7f5522759@69.46.46.105:443?path=/ws/03746754-100d-565e-11bf-def7f5522759&security=tls&alpn=http/1.1&encryption=none&host=cobalt-delta-8e5d-production.up.railway.app&fp=chrome&type=ws&sni=cobalt-delta-8e5d-production.up.railway.app#4Nika-a2ff443571
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443?security=reality&encryption=none&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&headerType=none&fp=chrome&spx=/fdded5f9698d939&type=tcp&sni=www.cloudflare.com&sid=cfe08c23a85f24#4Kian-5c5c7fbcc3
-vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.80.73:443?path=/?TELEGRAM-leviconfigs?ed=512&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=de-new.ariyuz.org#4FreeIran-8f2d430c07
-vless://03633612-cb32-46cc-8f93-7103d1511ade@www.speedtest.net:2095?path=/?ed=2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#4Nika-229ecd3f97
-vless://0346a35f-8e11-4b33-852d-00fa9c642878@18.177.61.231:30203?security=reality&encryption=none&pbk=dsJ2WwzENgTAgd8okJPXLpwzdsDjU67mBEnhUhgvvTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=40150721499a92#4Nika-61712f1d52
-vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?mode=gun&security=reality&encryption=none&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=fd7f#4Jadi-bd90cf51e8
-vless://03446511-2806-0021-b02f-f10d2d3a33c6@5.61.91.221:443?security=reality&type=tcp&sni=cdn-up.perecbass.ru&fp=firefox&flow=xtls-rprx-vision&sid=4a7b1c8d&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4#4Mohsen-0990a679e6
-vless://0336579a-8cc8-0288-cfc1-890ba73094d8@147.182.156.111:8039?flow=xtls-rprx-vision&encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=chrome&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&allowinsecure=0&type=tcp&headerType=none#4Nika-ec354a49fa
-vless://0336579a-8cc8-0288-cfc1-890ba73094d8@147.182.156.111:1161?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#4Jadi-f5ae0505a6
-vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@172.67.132.209:80?security=&type=ws&path=/?ed%3D2048&host=nl21.vlessx.us&encryption=none#4Mohsen-2873b739f1
-vless://03103fd1-3b2e-4c8b-8b7b-a49015642fce@82.145.55.75:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&sni=strapi.io#4Sarina-5a1cb44698
-vless://030bc293-1c0e-483c-a65f-0f73c0672bcd@31.15.17.68:53742?encryption=none&host=play.google.com&path=/&security=none&type=ws#4Nika-1aeaa3c7b6
-vless://030bc293-1c0e-483c-a65f-0f73c0672bcd@31.15.17.68:40614?security=reality&encryption=none&pbk=gAu6Cnthj_gbV7vvjoTgNUbJ9aoeFBagC2XNXH6Jgg8&headerType=none&fp=chrome&spx=/80eaff2bfe690d4&type=tcp&sni=intel.com&sid=65#4Kian-b1941ea88f
-vless://030bc293-1c0e-483c-a65f-0f73c0672bcd@31.15.17.68:40614?encryption=none&fp=chrome&pbk=gAu6Cnthj_gbV7vvjoTgNUbJ9aoeFBagC2XNXH6Jgg8&security=reality&sid=65&sni=intel.com&spx=/80eaff2bfe690d4&type=tcp#4FreeIran-562b38d0b8
-vless://030bc293-1c0e-483c-a65f-0f73c0672bcd@31.15.17.68:40614?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=gAu6Cnthj_gbV7vvjoTgNUbJ9aoeFBagC2XNXH6Jgg8&headerType=none&fp=chrome&spx=/80eaff2bfe690d4&type=tcp&sni=intel.com&sid=65#4Kian-7b9237a070
-vless://030bc293-1c0e-483c-a65f-0f73c0672bcd@31.15.17.68:18106?encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=image.samsung.com&mode=auto&path=/&pbk=rvA6u4hehkRSWsR7S6CXK-A0aBFlYqcCRsPJPYP1izQ&security=reality&sid=637082fe&sni=qa.semiconductor.samsung.com&spx=/c585b932d45e90d&type=xhttp&x_padding_bytes=100-1000#4Mohsen-a5b035cdb6
-vless://02ea6b0e-21f8-4290-9ecc-854d492705f4@cd3.postshup.ir:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=sSois.6.postshup.ir#4FreeIran-37f014f61c
-vless://02e6ad71-7f85-4c3a-aac7-6171762bce87@172.67.148.180:443?pcs=108dd02932d4785173c4d7001b2038b2cc96c99cbf0ae8f698b7579c46abb685&path=/eyJqdW5rIjoia2N4eldGd0p6NVY1V3hrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=1&host=summer-field-3c5b.fsdfsddf.workers.dev&fp=chrome&type=ws&allowInsecure=1&sni=suMMer-fieLD-3c5b.fSdfSDDf.WoRKErs.dEv#4Kian-cafaea5c0a
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@31.76.246.59:443?security=reality&encryption=none&pbk=nFJCJ2tvxLdLrc9G-O1laW8KDir5SDnaOTmYndVaOGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=v.gb-cdn.ru&sid=7a3f9e2b1c8d4f6a#4Sarina-8361278cdc
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@2.27.26.140:443?encryption=none&type=tcp&security=reality&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335&sni=aq.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision#4Kian-79b1eb9e39
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@185.238.191.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&security=reality&sid=f7d0420b8ab26060&sni=de-cdn.ru&type=tcp#4Sarina-81c66b18f0
-vless://02b320ce-09f8-4cb5-9c46-9024f5585881@free1.barayekhudam.ir:2255/?type=tcp&encryption=none&flow=&sni=radar.arvancloud.ir&fp=firefox&security=reality&pbk=Cs7yLk8XXPksSjf6GB1JFYyFICqWVL3nL-10K7jQ7xc&sid=983c9303725c67#4Jadi-04f29ae315
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:8080?encryption=none&security=none&type=tcp#4Kian-4d206e9ada
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:443?security=none&encryption=none&headerType=none&type=tcp#4Sarina-6a6a9f8a06
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:443?security=none&encryption=none&fm=https://t.me/ShadowFlux2&host=BIA_TELEGRAM?=@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2---@ShadowFlux2&headerType=none&type=tcp#4FreeIran-d767619e08
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:443?encryption=none&security=none&type=tcp#4Sarina-9386c2a03d
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?security=none&encryption=none&headerType=none&type=tcp#4Kian-1b578f0ee6
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:110?encryption=none&security=none&type=tcp#4Kian-44eaf00e10
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:8080?encryption=none&security=none&type=tcp#4Nika-cfbcf6779e
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:443?encryption=none&security=none&type=tcp#4Mohsen-de39c6a1f2
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:17622?encryption=none&security=none&type=tcp#4FreeIran-5562da16f8
-vless://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@45.59.126.91:110?encryption=none&security=none&type=tcp#4Sarina-f9dbf2e43d
-vless://02782ae7-8499-07d9-4656-a03851eb4641@69.46.46.103:443?path=/ws/02782ae7-8499-07d9-4656-a03851eb4641&security=tls&alpn=http/1.1&encryption=none&host=silent-atlas-b963-production.up.railway.app&fp=chrome&type=ws&sni=silent-atlas-b963-production.up.railway.app#4Kian-e1b8b5203d
-vless://0261c8f9-413a-455b-942b-3713c6b0084a@172.66.40.99:443?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=www.dollardoon.com&fp=chrome&type=ws&sni=www.dollardoon.com#4Sarina-13a830ac5e
-vless://026149af-ee7c-2044-944e-34d522fd6f7e@tmesubgift.up.railway.app:443?encryption=none&security=tls&sni=tmesubgift.up.railway.app&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=tmesubgift.up.railway.app&path=/ws/026149af-ee7c-2044-944e-34d522fd6f7e#4FreeIran-a248b4ae39
-vless://02529660-52bf-4896-951a-1857c88d1dba@129.212.143.246:47542?mode=gun&security=reality&encryption=none&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&fp=chrome&spx=%2F&type=grpc&sni=zula.ir&sid=7a6d1a#4FreeIran-f3f5400c45
-vless://02406c31-fda3-48ac-a19e-0d822b908849@switchback.proxy.rlwy.net:26807?encryption=mlkem768x25519plus.native.0rtt.wYw5yBDGcmYLulZQc4n3o1JDwARN0LlvXty8N7zxdgo&security=none&type=ws&path=/#4FreeIran-65b54fbc40
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@fr-tx.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision-udp443&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp&headerType=none#4FreeIran-1459ff7a1d
-vless://01e4f6b0-acfa-4cac-a39d-6779d85eba65@tr.s.hardvezoo.ir:2052?path=/&security=none&encryption=none&host=www.speedtest.net&type=httpupgrade#4Kian-166e3e62fb
-vless://01e1eccc-0e7e-418d-a996-fd2cf33c7c40@sv3.tsteam99.top:60003?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#4FreeIran-babfc92ed9
-vless://01d45b24-10c5-4d0b-83c2-8230c0290c38@s07.goharley.site:443?encryption=none&type=tcp&security=reality&headerType=none&sni=cdn.selectel.ru&insecure=1&allowInsecure=1&pbk=lgYkxGzAAIIJJ6OmrtDyqJfcEKdWCqA7lmsxyVDgGWc&flow=xtls-rprx-vision#4Sarina-ee204cd04d
-vless://01d1dc02-26aa-4c83-e4a6-51f12b16d6f1@69.46.46.104:443?path=/ws/01d1dc02-26aa-4c83-e4a6-51f12b16d6f1&security=tls&alpn=http/1.1&encryption=none&host=ivory-ridge-479b-production.up.railway.app&fp=chrome&type=ws&sni=ivory-ridge-479b-production.up.railway.app#4Sarina-f4b86f4234
-vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?encryption=none&security=none&type=ws&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&path=%2F%3Fed%3D2560#4Kian-4332eae274
-vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@lucky-field-0220.191-de2.workers.dev:8880?encryption=none&security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net#4Jadi-c1a9321d68
-vless://01c2fb74-10b5-452d-b893-67cb528b6a8d@lucky-field-0220.191-de2.workers.dev:8880?encryption=none&security=none&type=ws&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#4Jadi-832a4c3304
-vless://01c2b190-58df-4fa7-96e8-0e7a3a2148f1@91.99.81.222:443?security=reality&encryption=none&pbk=dYsy51W78tzZf26ql7Fh0Db65VlRSjGp6EH9nsAIRgo&headerType=none&fp=chrome&spx=/gJQ6bFfNCQ136pW&type=tcp&flow=xtls-rprx-vision&sni=amp-api-edge.apps.apple.com&sid=16d9cabe#4Kian-151f928e41
-vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&host=JOIN_BEDE_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#4Nika-b95d003515
-vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?security=reality&encryption=none&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f713561d#4Nika-47fed4f74c
-vless://01ada9fb-fa2f-45da-a0d0-bce80cdf433b@207.56.137.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=WNifT0qNHWrUsvC6cuvej0rzZe6qPijopbmJyRADOF0&sid=f713561d&type=tcp&headerType=none#4Sarina-3c25e0daa0
-vless://018a9e2e-9bfd-4a9e-a20d-c07eb53fa439@91.234.39.183:8080?path=/&security=none&encryption=none&type=ws#4Mohsen-9648651515
-vless://0183ea01-1071-4b3b-97fa-67dd115fe8f8@176.120.17.90:2083?encryption=none&type=http&path=/#4Nika-e3ada2b10c
-vless://01640ed0-9b23-493d-ac18-3947750e25c2@bot.rayopoder.top:50972?security=none&encryption=none&host=bale.ai&headerType=http&type=tcp#4Sarina-04ae991c4a
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&headerType=none&type=tcp#4FreeIran-6164493c8a
-vless://01566881-bc1c-4376-9531-d540963c287b@f1.springpaatogh8.store:2053?encryption=none&security=tls&sni=digikala.sorza.ir&type=ws&host=chess.sorza.ir&path=/?ed=2560/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet/JOIN/V2rayNG_SPDNet#4Kian-8ed6f2e4d4
-vless://0149f8a4-c31a-4bcf-98b6-cf98a5f11d76@91.192.160.7:9999?encryption=none&security=none&type=tcp&headerType=none#4Kian-4129b730d4
-vless://0136d663-8506-45ab-e164-666046bf635f@104.21.28.188:8880?security=none&type=ws&host=join.kiava.cloud.speedtest.net.xn--mgba2h8quf.cdn.ws.cloudfront.net.kiava.fun#4Sarina-b3ab1416e0
-vless://011551f8-584f-4745-9aa3-c76e0c827940@25.25.25.25:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=azki.bosbosi.com&type=ws#4Jadi-7ff46511aa
-vless://010158f4-1a88-4dfa-8420-c770dc1584e1@31.58.181.88:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=AERbWB2uslqIzm1hSlOZZEH3Y9qg_zlWRRyLfh97kXc&sni=tradingview.com#4FreeIran-e27af71468
-vless://00f6757c-7dec-4338-affc-3630c053b33f@66.33.22.220:12580?security=reality&encryption=none&pbk=2hbPKGw1sSx2JzztIcTquTduzbNB7wDbY4lNK30BoD0&headerType=none&fp=ios&spx=%2Fd68f92e37fe4aa7&type=tcp&sni=hexdocs.pm&sid=56d13342b3fb1f#4Kian-75632062a5
-vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#4Kian-c230ea5cbe
-vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=%2F&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#4Nika-04c2d3ff36
-vless://00e76985-35cb-44f2-a9b3-b0a29a8ac782@172.64.146.23:2087?path=/&security=tls&encryption=none&host=kurdnet.kurdmarivanzaribar.xyz&fp=chrome&type=httpupgrade&sni=kurdnet.kurdmarivanzaribar.xyz#4Nika-78ecfe0f8d
-vless://00e76985-35cb-44f2-a9b3-b0a29a8ac782@172.64.146.23:2087?alpn=h2,http/1.1,h3&encryption=none&fp=chrome&host=kurdnet.kurdmarivanzaribar.xyz&path=/&security=tls&sni=kurdnet.kurdmarivanzaribar.xyz&type=httpupgrade#4Sarina-f016e6a4ea
-vless://00e4da0c-7d10-4a37-9699-64d0f998d200@151.242.168.238:443?flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=frantax.my3cx.de&type=tcp#4Nika-c58948b1ed
-vless://00d1eaf8-14a6-4ea7-a939-e80ad114a819@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&insecure=0&allowInsecure=0&type=ws&host=afrcloud22.mmv.kr&path=/#4Mohsen-f14540516a
-vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#4Mohsen-7104ac97cb
-vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#4Jadi-1db81851c2
-vless://00706a0e-de50-40f0-b6e0-e50b8d727d88@109.121.44.41:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=qq&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=2c5d0e9f&type=tcp&headerType=none#4Nika-a99fae0f20
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@pishdad.org:8080?path=/&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#4Mohsen-26607c0bdf
-vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@neth2.nihaovpn.ru:443?mode=gun&security=reality&encryption=none&pbk=qNCzfY_ga5_n3NCD0g1XoiBWcnofF4SHUM27jvoBAyw&fp=chrome&type=grpc&serviceName=grpc&sni=stackoverflow.com&sid=0ea83f18e6b2#4Nika-3527d3b512
-vless://00506574-3b10-4f7d-9b2f-8afdc5919b93@31.76.14.59:443?security=reality&encryption=none&pbk=KXLSKenDdZrp3WANgHvkIuEFuGNb02R39SIFhWyhR3o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=a8a897f350b14b20#4Nika-c042f0bb25
-vless://0014fa64-cd57-361b-1d44-7b52d286b9bd@69.46.46.25:443?path=/ws/0014fa64-cd57-361b-1d44-7b52d286b9bd&security=tls&alpn=http/1.1&encryption=none&host=limo-production-c1f7.up.railway.app&fp=chrome&type=ws&sni=limo-production-c1f7.up.railway.app#4Nika-83e2248b18
-vless://%58pnTeam-40@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#4Kian-8e336dce06
-vless://%40awlix_ir@awlix.pcjxq.digital:19713?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=FXCTsmL3_wS7Nbvd14wzf052DnZNee38R24th52GaUw&sid=1973cc4e234ad5&spx=%2F&type=tcp&headerType=none#4Jadi-6ee65489cb
-tuic://c5031c3d-bc5a-47fd-9ab2-636c307eec59:c5031c3d-bc5a-47fd-9ab2-636c307eec59@singapore.ruixing.fun:58441/?congestion_control=bbr&udp_relay_mode=native&sni=singapore.ruixing.fun&alpn=h3#4Kian-16733bba43
-tuic://9a198016-fdb7-4510-acca-e2c68c1083e5:9a198016-fdb7-4510-acca-e2c68c1083e5@singapore.ruixing.fun:58441/?congestion_control=bbr&udp_relay_mode=native&sni=singapore.ruixing.fun&alpn=h3#4Kian-f2b2a94877
-tuic://80747420-96c4-4a2f-83e6-eea4e46beb09:80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:41053/?congestion_control=cubic&udp_relay_mode=native&alpn=h3&sni=drhystuichdfy.samanidempire.org#4Jadi-3d6d5cddf3
-trojan://yu7AvNL9rW@212.33.206.111:80?allowInsecure=0#4Mohsen-56931bb137
-trojan://your_password@aws-uk-london-1.f1cflineb.com:443?security=tls&sni=aws-uk-london-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflineb.com#4Kian-cd9a74244b
-trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=aws-uk-london-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflinea.com#4Jadi-2220644dd7
-trojan://your_password@aws-uae-1.f1rocketnode.com:443?security=tls&sni=aws-uae-1.f1rocketnode.com&type=tcp#4Kian-9e99f5488c
-trojan://your_password@aws-uae-1.f1cflineb.com:443?security=tls&sni=aws-uae-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uae-1.f1cflineb.com#4Nika-6a800e7146
-trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=aws-se-stockholm-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflinea.com#4Nika-6a9eb9e3ca
-trojan://your_password@aws-in-mumbai-1.f1cflinea.com:443?security=tls&sni=aws-in-mumbai-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-in-mumbai-1.f1cflinea.com#4FreeIran-90245fe290
-trojan://your_password@aws-es-madrid-1.f1rocketnode.com:443?security=tls&sni=aws-es-madrid-1.f1rocketnode.com&fp=chrome&type=ws&path=/f1rocket&host=aws-es-madrid-1.f1rocketnode.com#4Mohsen-d231d1117d
-trojan://your_password@aws-ch-zurich-1.f1cflineb.com:443?security=tls&sni=aws-ch-zurich-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1cflineb.com#4Nika-f70edd8348
-trojan://your_password@aws-ca-central-1.f1cflineb.com:443?security=tls&sni=aws-ca-central-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflineb.com#4Kian-f501975ae9
-trojan://your_password@aws-ca-central-1.f1cflinea.com:443?security=tls&sni=aws-ca-central-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflinea.com#4Kian-57e9a87441
-trojan://your_password@aws-ar-buenosaires-1.f1cflinea.com:443?security=tls&sni=aws-ar-buenosaires-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ar-buenosaires-1.f1cflinea.com#4Kian-7adb8f54d3
-trojan://your_password@52.56.183.187:443?security=tls&sni=aws-uk-london-1.f1rocketnode.com&type=tcp#4Sarina-d4268cce01
-trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&allowInsecure=1&type=tcp#4Jadi-b1207c873b
-trojan://your_password@43.205.109.9:443?security=tls&sni=aws-in-mumbai-1.f1rocketnode.com&type=tcp#4Nika-ba6c58cf43
-trojan://your_password@35.183.238.42:443?security=tls&sni=aws-ca-central-1.f1rocketnode.com&allowInsecure=1&type=tcp#4Kian-2776bfd0be
-trojan://your_password@3.29.95.54:443?security=tls&sni=aws-uae-1.f1rocketnode.com&allowInsecure=1&type=tcp#4Nika-6ec56bd370
-trojan://your_password@3.27.95.146:443?security=tls&sni=aws-aus-sydney-1.f1rocketnode.com&type=tcp#4Mohsen-31e714bf63
-trojan://your_password@188.114.99.0:443?security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#4Nika-a72212496e
-trojan://your_password@18.142.122.247:443?security=tls&sni=aws-sg-1.f1rocketnode.com&type=tcp#4Jadi-8d4c350302
-trojan://your_password@172.67.165.204:443?security=tls&sni=aws-aus-sydney-1.f1cflinea.com&type=ws&path=/f1rocket&host=aws-aus-sydney-1.f1cflinea.com#4FreeIran-b3d2c6eec4
-trojan://your_password@16.62.65.57:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&type=tcp#4Sarina-be15758299
-trojan://your_password@16.171.12.136:443?security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&type=tcp#4Mohsen-738999f5e3
-trojan://your_password@16.163.157.177:443?security=tls&sni=aws-hk-1.f1rocketnode.com&type=tcp#4Nika-0aff5b89d1
-trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&type=tcp#4FreeIran-a56c6cbab0
-trojan://your_password@15.220.240.255:443?security=tls&sni=aws-th-bkk-1.f1rocketnode.com&type=tcp#4Jadi-1664e97d7c
-trojan://your_password@15.220.121.237:443?security=tls&sni=aws-ar-buenosaires-1.f1rocketnode.com&type=tcp#4FreeIran-6c05fa72e3
-trojan://your_password@15.160.138.221:443?security=tls&sni=aws-it-milan-1.f1rocketnode.com&type=tcp#4FreeIran-23440a9ac1
-trojan://your_password@13.244.104.87:443?security=tls&sni=aws-za-capetown-1.f1rocketnode.com&type=tcp#4Kian-e23e7bc4b8
-trojan://your_password@104.21.73.195:443?security=tls&sni=aws-aus-sydney-1.f1cflinea.com&type=ws&path=/f1rocket&host=aws-aus-sydney-1.f1cflinea.com#4Mohsen-3633b23d92
-trojan://your_password@104.21.7.241:443?security=tls&sni=aws-sg-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-sg-1.f1cflineb.com#4FreeIran-a17e3b321d
-trojan://yZOZ8GWc8K@104.21.44.126:443?security=tls&sni=de.vpncustomize.website&type=tcp#4Sarina-3edcdb7a91
-trojan://yDDof5FN4t@65.109.217.127:19874?mode=auto&path=/@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN@ZhilaVPN&security=reality&pbk=3JK6GXCugUxU-KKZJdWU6yVEzD792MDqU0i1da9zzF8&fp=chrome&spx=/&type=xhttp&sni=amp-api-edge.apps.apple.com&sid=7e22#4Kian-3be1ae8662
-trojan://yAcqvPOj@sgb.mdfg.tk:443?security=tls&sni=sgb.mdfg.tk&allowInsecure=1&type=tcp#4Mohsen-8bea36910e
-trojan://xxoo@us.blazeppn.info:443?security=tls&sni=telewebion.com#4Kian-be0eaf7827
-trojan://xxoo@us.blazeppn.info:443?security=tls#4Sarina-ad36ef8e6c
-trojan://xxoo@3.34.6.217:443?security=tls#4FreeIran-46928b02ad
-trojan://xxoo@194.156.99.39:443?security=tls#4Jadi-db39c2b57c
-trojan://xxoo@146.19.230.241:443?security=tls&sni=loader.tapsell.ir#4Kian-0a74758eb8
-trojan://xxoo@146.19.230.241:443?security=tls&sni=bmi.ir#4Sarina-0d1179a0fd
-trojan://xxoo@146.19.230.241:443?security=tls#4Mohsen-53d6f7df7a
-trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info#4Jadi-5d9a349df3
-trojan://xxoo@138.197.5.103:443?security=tls&sni=telewebion.com#4Mohsen-982f709fba
-trojan://xxoo@138.124.183.226:443?security=tls#4FreeIran-19ea9374ed
-trojan://xxoo@138.124.183.222:443?security=tls&sni=138.124.183.222#4Kian-463184e0ff
-trojan://xxoo@138.124.183.216:443?security=tls#4Jadi-02d698fdc9
-trojan://xxoo@13.210.76.227:443?security=tls&allowInsecure=1&type=tcp#4Mohsen-c54853a9f8
-trojan://xstack-1718-9761-freevpn@cdn-gr-3.goldaccess.xyz:1935?security=tls#4Mohsen-6e5ab2ef4b
-trojan://xl87654321@199.59.243.225:443?security=tls&sni=stonebreak.online&allowInsecure=1&type=tcp#4FreeIran-728d0c42a8
-trojan://xhl549341@cf.090227.xyz:443?security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560#4Jadi-6e5eeaf9fe
-trojan://xhl549341@188.114.97.6:443?security=tls&type=ws&host=tro.baiyi.cloudns.org&path=/?ed=2560&sni=tro.baiyi.cloudns.org&alpn=h3&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={#4Kian-d2069ce282
-trojan://xV6yLF0Z69Hm@15.222.64.220:16700?allowInsecure=0&sni=appsvs.shop#4Nika-5aadbcbdc8
-trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=yokoha.freetrade.link#4Sarina-540bd248c7
-trojan://wpLP2iWsEQWw@15.237.176.178:16975?sni=appsvs.shop#4Mohsen-25572d37b2
-trojan://whyvpn-7dayaktif@104.18.10.39:443?security=tls&sni=do3.kitu.xyz&allowInsecure=1&type=tcp#4Sarina-a27f6bc811
-trojan://vvip-periantara@38.9.140.66:443?security=tls&sni=id3tr.jagoan.vip#4FreeIran-613a93a60e
-trojan://vbmwVEzFLS@45.63.106.86:17831?type=tcp&allowInsecure=1#4Nika-f0cdad076a
-trojan://vaj6czo9k9k338e9@31.15.17.68:51060?security=reality&sni=aws-us-east-1.amazon.com&fp=chrome&pbk=HzJpzhs8DSY5kcbIU_j0B6Q7eKoPD0VrMdIkxson7l0&sid=787f0980b64e3c&spx=/589e5521705a94f&type=tcp&headerType=none#4Jadi-97c89483e1
-trojan://umis0GDWL5RQ@3.112.192.169:16717?allowInsecure=0&sni=appsvs.shop#4Mohsen-64864af37c
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#4Nika-99cef75568
-trojan://uRkZYGid1r@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#4Jadi-6f1191b1b3
-trojan://uRkZYGid1r@179.237.75.190:41464?type=tcp&headerType=http&host=rd.autos.yahoo.com:41636&path=/5747463414152474635353366347474334?ed=2048?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=rd.autos.yahoo.com:40069&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#4Nika-64e0883f6c
-trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443?allowInsecure=1&sni=ap-northeast-1.openssl3.com#4Sarina-0f94376cdd
-trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443?allowInsecure=1#4FreeIran-5e478d5a2c
-trojan://tune7jerky7HAYRICK@96.126.123.244:443?security=tls&sni=ap-northeast-1.openssl3.com&allowInsecure=1&type=tcp#4Nika-ff5dd1779f
-trojan://tune7jerky7HAYRICK@45.79.19.196:443?security=tls&sni=ap-northeast-1.openssl3.com&allowInsecure=1&type=tcp#4Mohsen-9de7ad9bdf
-trojan://tsuchiya@aa.ccmusic.jp:443?type=tcp&security=tls#4Kian-dc02279abc
-trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#4FreeIran-19914a26da
-trojan://trojan@ip.sb:8443?path=%2F&amp;security=tls&amp;host=fofang.pages.dev&amp;type=ws&amp;sni=fofang.pages.dev#4FreeIran-05b8ca38c2
-trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&security=tls&sni=vps.tropicalhosting.net#4Kian-616387ae44
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?security=tls&alpn=http/1.1&fp=firefox#4Mohsen-85f4552f4a
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?allowInsecure=0&alpn=http/1.1#4Nika-093317adb1
-trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#4Sarina-7b672644c0
-trojan://telegram-id-privatevpns@63.182.140.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-a9439326b1
-trojan://telegram-id-privatevpns@54.93.240.151:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-03be3dd294
-trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-854d7b30f8
-trojan://telegram-id-privatevpns@54.72.120.247:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4FreeIran-9586069ee5
-trojan://telegram-id-privatevpns@54.171.81.189:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4FreeIran-a63211e2bc
-trojan://telegram-id-privatevpns@54.171.7.212:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Kian-b4c7f0cccf
-trojan://telegram-id-privatevpns@54.154.239.54:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Mohsen-dc7608a99f
-trojan://telegram-id-privatevpns@52.58.179.46:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Nika-b1e30689e3
-trojan://telegram-id-privatevpns@52.48.207.242:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Nika-92d1670b3b
-trojan://telegram-id-privatevpns@51.45.55.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-863237e568
-trojan://telegram-id-privatevpns@51.44.34.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-bcb4862ab6
-trojan://telegram-id-privatevpns@51.20.47.145:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Sarina-86a10274b1
-trojan://telegram-id-privatevpns@35.181.222.101:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#4Nika-918c757fb0
-trojan://telegram-id-privatevpns@35.181.213.154:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4FreeIran-d38020583b
-trojan://telegram-id-privatevpns@35.181.213.154:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Kian-345dff3cd4
-trojan://telegram-id-privatevpns@35.181.195.29:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#4Sarina-34f3d6a2ba
-trojan://telegram-id-privatevpns@35.181.111.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-ad9895b0db
-trojan://telegram-id-privatevpns@35.180.36.215:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-b51acc35e9
-trojan://telegram-id-privatevpns@35.180.202.29:22222?security=tls&sni=trj.rollingnext.co.uk#4Nika-28527919a8
-trojan://telegram-id-privatevpns@35.180.175.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-8738a7a618
-trojan://telegram-id-privatevpns@35.180.16.16:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-1c00a8ff7d
-trojan://telegram-id-privatevpns@35.177.137.88:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-aaba1e7040
-trojan://telegram-id-privatevpns@35.158.18.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-57ac3c1133
-trojan://telegram-id-privatevpns@35.157.166.126:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Jadi-a8e42b47b0
-trojan://telegram-id-privatevpns@35.157.117.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-56c21cac46
-trojan://telegram-id-privatevpns@35.156.113.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-8b6e66664a
-trojan://telegram-id-privatevpns@34.252.21.244:22222?type=tcp&sni=trojan.burgerip.co.uk#4Jadi-7dc2263f92
-trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-0e4d8a2b11
-trojan://telegram-id-privatevpns@3.68.139.230:22222?type=tcp&sni=trojan.burgerip.co.uk&allowInsecure=1http/1.1#4FreeIran-96f76d527b
-trojan://telegram-id-privatevpns@3.253.67.209:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-0bb56096aa
-trojan://telegram-id-privatevpns@3.252.69.131:22222?security=tls&sni=trj.rollingnext.co.uk#4Jadi-cb8c600b18
-trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-5f14daf64b
-trojan://telegram-id-privatevpns@3.127.30.45:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Sarina-b504ae18ee
-trojan://telegram-id-privatevpns@3.125.188.184:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Nika-32e3128768
-trojan://telegram-id-privatevpns@3.123.22.69:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-6b2fc85838
-trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk#4Nika-bf2a3f35bf
-trojan://telegram-id-privatevpns@3.121.254.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-c876699334
-trojan://telegram-id-privatevpns@3.120.80.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-b79c2c6be4
-trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#4Nika-bfeb5da39a
-trojan://telegram-id-privatevpns@18.196.39.57:22222?type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-1a93fcb207
-trojan://telegram-id-privatevpns@18.196.217.14:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4Nika-b15dc907d0
-trojan://telegram-id-privatevpns@18.193.207.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Kian-d04a15a0f3
-trojan://telegram-id-privatevpns@18.185.219.138:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-29d698a341
-trojan://telegram-id-privatevpns@18.184.9.101:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-6ffcd0a00e
-trojan://telegram-id-privatevpns@18.135.6.102:22222?security=tls&sni=trj.rollingnext.co.uk#4Jadi-e6fb33d7a7
-trojan://telegram-id-privatevpns@18.132.35.140:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-3fdf582e72
-trojan://telegram-id-privatevpns@16.171.58.121:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-db0035bee9
-trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-44e0ea124c
-trojan://telegram-id-privatevpns@15.237.244.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-7fdd389173
-trojan://telegram-id-privatevpns@15.236.27.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-f89d47ac6c
-trojan://telegram-id-privatevpns@15.236.223.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-27499e6f3c
-trojan://telegram-id-privatevpns@15.236.220.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Mohsen-a4e1f2afee
-trojan://telegram-id-privatevpns@15.236.169.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Mohsen-f815c28b39
-trojan://telegram-id-privatevpns@15.236.122.160:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-19dd0dd69f
-trojan://telegram-id-privatevpns@15.188.182.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-d9b2c192e9
-trojan://telegram-id-privatevpns@13.53.179.45:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4FreeIran-3d4ee4f804
-trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#4Jadi-aebcc6cd45
-trojan://telegram-id-privatevpns@13.49.46.49:22222?security=tls&sni=trj.rollingnext.co.uk#4Nika-56d4aaaf97
-trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-39ddbdf014
-trojan://telegram-id-privatevpns@13.48.202.26:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-8fe23aee9c
-trojan://telegram-id-privatevpns@13.42.248.138:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Mohsen-517ccf193d
-trojan://telegram-id-privatevpns@13.39.239.220:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Nika-385aefffd5
-trojan://telegram-id-privatevpns@13.37.149.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Jadi-89a92fcd9e
-trojan://telegram-id-directvpn@54.76.45.13:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none#4Mohsen-be87e1bb19
-trojan://telegram-id-directvpn@52.51.114.1:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4FreeIran-13e5c1b49a
-trojan://telegram-id-directvpn@52.47.41.227:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1#4Nika-9344ea5985
-trojan://telegram-id-directvpn@52.47.174.48:22222?security=tls&sni=trojan.burgerip.co.uk#4Jadi-4bf9cfb7a9
-trojan://telegram-id-directvpn@46.137.144.18:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Nika-20926eaff8
-trojan://telegram-id-directvpn@44.211.71.82:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-31bf2920c9
-trojan://telegram-id-directvpn@44.201.217.130:22222?security=tls&sni=trj.rollingnext.co.uk#4Jadi-340f979104
-trojan://telegram-id-directvpn@35.91.162.93:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-ddd15dead5
-trojan://telegram-id-directvpn@35.182.28.167:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-3dffc6fe53
-trojan://telegram-id-directvpn@35.182.251.60:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-74130821fa
-trojan://telegram-id-directvpn@35.179.33.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Sarina-aaad798ad4
-trojan://telegram-id-directvpn@35.179.33.22:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Jadi-5ba5177585
-trojan://telegram-id-directvpn@35.156.35.238:22222?security=tls&sni=trj.rollingnext.co.uk#4Jadi-6480230da5
-trojan://telegram-id-directvpn@34.253.231.7:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-fc60373ae0
-trojan://telegram-id-directvpn@34.247.43.253:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#4FreeIran-d7a834fc49
-trojan://telegram-id-directvpn@34.247.43.253:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Nika-072b51e99a
-trojan://telegram-id-directvpn@34.220.74.123:22222?security=tls&sni=trj.rollingnext.co.uk#4Jadi-5c72fd5d26
-trojan://telegram-id-directvpn@34.219.52.119:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-7f21a4086e
-trojan://telegram-id-directvpn@34.210.47.105:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-2729ddbb41
-trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=trj.rollingnext.co.uk#4Nika-213ce00555
-trojan://telegram-id-directvpn@3.66.95.69:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1#4Kian-54e912740f
-trojan://telegram-id-directvpn@3.239.128.106:22222?security=tls&sni=trj.rollingnext.co.uk#4Kian-2f8e30a696
-trojan://telegram-id-directvpn@3.21.104.170:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-f6b99f2d2e
-trojan://telegram-id-directvpn@3.145.14.67:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-cdc0484c83
-trojan://telegram-id-directvpn@3.141.130.47:22222?type=tcp&sni=trojan.burgerip.co.uk#4FreeIran-d07dc32a22
-trojan://telegram-id-directvpn@3.129.217.93:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-1fc6f760a0
-trojan://telegram-id-directvpn@18.222.168.7:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-e0602998bf
-trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingnext.co.uk#4FreeIran-90a719b408
-trojan://telegram-id-directvpn@18.170.149.165:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1#4Nika-e43dc9e7c7
-trojan://telegram-id-directvpn@18.153.223.103:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Sarina-cfb9ad2e40
-trojan://telegram-id-directvpn@18.130.204.79:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-8fa1c15140
-trojan://telegram-id-directvpn@16.16.136.12:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Mohsen-ae774b695a
-trojan://telegram-id-directvpn@15.237.204.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#4Nika-66230f2fb9
-trojan://telegram-id-directvpn@15.237.204.41:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#4Jadi-0f98cddbfe
-trojan://telegram-id-directvpn@15.188.70.236:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp#4Mohsen-2ec7379bcc
-trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-7e2394bf65
-trojan://telegram-id-directvpn@13.48.105.114:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-beb43a518f
-trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk#4Sarina-37b03bb487
-trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk#4Mohsen-a5efa4677f
-trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&sni=ul-singapore1.09vpn.com&fp=chrome&type=tcp&path=/#4Jadi-6f51adaf66
-trojan://shenmegui@185.49.33.47:8461?security=tls&sni=$jp.swiftfalcon.app#4Sarina-7ea8d50271
-trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp#4Mohsen-32e553f3cf
-trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.236.220.10#4Mohsen-7e810641a7
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#4Kian-5deeb592a9
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?type=grpc&sni=cdn-21.gsmxreality.com&allowInsecure=1&serviceName=443trojan#4FreeIran-c270da4ccf
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan#4Jadi-132724ad40
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?allowInsecure=1&sni=cdn-21.gsmxreality.com#4Mohsen-11080235e7
-trojan://q9870219@181.214.99.54:2035?security=tls&sni=ht.lljllj.buzz#4Nika-d3e1d1fde4
-trojan://pvZE3UfT0ziK1omVLlsjINBqeqqwab1M@ww12.levikogjgfdd.ir:50573?security=tls&host=Telegram-Leviko_v2ray&headerType=none&type=tcp#4Nika-f38b722d98
-trojan://pjdnqv@aws-us-nyc-1.f1rocketnode.com:443?security=tls&sni=aws-us-nyc-1.f1rocketnode.com&type=tcp#4FreeIran-f2449c262e
-trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp#4Nika-7cd3da75ba
-trojan://pjdnqv@172.67.216.95:443?security=tls&sni=aws-us-oregon-1.f1cflined.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflined.com#4Jadi-45273165c2
-trojan://pjdnqv@15.181.162.90:443?security=tls&sni=aws-us-nyc-1.f1rocketnode.com&allowInsecure=1&type=tcp#4Mohsen-d6ff752b70
-trojan://owefv0_92Z540k2F_nx83245_J9130oS_tY@5.180.21.146:4443?security=tls&sni=borat-hopp.bumbleshrimp.com#4Sarina-a1eb6392f6
-trojan://origin@51.77.71.134:443?security=tls#4Nika-ee19a103ab
-trojan://origin@188.40.251.19:443?security=tls#4Nika-d2617f5f37
-trojan://origin@176.31.83.90:443?security=tls#4Jadi-90e0392bc9
-trojan://opwBP51gJL@104.21.78.234:2087?security=tls&sni=panel.proxystore11.site&type=tcp#4Kian-22f772fe88
-trojan://op2o51YGRO@104.22.3.78:2083?security=tls&sni=rayeganvasehame.flchlast.online&type=tcp#4Jadi-58352c79c1
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#4Nika-2cc6afd3ec
-trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#4Kian-030fa798e4
-trojan://netra@104.21.60.109:2087?security=tls&sni=LAtE-FroST-9DA7.ShOamEni5.woRKers.Dev&alpn=http%2F1.1&type=ws&host=late-frost-9da7.shoameni5.workers.dev&path=%2Ftr%2FWcvMTQZ5OFOfnBZDZ%3Fed%3D2560#4Mohsen-56f74c07a6
-trojan://mnk8fd@172.67.204.230:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflinec.com#4Kian-68d840befa
-trojan://mnk8fd@104.21.69.52:443?security=tls&sni=aws-us-oregon-1.f1cflinec.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-us-oregon-1.f1cflinec.com#4FreeIran-81b30f821f
-trojan://mnk8fd@104.21.51.9:443?security=tls&sni=aws-uae-1.f1cflined.com&alpn=http/1.1&fp=chrome&type=ws&path=/f1rocket&host=aws-uae-1.f1cflined.com#4FreeIran-039e31f092
-trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#4Kian-0229ebc253
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=1&host=s-mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&allowInsecure=1&sni=sadszdx.global.ssl.fastly.net.b5r.ir#4Kian-f7f83f4c37
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sdde.ssdl.globdal.fastdly.net.mitivpn.site#4FreeIran-70f3773693
-trojan://mitivpn@188.114.97.6:443?path=https://chatgpt.com&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.sddde.ssddl.globddal.fassdtdly.cow.mitivpn.site#4Mohsen-286b16970d
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s1.mitivpn.de.ssl.global.fastly.com.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s1.mitivpn.de.ssl.global.fastly.co.iranpoems.ir#4Kian-92a338b056
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=www.ssl.global.digi.my.mitivpn.xyz#4Nika-7f67cda9e8
-trojan://mitivpn@188.114.97.6:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&fp=chrome&type=ws&sni=global.fastly.com.mitivpn-a.site#4Nika-f69262abf2
-trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=sdasdfgv.global.ssl.fastly.net.mitivpn-a.site&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com.mitivpn-a.site#4Nika-08ce721bdd
-trojan://mitivpn@188.114.97.6:443?path=/?mitivpn&security=tls&alpn=http/1.1&insecure=0&host=s2.mitivpn.nl.ssl.global.fastly.ir.iranpoems.ir&fp=chrome&type=ws&allowInsecure=0&sni=s2.mitivpn.nl.ssl.global.fastly.dev.iranpoems.ir#4Nika-d6ecfd6f7f
-trojan://mitivpn@104.16.72.70:443?path=/index.php/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#4Mohsen-6beca1a712
-trojan://mainssh-opoksjhh@172.67.73.39:443?security=tls&sni=sg3tws.mainssh.xyz&allowInsecure=1&type=tcp#4Kian-ef28e884a3
-trojan://mainssh-niwrhf87@95.179.246.122:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#4Mohsen-1572c1e513
-trojan://mainssh-niwrhf87@140.82.32.17:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#4Kian-1de508d49f
-trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#4Nika-ab4e651797
-trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#4Nika-41dad45536
-trojan://mainssh-ddoejfv14@140.82.38.103:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#4Mohsen-9f17b39d16
-trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc#4Mohsen-0933fe3f87
-trojan://l6R5znJSPJ@6r6e6e6ryrfyfyydur6r6f6r6r6r6d6d6e6s6d6s6d7d7d7e6s.poki-pakipon.ir:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#4Mohsen-734f8e4d6b
-trojan://l6R5znJSPJ@179.237.75.190:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#4Sarina-98301d9abb
-trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#4Nika-fd2c701514
-trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&amp;headerType=none&amp;type=tcp#4Nika-512c52d328
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls#4Nika-631930b7bc
-trojan://kSZddpnUKy@150.136.57.125:41106?security=tls#4Kian-470843daa5
-trojan://kGrwqmB1nEKUsDwE@185.253.46.121:443?security=tls&allowInsecure=1&type=tcp#4Kian-dfb7d2ba42
-trojan://jagoanssh-Aweqdcc@104.21.32.17:443?security=tls&sni=to.ruangguru.com&allowInsecure=1&type=tcp#4Nika-8dcc9b65e6
-trojan://jKRJgS7uvI@155.248.193.254:31853?security=tls#4Mohsen-086c609371
-trojan://iyinglong@18.141.8.87:443?security=tls#4Nika-971ab7c72a
-trojan://iyinglong@18.140.67.76:443?security=tls#4FreeIran-3a8e8374dd
-trojan://iyinglong@13.213.69.245:443?security=tls#4Jadi-bb0068cf41
-trojan://idc117okt@103.226.139.201:443?security=tls#4Nika-4a4e0a73bd
-trojan://idc117okt@103.176.78.153:443?security=tls#4Kian-d405aaa637
-trojan://i99Cef@209.248.32.116:28101?security=tls#4Nika-2bb296fbc0
-trojan://i8YdP0ivWoz5KEgN@151.115.62.113:444?security=tls&sni=pl-25a97ea5.xeovo.net&allowInsecure=1&type=tcp#4Jadi-7b8fe55181
-trojan://hxn2jK9Uzezogua0oHuq9Y8viN%3DUCe.2Jd@185.137.157.254:443?security=tls#4Sarina-d850810054
-trojan://humanity@www.speedtest.org:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Jadi-3545d20d81
-trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Jadi-b7f524256e
-trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs#4Jadi-3ce5c9b30a
-trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Kian-f8e9181e37
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#4Mohsen-ff43c79fdf
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#4Sarina-cf8469ce02
-trojan://humanity@www.ignitelimit.com:443?security=tls#4Nika-c3cbf20306
-trojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Jadi-11598d1de5
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#4Kian-7438cace1a
-trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#4Nika-84f83263d1
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Kian-a0f9d3e02e
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Kian-26a9f05eda
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Jadi-0d0ba33b50
-trojan://humanity@srv1.khatibirepair.ir:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Jadi-cd9b681997
-trojan://humanity@render.com:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Jadi-96f6630f3b
-trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Sarina-68c863a694
-trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs#4Nika-1589323f46
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#4Kian-c018b62c44
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Jadi-0fb9216da6
-trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4FreeIran-06cf0c1ec1
-trojan://humanity@91.245.225.79:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Jadi-3898d145c8
-trojan://humanity@89.150.34.41:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Jadi-8fc416a1d1
-trojan://humanity@88.99.189.60:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4FreeIran-b836c21e4b
-trojan://humanity@82.117.245.125:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Mohsen-175cb3831f
-trojan://humanity@80.77.25.142:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Sarina-c80a340a2a
-trojan://humanity@8.6.112.0:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Kian-77678f2683
-trojan://humanity@5.78.92.27:8443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Nika-62ba465bdc
-trojan://humanity@46.102.156.144:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Mohsen-1fa2453109
-trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#4Mohsen-aa36f58bc7
-trojan://humanity@45.130.125.160:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#4Nika-896b930f85
-trojan://humanity@45.130.125.160:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#4Nika-7916696bae
-trojan://humanity@45.130.125.160:443?security=tls&sni=www.ignitelimit.com#4Sarina-dd8065f8a5
-trojan://humanity@45.130.125.112:443?security=tls#4Mohsen-30cf71ed6d
-trojan://humanity@45.130.125.112:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#4FreeIran-037a9f8250
-trojan://humanity@45.130.125.112:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Kian-b8200ca6d4
-trojan://humanity@216.24.57.7:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Jadi-18fd95e192
-trojan://humanity@213.182.199.137:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#4Jadi-d07b311f47
-trojan://humanity@213.182.199.137:443?fp=chrome&type=ws&alpn=http/1.1&host=www.pleadcourt.org&security=tls&sni=www.pleadcourt.org&insecure=0&path=/assignment&allowInsecure=0#4Kian-2f877f70c0
-trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=chrome#4Jadi-c5ecb95dbd
-trojan://humanity@212.227.144.37:8443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4FreeIran-bd7562becc
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Sarina-d3318952ac
-trojan://humanity@202.37.33.80:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#4Sarina-3b9a588217
-trojan://humanity@202.37.33.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#4Kian-07af661ae7
-trojan://humanity@198.62.62.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4FreeIran-02792076d7
-trojan://humanity@198.202.211.1:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#4Kian-b35292985a
-trojan://humanity@195.181.244.216:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Jadi-3deb238922
-trojan://humanity@191.96.94.226:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#4Nika-911f2dfb15
-trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#4FreeIran-52862e9217
-trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#4Sarina-7a21e3fa9e
-trojan://humanity@188.114.97.7:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4FreeIran-984e73f05c
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Mohsen-ac1a3e0987
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#4Kian-535be7b8f6
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&alpn=http/1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#4Mohsen-fb93fa415f
-trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment&fp=android#4Mohsen-3ece71e9ee
-trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Mohsen-244c7f5762
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Mohsen-4eef1c0ba4
-trojan://humanity@185.114.72.31:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Sarina-12d66c1629
-trojan://humanity@176.97.66.175:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#4Jadi-172dd99f0c
-trojan://humanity@172.67.74.2:443?sni=www.ignitelimit.com&peer=www.ignitelimit.com&security=tls#4Sarina-61fd9ee2be
-trojan://humanity@172.67.149.60:443?security=tls#4Kian-7c1e208813
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Sarina-ad438c48c0
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs#4Kian-ee4e1e96bd
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Mohsen-a51750d958
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Kian-73f024a8a8
-trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#4Kian-e2db8c2229
-trojan://humanity@168.100.9.178:2053?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Kian-6f03607c7b
-trojan://humanity@166.1.36.83:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#4Mohsen-b2347dc142
-trojan://humanity@165.215.250.14:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#4Sarina-5a0a112c00
-trojan://humanity@165.215.250.14:443?security=tls&sni=www.calmlunch.com&fp=chrome&type=ws&host=www.calmlunch.com&path=/assignment#4FreeIran-51e5a68872
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#4Kian-37c5055cb3
-trojan://humanity@165.215.250.14:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#4Sarina-def55cf4a6
-trojan://humanity@165.215.250.14:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Sarina-02d1022685
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=1&sni=www.ignitelimit.com#4FreeIran-ef4163f2a4
-trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#4Sarina-86db9cfca4
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#4Mohsen-5a10f049f7
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#4FreeIran-b9a13b48ed
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#4Mohsen-8a85a3572f
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#4Mohsen-f75241851c
-trojan://humanity@141.101.90.101:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#4Nika-1d207e5d54
-trojan://humanity@141.101.90.101:443?security=tls&sni=www.ignitelimit.com#4Nika-7bd6b7a508
-trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Sarina-6f1b48267d
-trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs#4Jadi-3d35534fc5
-trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Jadi-f97f40d96b
-trojan://humanity@104.26.15.137:443?security=tls&sni=www.ignitelimit.com#4Sarina-d1b1d61aaf
-trojan://humanity@104.26.15.137:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Sarina-fd93a90cb7
-trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Sarina-56a5ca3880
-trojan://humanity@104.26.14.137:443?security=tls#4Nika-082ad529e9
-trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Nika-edda0617b7
-trojan://humanity@104.19.229.21:443?security=tls#4Jadi-4a386c593f
-trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4FreeIran-f11bd97c3d
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Kian-005d7cae53
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#4Sarina-b06c84009f
-trojan://humanity@104.18.9.83:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#4Kian-e5b31c4849
-trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#4Sarina-8a58e5660c
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Sarina-a857f79add
-trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#4Sarina-eedf2946af
-trojan://humanity@104.18.152.97:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#4Kian-69f6e950d4
-trojan://humanity@104.18.152.97:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#4Sarina-9aecbf0c22
-trojan://humanity@104.18.152.97:443?security=tls&sni=www.ignitelimit.com#4Mohsen-c5ef9529d6
-trojan://humanity@104.18.152.73:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4FreeIran-089fafaec9
-trojan://humanity@104.18.152.50:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Sarina-62b7797a0b
-trojan://humanity@104.18.152.246:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Nika-d0c25b0f1e
-trojan://humanity@104.18.152.233:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#4Kian-e8218b028e
-trojan://humanity@104.18.152.230:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#4Jadi-4bae031b3c
-trojan://humanity@104.18.152.219:443?security=tls&sni=www.ignitelimit.com#4Jadi-c0fe0e3b86
-trojan://humanity@104.18.152.210:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Kian-9648212278
-trojan://humanity@104.18.152.210:443?security=tls&sni=www.ignitelimit.com#4Jadi-1f2ea49b80
-trojan://humanity@104.18.152.204:443?security=tls&sni=www.ignitelimit.com#4Jadi-45ad9463c4
-trojan://humanity@104.18.152.187:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#4Mohsen-33729815de
-trojan://humanity@104.18.152.179:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#4Jadi-cc520fa18f
-trojan://humanity@104.18.152.179:443?security=tls&sni=www.ignitelimit.com#4Nika-1c28cca1a0
-trojan://humanity@104.18.152.175:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#4FreeIran-4bec169c6a
-trojan://humanity@104.18.152.155:443?security=tls&sni=www.ignitelimit.com#4Nika-a426acd7dc
-trojan://humanity@104.18.152.152:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4FreeIran-017ae29e51
-trojan://humanity@104.18.152.143:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#4Kian-ebe8489221
-trojan://humanity@104.18.152.140:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4FreeIran-12b59ef0d3
-trojan://humanity@104.18.152.140:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Jadi-ccf35d8d2e
-trojan://humanity@104.18.152.133:443?security=tls&sni=www.ignitelimit.com#4Sarina-8886f83690
-trojan://humanity@104.18.152.113:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Kian-ef1a3b469f
-trojan://humanity@104.18.152.108:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Jadi-0ba5a6cf5e
-trojan://humanity@104.18.152.103:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment#4Kian-c10b178085
-trojan://humanity@104.17.177.143:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Jadi-18e00b35b3
-trojan://humanity@104.16.73.213:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Jadi-e370529b3d
-trojan://humanity@104.16.174.37:443?security=tls&sni=www.ignitelimit.com#4Jadi-2db110b928
-trojan://humanity@104.16.174.37:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Jadi-e398bcb150
-trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Sarina-e8f97528be
-trojan://humanity@104.16.174.148:443?security=tls&type=ws&sni=www.ignitelimit.com&path=/assignment&host=www.ignitelimit.com#4Jadi-8131f73195
-trojan://humanity@104.16.174.12:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Mohsen-b1b255cffc
-trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Mohsen-54b15b9d04
-trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#4Sarina-af04f0b49b
-trojan://humanity@104.16.174.121:443?security=tls&sni=www.ignitelimit.com#4Sarina-a18ca07e76
-trojan://humanity@104.16.174.117:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#4Mohsen-86a50c156c
-trojan://humanity@104.16.174.101:443?host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&type=ws#4Kian-04863f2235
-trojan://hpS304VqvF@190.93.246.241:2087?security=tls&sni=panel.proxystore11.site&allowInsecure=1&type=tcp#4Kian-64db92763c
-trojan://giosZwLNqAUWxczWJDYqXQDgNLMYwbKI@ahgjs-4-tr-0.hkg-01.o-two.xyz:889?security=tls&sni=o-two.bond#4Mohsen-4605ef2172
-trojan://fhdufiydsgfiusdfg@188.68.58.148:3320?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=potyjnometr.gayvibe.dpdns.org#4Nika-1932791bac
-trojan://fddd2348-b67b-49aa-aaca-085d32f3f6fb@217.79.181.82:443?security=tls&sni=download.xn--mes358acgm99l.com&allowInsecure=1&type=tcp#4Sarina-eaba81fede
-trojan://fafb4232-9659-4867-886d-e47f4bda283e@149.56.132.41:80?allowInsecure=1&sni=ca1.trojanvh.xyz#4Jadi-feca97cb7f
-trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp#4Jadi-8607b7d53f
-trojan://f7943d8a-9c20-3c6e-b391-bceebb4e6aad@6hkf1.102ctc.xyz:32558?type=tcp&sni=6hkf1.102ctc.xyz&allowInsecure=1#4Jadi-b1197f43a3
-trojan://f7943d8a-9c20-3c6e-b391-bceebb4e6aad@6f1sgtr1.106ctc.buzz:50143?type=tcp&sni=6f1sgtr1.106ctc.buzz&allowInsecure=1#4Nika-3c6e0a132c
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl3.meshbeat.online:8444/?type=ws&encryption=none&flow=&host=nl3.meshbeat.online&path=/api/v1/devices/7c05e2fb91/telemetry&security=tls&sni=nl3.meshbeat.online&alpn=http/1.1&allowInsecure=1&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f619326-cd93-4d6b-aebe-e0b5f8831d02@78.159.131.235:8445?security=tls&sni=nl6.unlockvpn.online&type=ws&path=/api/v1/devices/e1971f0b19/telemetry&fp=chrome&allowInsecure=0 #🇦🇱 [ Configs by DukeMehdi ] VL-AL
+vless://1f612a62-e10b-4b33-a92a-be7dfa4e3dd7@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss90869.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss90869.tas-bazi.com:443?mode=stream-one&path=%2Fasd&security=none&encryption=none&type=xhttp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f597132-cd33-4393-9e4f-a373585767e7@webshecanbot.webredirect.org:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sid=53242a95 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.22.228.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stockholmresilience.org&security=reality&pbk=9l18ryEYpf9E-qaQD2HkPfi1n5qfMRDkncpYLcZrdQc&sid=b378 #🇸🇪 [ Configs by DukeMehdi ] VL-SE
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@89.208.113.157:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=parisjetaime.com&security=reality&pbk=2dgS9vJTywAfGZmlkuzDIIXLUR-E1A-0na8_W--ruUc&sid=5be8210215 #🇫🇷 [ Configs by DukeMehdi ] VL-FR
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?type=tcp&headerType=none&security=reality&encryption=none&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision #🇦🇹 [ Configs by DukeMehdi ] VL-AT
+vless://1f4c93f0-672e-4110-9d12-d06dfa7ba5d3@79.174.92.220:1443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=eIwe5pSZs414JJDSuBA3R4-ikllq0oITezzVIdUkACI&security=reality&sid=ad7dab462a323acb&sni=settings.dev-yandex.sbs&spx=%2F&type=raw #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://1f4c8713-280d-45e3-8f06-8821ffa4c229@parham.diamondhope.ir:46856?security=none&encryption=none&headerType=none&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f431db3-1918-4e7b-a855-c93485e11694@108.165.152.82:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=pari.parinazz.dpdns.org #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.114.48:80/?type=ws&encryption=none&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.113.169:80?path=/?ed=2570&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.181.110:80/?type=ws&encryption=none&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2580 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.103.250:80/?type=ws&encryption=none&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f40d742-dfaa-4694-a509-3d81918a5673@188.114.99.47:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=auto-1f40d7.rohawmk.workers.dev&path=%2F%3FTELEGRAM-TOOTFFARANGI%3Fed%3D2560&security=tls&sni=auto-1f40d7.rohawmk.workers.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f38b094-7a91-f29c-3ed8-4ede1dc23639@45.88.8.147:80?path=/IVApi/NL/1&security=none&encryption=none&type=ws #🇦🇪 [ Configs by DukeMehdi ] VL-AE
+vless://1f35c4eb-e4fa-5a62-b0e1-b557983b34c7@132.243.207.38:4443?&security=reality&pbk=wg5YJMYIcqRU9X9U54TRzKIIw5aUyxIEI3tL_jck5WU&sid=44&fp=firefox&sni=www.vk.com&type=grpc&serviceName=&mode=gun #🇬🇧 [ Configs by DukeMehdi ] VL-GB
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@fat-sp.arpozan.cloud:8443?encryption=none&security=tls&sni=fat-sp.arpozan.cloud&fp=chrome&alpn=h2&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc&mode=gun #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@fat-sp.arpozan.cloud:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=fat-sp.arpozan.cloud&type=grpc #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@138.124.62.241:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=fat-sp.arpozan.cloud&type=grpc #🇪🇸 [ Configs by DukeMehdi ] VL-ES
+vless://1f216ab5-b0bb-44f4-8222-a05eb8c8cc7c@194.36.174.160:15300?encryption=none&security=none&type=tcp&headerType=none&note=@FreeOnlineVPN #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=randomized&host=alecruiz.pages.dev&path=%2FmrcU9YCPq4GNDHi4%3Fed%3D2560&security=tls&sni=alecruiz.pages.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f1401c8-bc59-44bd-919e-a7bed908a9f9@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=http/1.1&sni=tutdesignstudio.site&fp=firefox&flow=xtls-rprx-vision #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=tutdesignstudio.site&allowInsecure=0&fp=firefox #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&fp=firefox #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&fp=firefox #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@38.180.50.4:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=tutdesignstudio.site&alpn=http%2F1.1&fp=firefox #🇵🇱 [ Configs by DukeMehdi ] VL-PL
+vless://1f06dae9-e4cc-4aae-b026-07f7fc81fb56@www.gov.ua:8880?&type=ws&headerType=none&host=spring-fire-a493.251-67d.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f06dae9-e4cc-4aae-b026-07f7fc81fb56@log.bpminecraft.com:8880?host=spring-fire-a493.251-67d.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&security=none&sni=log.bpminecraft.com&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f06dae9-e4cc-4aae-b026-07f7fc81fb56@log.bpminecraft.com:8880?encryption=none&type=ws&host=spring-fire-a493.251-67d.workers.dev&path=/pyip%3DProxyIP.JP.CMLiussss.net&packetEncoding=xudp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f06dae9-e4cc-4aae-b026-07f7fc81fb56@104.16.106.213:8880?&security=none&type=ws&headerType=&host=spring-fire-a493.251-67d.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1f01fda5-6bdc-4c9b-8b52-1b5e174e1f7e@91.224.74.69:25568?path=/&security=&encryption=none&type=ws #🇰🇿 [ Configs by DukeMehdi ] VL-KZ
+vless://1efca345-314b-4785-b570-fa3e0e77bab2@47.83.179.144:31012?flow=xtls-rprx-vision&fp=qq&pbk=LvCIGI5QVMfY3lmEN7LM_WVLHF43ypZkeqMqvyOAax0&security=reality&sni=www.amazon.com&type=tcp #🇭🇰 [ Configs by DukeMehdi ] VL-HK
+vless://1efca345-314b-4785-b570-fa3e0e77bab2@47.83.179.144:30016?flow=xtls-rprx-vision&fp=qq&pbk=aknHJR7W2yhllqpRsvKlhdukdWLlSCp293Q2JFcg-wc&security=reality&sni=dl.google.com&type=tcp #🇭🇰 [ Configs by DukeMehdi ] VL-HK
+vless://1efca345-314b-4785-b570-fa3e0e77bab2@47.83.179.144:30015?flow=xtls-rprx-vision&fp=safari&pbk=JNuuUc30PLQGDflj6EQnl5VHoEvO4_fJy-UZWUne40A&security=reality&sni=addons.mozilla.org&type=tcp #🇭🇰 [ Configs by DukeMehdi ] VL-HK
+vless://1efca345-314b-4785-b570-fa3e0e77bab2@47.83.179.144:30014?flow=xtls-rprx-vision&fp=chrome&pbk=AGjEzFwkAaf7xZIlJaygQnYGB-yzYHqLMvfJFcV8ZFY&security=reality&sni=www.salesforce.com&type=tcp #🇭🇰 [ Configs by DukeMehdi ] VL-HK
+vless://1efca345-314b-4785-b570-fa3e0e77bab2@47.83.179.144:30013?flow=xtls-rprx-vision&fp=ios&pbk=MPEowms2A7dWKLyN2RflXZkcjkW8mD9q5T-xSS8zoVo&security=reality&sni=www.ietf.org&type=tcp #🇭🇰 [ Configs by DukeMehdi ] VL-HK
+vless://1efca345-314b-4785-b570-fa3e0e77bab2@47.83.179.144:30011?flow=xtls-rprx-vision&fp=safari&pbk=SSFIkykW4mCy8Kn4ni7kX7QA9_DX1TX8YWM1ufLplkU&security=reality&sni=www.figma.com&type=tcp #🇭🇰 [ Configs by DukeMehdi ] VL-HK
+vless://1ef7d88f-4d7a-43bb-9e1a-53b0e101ac86@185.146.173.92:8080?security=none&type=ws&host=Its-me.Vipnufilter.Online.&path=v2rayng-V2rayng-telegram-vip_v2rayng?ed=8080 #🇸🇪 [ Configs by DukeMehdi ] VL-SE
+vless://1ee0c3d2-9c42-463f-8497-ee05f76b84e5@ee-t2.vinnypuxtomoon.today:2053?type=tcp&headerType=none&security=reality&encryption=none&sni=ee-t2.vinnypuxtomoon.today&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&spx=%2F&flow=xtls-rprx-vision #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ee0c3d2-9c42-463f-8497-ee05f76b84e5@5.175.178.41:2053?flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&security=reality&sid=c0d1d1776fed0f6d&sni=ee-t2.vinnypuxtomoon.today&type=tcp #🇪🇪 [ Configs by DukeMehdi ] VL-EE
+vless://1eced095-170e-4e61-9b02-b172086c0b94@163.128.98.102:443?flow=xtls-rprx-vision&fp=chrome&pbk=c6F6xZqeMH9qAwg4Wx0WgAwRis26apZzP3fbuUCeVCc&security=reality&sid=09024903c3dcb6df&sni=www.apple.com&type=tcp #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1ebdb8ff-1217-4a94-b69d-d0f84b25fea9@hokm-a8.igatel.com:8526?security=reality&encryption=none&pbk=-zNDEqKkScKvMWB7spEper78GE_u-nR4jDHZ3DpOoxM&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=62ad184af31fc8cf #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ebb0858-218a-4dee-8746-36a67bc64462@119.28.161.143:443/?type=tcp&encryption=none&flow=&sni=apple.com&fp=chrome&security=reality&pbk=pR7MPTAA4cZsW9AO-twMzuogiWGMKPiheTg70fcWWWs&sid=0a427bc3 #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1ebae49b-f302-4301-b67d-d1d67f4e5666@www.speedtest.net:2095?security=none&type=httpupgrade&headerType=&path=/@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=https.ne.google.com.www.speedtest.net.www.speedtest.neet.speedtest.n3.misen.sbs. #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1eba8f10-8e16-484b-be7a-613327727d4d@91.98.27.174:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://1eb75d06-34b5-48af-8564-90e9ca0a3e04@31.56.89.31:37825?encryption=mlkem768x25519plus.native.0rtt.sGrv3mIk61axsKIAJkxsh-2TAnalzVWQw70HsKAlQSU&security=none&type=tcp #🇦🇪 [ Configs by DukeMehdi ] VL-AE
+vless://1eadfa29-0bd9-4f84-8dca-436abe3deafb@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ea40d23-e223-4be9-a830-036c9740b830@mamadtatardo442.my442vpn442.workers.dev:443?security=tls&sni=mamadtatardo442.my442vpn442.workers.dev&fp=randomized&type=ws&path=/?ed%3D2048&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ea40d23-e223-4be9-a830-036c9740b830@104.21.58.226:443/?type=ws&encryption=none&host=mamadtatardo442.my442vpn442.workers.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&sni=mamadtatardo442.my442vpn442.workers.dev&fp=randomized #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e8daef2-2bbf-438b-a238-d8505605f8a4@104.16.53.11:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e823993-86ac-3ead-89b5-227e73825fdb@v1.dabache.top:443?path=%2Fdb1024faebdb62e0&security=tls&encryption=none&host=dabaif0.webn.cc&fp=chrome&type=ws&sni=dabaif0.webn.cc #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e823993-86ac-3ead-89b5-227e73825fdb@s1.db-link.in:443?&security=tls&fp=chrome&alpn=h3,h2&sni=dabaif0.webn.cc&type=ws&headerType=none&host=dabaif0.webn.cc&path=%2Fdb1024faebdb62e0 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e78f247-1e3e-400e-bf1f-bb0c908b9a60@45.131.4.115:80?encryption=none&security=none&sni=worker3.laton16859.workers.dev&type=ws&host=worker3.laton16859.workers.dev&path=/GXXYmLBSqSttMjgI #🇳🇱 [ Configs by DukeMehdi ] VL-NL
+vless://1e743166-b244-469b-9213-75978d9f492d@ir3.cdnk1.cfd:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=ir3.cdnk1.cfd&path=/time&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e67033a-d197-4891-ffa0-f31be082314d@31.14.114.90:58256?security=none&encryption=none&host=Speedtest.net&headerType=http&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://1e610976-fef5-4ca4-a447-f3530e70603e@172.67.144.232:443/?type=ws&encryption=none&host=escoffier.changli.ddns-ip.net&path=%2Fproxyip%3Dayaka.shorekeeper.ir&security=tls&sni=escoffier.changli.ddns-ip.net&alpn=http%2F1.1&fp=random #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e610976-fef5-4ca4-a447-f3530e70603e@160.153.0.132:443?allowInsecure=0&sni=escoffier.changli.ddns-ip.net&alpn=http/1.1&type=ws&host=escoffier.changli.ddns-ip.net&path=/proxyip=navia.shorekeeper.irfp=chrome&security=tls #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://1e56e60a-f5b4-443f-81b0-9b8593c73e61@185.235.137.85:59549?security=reality&encryption=none&pbk=9Zsv8K_EsD5IlY2Tv-o88ON512N5Kye6ZGBfeL2TdWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.1.dragonspeed.ir #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://1e5599e3-325c-49fa-a6c7-675e314a0d99@104.27.125.158:443/?type=ws&encryption=none&host=in4s.pqvip.top&security=tls&sni=in4s.pqvip.top&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e47ea68-7988-4def-8853-17a025761699@46.245.67.94:59822?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://1e3e92fc-c406-4661-9347-79aa0865ed9b@s15.leader21.top:5054?type=ws&encryption=none&security=none&host=s15.leader21.top&path=%2Fhttp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e3e92fc-c406-4661-9347-79aa0865ed9b@s15.leader21.top:5054/?type=ws&encryption=none&host=s15.leader21.top&path=%2Fhttp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?type=ws&path=/vless/&host=OV-Italy1.09vpn.com #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?type=ws&path=%2Fvless%2F&sni=ov-italy1.09vpn.com #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?type=ws&path=%2Fvless%2F&host=OV-Italy1.09vpn.com #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws&sni=OV-Italy1.09vpn.com #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws&sni=OV-Italy1.09vpn.com #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?encryption=none&security=none&sni=OV-Italy1.09vpn.com&type=ws&path=%2Fvless%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@ov-italy1.09vpn.com:80?&security=none&type=ws&headerType=&host=ov-italy1.09vpn.com&path=%2Fvless%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e280316-0408-47c4-b058-05b8f1f17f02@OV-Italy1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?security=tls&encryption=none&insecure=0&headerType=none&fp=qq&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mx.bexumconnect.ltd #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=mx.bexumconnect.ltd #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1dff0d64-d1f8-43a3-d982-35fc65327ffe@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1df5e589-3301-427e-b0aa-0017ffde1555@91.107.155.193:4050?security=reality&encryption=none&pbk=oVRY8h7Njgw25j3CNhaJVMUys378tTvecrSRbrB3gyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.de&sid=2ebd6e17dec6a5d9 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://1df5e589-3301-427e-b0aa-0017ffde1555@65.109.199.233:4050?security=reality&encryption=none&pbk=oVRY8h7Njgw25j3CNhaJVMUys378tTvecrSRbrB3gyo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.de&sid=2ebd6e17dec6a5d9 #🇫🇮 [ Configs by DukeMehdi ] VL-FI
+vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1de2b519-97fc-4f16-f1f5-81c7bca75dcf@152.89.45.156:40872?encryption=none&security=none&type=ws&path=%2F #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://1ddee681-4008-43e5-80cc-69fe44ce96e0@45.196.201.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=205748bc0f24a747&sni=storage.yandex.net&type=tcp #🌐 [ Configs by DukeMehdi ] VL-SC
+vless://1dd6dab8-4a86-4996-9c3f-84cb9e173993@v1.fwqfw783rg2dad.website:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=v1.fwqfw783rg2dad.website&type=ws&headerType=none&host=v1.fwqfw783rg2dad.website&path=%2Fwebsocket%3Fed%3D2560 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1dd5f2be-f124-4f35-9239-8abc042829c2@149.33.31.115:14302?type=tcp&headerType=none&security=reality&encryption=none&sni=www.samsung.com&fp=firefox&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&sid=106f1604d65bb70c&flow=xtls-rprx-vision #🇷🇸 [ Configs by DukeMehdi ] VL-RS
+vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.uk:80?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.uk:80/?type=ws&encryption=none&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@OBEDiENT-detAiL.SEOTOOlSFOrYou.co.uk:80?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@OBEDiENT-detAiL.SEOTOOlSFOrYou.co.uk:80?path=/&security=none&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@OBEDiENT-detAiL.SEOTOOlSFOrYou.co.uk:80?path=/&security=&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1db32709-d9b9-465b-877e-7a779a6fe215@3x-ui-upgrade.up.railway.app:443?encryption=none&security=tls&sni=3x-ui-upgrade.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=3x-ui-upgrade.up.railway.app&path=/ #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1da18def-6804-44c8-bb6d-83cff995f567@nl6.unlockvpn.online:443?security=reality&encryption=none&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7bcfc0bc #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1da18def-6804-44c8-bb6d-83cff995f567@78.159.131.235:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XZa7f7bABj7lY4HuLopVCBBBYTu-RB7QyIZ96njvYwo&sid=7bcfc0bc&sni=yahoo.com #🇦🇱 [ Configs by DukeMehdi ] VL-AL
+vless://1d9b247a-d20e-49fd-bd9c-bb06e1ea2a18@95.154.196.62:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=foodnetwork.com&fp=firefox&flow=xtls-rprx-vision&sid=16498ac98306ce31&pbk=wiu5fVlBM7keSI48Oi3dEnQTR1BnJXgHtXo9xBpAnTA #🇬🇧 [ Configs by DukeMehdi ] VL-GB
+vless://1d8f357f-0242-4e17-afb8-352dd49e3f34@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?path=/paradise&security=tls&encryption=none&host=iyjil.cfonni.info&type=ws&sni=iyjil.cfonni.info #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.181:3237?security=none&encryption=none&headerType=none&type=tcp #🇨🇾 [ Configs by DukeMehdi ] VL-CY
+vless://1d854335-2a80-4b9a-924d-82242ef508bb@89.218.15.129:13140?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&fp=chrome&pbk=G1a4ULGPgotnlPvaRnjaoP9q_JPZoJp2-PJUzDvXvEs&security=reality&sid=51&sni=intel.com&type=tcp #🇰🇿 [ Configs by DukeMehdi ] VL-KZ
+vless://1d845272-528e-4d76-a721-9de31bf1326f@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:80?security=none&encryption=none&headerType=none&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d79ae59-02b4-402d-c529-4c0a7facec28@de-re.afteam.ir:3810?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=f830f6 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d69c1fd-7eaa-4e26-8667-4a8a215aac05@104.21.19.124:8880?host=splUs.Ir.DigIcYBer.CLIck.&path=%2Fnazan%2Fpedar%2Fsag&security=none&type=httpupgrade #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d69b662-74b4-0001-8353-7c48e11ab9cd@br-83-ru.netzrun.at:443?type=raw&security=tls&flow=xtls-rprx-vision&sni=br-83-ru.netzrun.at&fp=firefox #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d5a3836-1c2b-7b87-25db-917f29701da6@rvg-production-6c78.up.railway.app:443?mode=stream-up&path=/xhttp-siz10/stream-up/1d5a3836-1c2b-7b87-25db-917f29701da6&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=rvg-production-6c78.up.railway.app&fp=chrome&type=xhttp&allowInsecure=0&sni=rvg-production-6c78.up.railway.app #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d57f77e-e42c-4dab-923f-81925e3b00ae@www.speedtest.net:443?type=ws&path=/&host=vip.hackers855.sbs&security=tls&fp=chrome&sni=vip.hackers855.sbs #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d4c6acb-56a6-563d-90e3-e6588bc42922@177.3.212.103:443?security=reality&encryption=none&pbk=u38AGVPSpksTkGh3abE9u7F_VlymHEw_H4BXHb-LBUA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.ru&sid=c233984ab0fa993b #🇳🇱 [ Configs by DukeMehdi ] VL-NL
+vless://1d39f715-2740-4d99-bc3b-197cc48dcee7@107.173.237.146:8443/?type=tcp&encryption=none&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=D3ojIs3AUKP_tV0E4TEjh90HBVJp24Nq3qMfdxD30kc&sid=df8611c07d #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://1d2717a5-7e88-40fd-a55d-ba506f44dc96@185.215.235.38:8080?path=/?ed=2048&security=none&encryption=none&host=dl.armanstore22.ir&type=ws #🇦🇪 [ Configs by DukeMehdi ] VL-AE
+vless://1d2717a5-7e88-40fd-a55d-ba506f44dc96@185.215.235.195:80?path=/?ed=2048&security=none&encryption=none&host=dl.armanstore22.ir&type=ws #🇦🇪 [ Configs by DukeMehdi ] VL-AE
+vless://1d2252b8-f8a5-4d15-a146-e91de03a7f58@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d21ee25-0c9a-4f8c-86b1-752602f6620d@62.60.238.19:26319?encryption=none&security=reality&sni=www.tesla.com&fp=chrome&pbk=341kcPUPVb4hqAWeT1twBL8lOgLJeIgvpPsiGOmN1VY&sid=26&spx=/&type=tcp&headerType=none #🇦🇹 [ Configs by DukeMehdi ] VL-AT
+vless://1d1aeac6-aec2-4b77-aeb5-031e303fa766@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@89.125.244.28:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none #🇯🇵 [ Configs by DukeMehdi ] VL-JP
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@172.237.12.208:18836?encryption=none&security=tls&sni=notls.lukongtou.eu.org&insecure=0&allowInsecure=0&type=ws&host=notls.lukongtou.eu.org&path=Telegram-WangCai2🇨🇳 #🇯🇵 [ Configs by DukeMehdi ] VL-JP
+vless://1d136a37-85b1-449a-b000-335b63505ba8@www.speedtest.net:443?alpn=h3&encryption=none&fp=randomized&host=marlabrock-marlabrock-marlabrock-marlabrock.pages.dev&path=%2Fwyvern-WySpeedtest%2Cwyvern-WySpeedtest%2Cwyvern-WySpeedtest%2Cwyvern-WySpeedtest%2Cwyvern-WySpeedtest%2Cwyvern-WySpeedtest%2Cwyvern-WySpeedtest%2Cwyvern-WySpeedtest%2Cwyvern-WySpeedtest%2Cwyvern-WySpeedtest%2Cwyvern-WySpeedtest%2Cwyvern-WySpeedtest%3Fed%3D2560&security=tls&sni=marlabrock-marlabrock-marlabrock-marlabrock.pages.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d13299b-02db-4e8c-8f3d-cbfc96c2e1e9@jackvpn23.mooo.com:13475?security=reality&encryption=none&pbk=FKi1XxufCGRLreu1tLS3zOzqTwe1vx5fajnOjj6PEnY&headerType=none&fp=edge&spx=%2F6aab195a2895402&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=8bf9 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d13299b-02db-4e8c-8f3d-cbfc96c2e1e9@87.121.105.149:13475?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=edge&pbk=FKi1XxufCGRLreu1tLS3zOzqTwe1vx5fajnOjj6PEnY&sid=8bf9&type=tcp&headerType=none #🇸🇪 [ Configs by DukeMehdi ] VL-SE
+vless://1d13299b-02db-4e8c-8f3d-cbfc96c2e1e9@153.80.178.60:37158?security=reality&encryption=none&pbk=5tLkbBI1ulfL44KIdZkWuHsiG7EKdiZemku3Pr_a6iQ&headerType=&fp=firefox&spx=%2F6aab195a2895402&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=4c #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80/?type=ws&encryption=none&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1cf3c15c-16ce-46cc-8a96-b33c33b8a20f@158.160.198.63:8443?encryption=none&fp=firefox&host=cloudflare.fwqfw783rg2dad.website&path=/websocket&security=tls&sni=cloudflare.fwqfw783rg2dad.website&type=ws #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://1cf3c15c-16ce-46cc-8a96-b33c33b8a20f@158.160.170.69:443?path=%2Fwebsocket&security=tls&encryption=none&insecure=0&host=cloudflare.fwqfw783rg2dad.website&fp=firefox&type=ws&allowInsecure=0&sni=cloudflare.fwqfw783rg2dad.website #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://1cefdbfd-6032-43d5-ac13-f58b4498e2f7@log.bpminecraft.com:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=royal-salad-175d.306.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1cefdbfd-6032-43d5-ac13-f58b4498e2f7@log.bpminecraft.com:8880?&security=none&type=ws&headerType=&host=royal-salad-175d.306.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1cef7644-7da6-4652-a407-c1119b53f48e@193.228.91.7:31291?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://1cde7b4a-6dd7-4eb6-ba2e-41625d491300@149.33.36.32:443?security=reality&encryption=none&pbk=oX_8IyRmI_X4pPWaGTbduLyvlZWwLkZlxJKmtvjmqEg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=03a70b17f8036009 #🇫🇮 [ Configs by DukeMehdi ] VL-FI
+vless://1cd5fa1a-fae9-45a3-a4b8-2bc636ec0952@185.143.234.200:80?encryption=none&amp;type=xhttp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://1ccc1dd8-d8ed-4b69-b0c2-27f6282f9755@104.26.9.63:2083/?type=ws&encryption=none&host=test.bujidao.org&security=tls&sni=test.bujidao.org #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1cc21fb6-b8ec-42c7-a57c-39e89ace379e@yes.normbot.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yes.normbot.ru&fp=qq&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6467aa9c086620dc&flow=xtls-rprx-vision #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1cb91b20-49cc-59ff-8393-91808a4deede@v546965.hosted-by-vdsina.com:8443?type=tcp&security=reality&sni=www.ozon.ru&fp=chrome&pbk=bVhVy1hZY_iw-sljlaeVbTBBa6SPvMm0Kg0tCC8CKHM&sid=ffffffffff #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1cb011db-0211-4120-8984-13d8510a612b@77.222.53.218:2200?encryption=none&type=ws&security=none&path=/v1&host=rzd.ru #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://1cb011db-0211-4120-8984-13d8510a612b@178.72.147.249:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://1cae67cd-9f09-4c59-94e6-998ed0346c44@lingering-lab-91a6.54-8c3.workers.dev:8880?path=/pyip=ProxyIP.US.CMLiussss.net&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1cae67cd-9f09-4c59-94e6-998ed0346c44@codecanyon.net:8880?type=ws&host=lingering-lab-91a6.54-8c3.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1cae67cd-9f09-4c59-94e6-998ed0346c44@codecanyon.net:8880?host=lingering-lab-91a6.54-8c3.workers.dev&path=%2Fpyip&security=none&sni=codecanyon.net&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1cae67cd-9f09-4c59-94e6-998ed0346c44@codecanyon.net:8880?host=lingering-lab-91a6.54-8c3.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net+&security=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1cae67cd-9f09-4c59-94e6-998ed0346c44@codecanyon.net:8880?encryption=none&security=none&type=ws&host=lingering-lab-91a6.54-8c3.workers.dev&path=/pyip #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c92dee7-bbd4-41d7-9d48-d4208e01040e@ipv4-address.iranvatanam.com:2083?path=/?ed=2048&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=email-page6.iranvatanam.com #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c87aa46-693f-4070-8809-53c1124cc99c@portal.seysisi.ir:443?fp=chrome&spx=%2F&type=grpc&security=reality&pbk=itGRjgYQO-5Y74sh0r2xngsaVVTMwlxlQcEzH7rESTY&encryption=none&mode=gun&sni=play.google.com&sid=78f403c15670ab55 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c82f022-513e-4f30-8cd8-eb548611752a@ita.montago-shop.ir:443?encryption=none&type=tcp&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=f88610dd #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c823943-f9cb-4021-8548-b426b6e8b69d@104.21.69.44:8443/?type=ws&encryption=none&host=vip.donghi.ir&path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7&security=tls&sni=vip.donghi.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c7f075c-0021-4f4b-8fbd-326672770d61@[2a05:f480:1000:0300:5400:04ff:fef0:6bd0]:2053?path=%2F%40v2ryngfree%40v2ryngfree%40v2ryngfree&security=none&encryption=none&host=speedtest.net&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c72fdec-75c1-41fa-a4ca-7bd4b0509140@irc.testvp2.sbs:443?security=none&encryption=none&headerType=none&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c6a665b-d306-464c-91de-fad0c31469e0@v2shop25.bing-net.com:4925/?encryption=none&host=varzesh3.com&type=tcp&headerType=http #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c64e3b6-581d-430a-b487-8fabda42263f@www.speedtest.net:80?host=5.www.speedtest.net.zula.ir.zemestanil.iR.&path=%2FTelegram-ConfigMs%3Fed%3D2048&security=none&type=httpupgrade #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c596bf0-74ad-42aa-afd9-f944aa8f5c44@104.21.41.250:443?security=tls&sni=ppAl03.roNosOC318.Workers.dEV&type=ws&host=pPAl03.roNosoC318.WorKerS.dev&path=/TKGnkx3Civ7sW6vu?ed=2560&fp=chrome&alpn=h2,http/1.1 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c594db5-fc53-4426-b1f2-0ff58809ba96@alii.sobatnet.ir:80/?type=xhttp&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c405762-61d8-4654-abf0-1ab168a237eb@suupermeat.ir:2035?security=&encryption=none&host=play.google.com&headerType=http&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c404fde-0aa5-482c-ab00-0b34db703ac8@82.115.16.211:2082?path=/&security=none&encryption=none&type=ws #🇦🇺 [ Configs by DukeMehdi ] VL-AU
+vless://1c3e580a-bd02-4bdb-9bfe-349903422037@uciran.wallerman-come.gq:58465?mode=gun&security=none&encryption=none&type=grpc&serviceName= #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c3e580a-bd02-4bdb-9bfe-349903422037@uciran.wallerman-come.gq:58465?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName= #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c2a94fa-8329-4ff5-b351-25e197acd836@199.232.239.9:443/?type=xhttp&encryption=none&flow=&host=oh1.global.ssl.fastly.net&path=%2F&mode=auto&security=tls&sni=accounts.fastly.com&alpn=h3&fp=android #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403/?type=tcp&encryption=none #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://1c1ecd7e-52dd-7f6e-75a7-81c9475d15f9@inetchnl-production-3d8c.up.railway.app:443?encryption=none&security=tls&type=ws&host=inetchnl-production-3d8c.up.railway.app&path=/ws/1c1ecd7e-52dd-7f6e-75a7-81c9475d15f9&sni=inetchnl-production-3d8c.up.railway.app&fp=chrome&alpn=h2,http/1.1,h3 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c17ba34-0887-4cdc-a931-7e0ddab84a63@free.best-antiaging-reviews.com:2096/?type=tcp&encryption=none&security=tls&sni=free.best-antiaging-reviews.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@swedl2.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@swedl2.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@lanl2.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@lanl2.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@lanl2.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@frl3.mechanicir.ir:38479?security=none&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@frl3.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@frl3.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@fanl2.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=edge&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1c142498-85ea-4762-b3a6-8b425fdc1cbc@fanl2.mechanicir.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&sid=f5e89824 #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://1bdb202e-b99b-4ff8-b81c-c732645e0703@fardad-no.lorluma.ir:6800?sni=play.google.com&type=tcp&headerType=none&encryption=none&security=reality&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&fp=qq #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bdb202e-b99b-4ff8-b81c-c732645e0703@fardad-it.football-player.ir:6800?sni=play.google.com&type=tcp&headerType=none&encryption=none&security=reality&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&fp=qq #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bdb202e-b99b-4ff8-b81c-c732645e0703@fardad-ch.football-player.ir:6800?sni=play.google.com&type=tcp&headerType=none&encryption=none&security=reality&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&fp=qq #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bc7aa95-9100-4e8e-de41-ae62b3419ae9@185.126.14.200:10635?&type=tcp&headerType=none&path=%2F #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@zero.csmaster.ggff.net:443?security=tls&type=ws&path=%2F&sni=zero.csmaster.ggff.net&fp=chrome&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@zero.csmaster.ggff.net:443?encryption=none&security=tls&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@zero.csmaster.ggff.net:443?&security=tls&type=ws&headerType=&host=zero.csmaster.ggff.net&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@104.64.207.134:443?security=tls&type=ws&path=/&sni=zero.csmaster.ggff.net&fp=chrome&encryption=none #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1bc2a52d-8d9e-4ad7-83d8-56c0e369eb67@45.131.66.61:20001?path=/@Marisa_kristi&security=tls&encryption=none&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&type=ws&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&ech=cloudflare-ech.com #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://1bc057c5-2368-844a-5cac-7e027a5a972a@69.46.46.18:443?path=/ws/1bc057c5-2368-844a-5cac-7e027a5a972a&security=tls&alpn=http/1.1&encryption=none&host=kijk-production-4881.up.railway.app&fp=chrome&type=ws&sni=kijk-production-4881.up.railway.app #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://1bbf3b87-5f9d-4358-8a40-3cf9ab653388@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bbf3b87-5f9d-4358-8a40-3cf9ab653388@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1bab7e67-522c-4d83-9798-247ba4c4bd6c@turkey3.v2shop2.xyz:443?mode=stream-one&type=tcp&path=/&security=none&host=analytics.google.com&headerType=http #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ba939cd-b055-43bb-a35d-e011cb7c3ac8@185.146.173.146:80?path=/Join--HAJIMAMADVPN?ed&security=none&encryption=none&host=HaJiMaMaDVpN.GoLdEn-PiNg.Ir.&type=ws #🇸🇪 [ Configs by DukeMehdi ] VL-SE
+vless://1ba706d2-8ab1-4441-8d57-6715f6bf695c@dl6.3cdn.ir:80?path=stream%3Fed%3D2560&security=&encryption=none&host=www.w-movies.ir&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&fp=chrome&type=tcp&sni=yastatic.net&sid=5e841fab #🇫🇮 [ Configs by DukeMehdi ] VL-FI
+vless://1b96e86b-11fa-4709-836d-816f7b7eaf82@91.107.146.109:39953?mode=gun&security=reality&encryption=none&pbk=8ueBwb-uwLy208rRiXgXxublRQ3344Bi4PnhPAySiUQ&fp=chrome&spx=/&type=grpc&serviceName=@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02&sni=refersion.com&sid=a3 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://1b93ff6b-851f-485c-8552-008810932baa@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b8dd35a-6213-4a33-84e9-ce662ad6e280@78.140.246.39:8443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp #🇰🇿 [ Configs by DukeMehdi ] VL-KZ
+vless://1b832c5d-9467-4435-a7a1-8dc65ea950cb@turk.parsclad.ir:37447?encryption=none&fp=chrome&pbk=lTpDCNC2RYBlKblFo9h5Dbbz7FSIJMLmbnVOFCbdlBk&security=reality&sid=9dfa&sni=hub.partners.nvidia.com&spx=/7a290e449d2b652&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b82e854-c1df-4aa4-a6d4-57153cc0fad8@poli.appleseraj.ir:2096?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=nurenburs.appleseraj.ir&type=ws&allowInsecure=0&sni=nurenburs.appleseraj.ir #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b82e854-c1df-4aa4-a6d4-57153cc0fad8@poli.appleseraj.ir:2083?path=/?ed=2048&security=tls&encryption=none&insecure=0&host=holand.appleseraj.ir&type=ws&allowInsecure=0&sni=holand.appleseraj.ir #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b766abe-05da-46fa-973c-0d06d9605736@www.speedtest.net:8880?type=ws&path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420?ed=2080&host=zZz.ZzZ.zZz.snap-Iranian-ali.dai.sub420-mohamad.onlinE.&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b766abe-05da-46fa-973c-0d06d9605736@104.16.1.106:8880?type=ws&path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420?ed=2080&host=zZz.ZzZ.zZz.snap-Iranian-ali.dai.sub420-mohamad.onlinE.&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@n2.zynovax.ir:1080?security=reality&encryption=none&pbk=jDj_1a2AOXOZ_bRkgqvb0tMXjTier75usgndNVdOHTU&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=2926c493071e7380 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b73f053-2709-4698-bbec-cb20e8a5f288@gr4.levikogjgfdd.ir:3031?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b71208f-4837-4996-bd37-a61b431555fb@79.133.56.170:443/?type=tcp&encryption=none&sni=tgju.org&fp=firefox&security=reality&pbk=vZruSVclFJztKnzP8Da1OuG7hyNeM1_YhDX9Tpih3mM&sid=3650a4286bf867e9 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://1b6de5d8-3285-422c-b6fe-2989918f528b@124.156.182.132:443?&security=reality&flow=xtls-rprx-vision&pbk=CdNLdccy_ALnjDvwZa14eP31CoJ_BLqJAS2OLCNwogg&sid=d19dcb524604e214&fp=chrome&sni=www.apple.com&type=tcp&headerType=&host=www.apple.com&path=%2F #🇭🇰 [ Configs by DukeMehdi ] VL-HK
+vless://1b6d2c37-fe6c-4b13-99dc-24f41b5d5b2d@152.42.184.246:80/?type=ws&encryption=none&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29 #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa@50.7.85.221:443?security=tls&sni=mohsenfitshr.wibibin259.workers.dev&type=ws&path=/?ed%3D2048&host=mohsenfitshr.wibibin259.workers.dev&encryption=none #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa@216.24.57.130:8880/?type=ws&encryption=none&host=mohsenfitshr.wibibin259.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://1b69afb7-9f0a-4e6c-9a4b-1fcf7621b0be@109.107.140.188:51790?encryption=none&type=tcp&flow=xtls-rprx-vision-udp443&security=reality&pbk=XJa0ZYOvtfwRz7aF8GprVrnEjc4S1rokGFhc-tI1YFk&sid=02c40852&sni=icloud.com&fp=chrome&alpn=http%2F1.1 #🇯🇵 [ Configs by DukeMehdi ] VL-JP
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@94.183.157.203:443?&security=reality&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&fp=firefox&sni=s3.storage.anti-zapret.com&type=tcp&headerType=none&host=s3.storage.anti-zapret.com&path=%2F #🇵🇱 [ Configs by DukeMehdi ] VL-PL
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@31.56.188.43:443?&security=reality&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&fp=firefox&sni=s3.storage.anti-zapret.com&type=tcp&headerType=none&host=s3.storage.anti-zapret.com&path=%2F #🇵🇱 [ Configs by DukeMehdi ] VL-PL
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@31.56.188.105:443?&security=reality&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&fp=firefox&sni=s3.storage.anti-zapret.com&type=tcp&headerType=none&host=s3.storage.anti-zapret.com&path=%2F #🇵🇱 [ Configs by DukeMehdi ] VL-PL
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@31.56.188.103:443?encryption=none&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&security=reality&sid=cbb0a5c1dc905505&sni=s3.storage.anti-zapret.com&type=tcp&fp=firefox #🇵🇱 [ Configs by DukeMehdi ] VL-PL
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@194.93.61.66:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnjs.com&fp=chrome&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&type=tcp&headerType=none #🇳🇱 [ Configs by DukeMehdi ] VL-NL
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@185.58.115.34:443?&security=reality&flow=xtls-rprx-vision&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&fp=firefox&sni=restore.anti-zapret.com&type=tcp&headerType=none&host=restore.anti-zapret.com&path=%2F #🇸🇪 [ Configs by DukeMehdi ] VL-SE
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@185.58.115.232:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&sni=restore.anti-zapret.com #🇸🇪 [ Configs by DukeMehdi ] VL-SE
+vless://1b627e4d-4ea4-4dce-8bd8-fc2d3ffbeaba@185.58.115.166:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&sni=restore.anti-zapret.com #🇸🇪 [ Configs by DukeMehdi ] VL-SE
+vless://1b5d1c3c-93de-405c-9041-7cf6bcdbe726@64.176.58.170:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=XIEl7Jc6yg_oN8LXbPUPzal77H9cTsRsRupyFhEKtF4&sni=www.amazon.com&sid=94fc930c&spx=%2FevasvarUG5ElBU1 #🇯🇵 [ Configs by DukeMehdi ] VL-JP
+vless://1b3ad465-d37e-48a2-bb53-d7fddfc97b11@www.gov.ua:8880?type=ws&encryption=none&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&host=calm-silence-d4a1.217.workers.dev&fp=chrome&alpn=http%2F1.1&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b3ad465-d37e-48a2-bb53-d7fddfc97b11@www.gov.ua:8880?path=%2Fpyip&security=none&encryption=none&host=calm-silence-d4a1.217.workers.dev&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b3ad465-d37e-48a2-bb53-d7fddfc97b11@www.gov.ua:8880?host=calm-silence-d4a1.217.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b3ad465-d37e-48a2-bb53-d7fddfc97b11@calm-silence-d4a1.217.workers.dev:8880?path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=&encryption=none&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&type=ws&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443/?type=ws&encryption=none&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=%2Flinkws%3Fed%3D2560&security=tls&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@cloudgetservice.mcloudservice.site:443?path=/linkws&security=tls&encryption=none&host=maxnetvipap-cloud76.netkh3.site&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@cloudgetservice.mcloudservice.site:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-cloud76.netkh3.site&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b20f1e7-b946-46e4-acb4-ffa17216e774@www.speedtest.net:80?path=/@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT--@HqV2RayBOT-?ed=2048&security=&encryption=none=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&host=d4.sgdemoffidi-rv.ir.&type=httpupgrade #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1b17594c-ab6f-4818-9773-caf93331b723@5.223.59.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1b135c37-a20e-4716-c0f1-b2572dc45127@91.98.21.58:18606?mode=gun&security=reality&encryption=none&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew&fp=chrome&spx=/&type=grpc&serviceName=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&sni=www.cdn77.com #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://1affd7a7-6ea5-4284-89b6-f25d7805c5bc@212.79.125.38:59874?security=reality&encryption=none&pbk=n9OO75eOaHXQyfUByQSZviDY4RmSUQyoU1YSs4yQXEs&headerType=none&fp=chrome&spx=%2F%40DashV2ray&type=tcp&sni=discord.com&sid=7f700392 #🇺🇦 [ Configs by DukeMehdi ] VL-UA
+vless://1afc6dc5-17d5-4f75-b0cd-4480a819a07c@speedtest1.daltoon.site:2086/?type=httpupgrade&encryption=none&host=iran9-tv3-speedtest.sport-daltoon.ir.&path=%2F%3Fed%3D8880 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itgetsbetter.org #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&alpn=http/1.1&encryption=none&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itgetsbetter.org&sid=462c73aef9f448 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=itgetsbetter.org&fp=chrome&security=reality&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&sid=462c73aef9f448 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@104.16.54.161:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ad89e52-ed32-4acf-88f7-caeadb4cd493@212.80.31.132:882?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp #🇮🇷 [ Configs by DukeMehdi ] VL-IR
+vless://1ad37675-b4cf-42fa-9dc5-83fd35cd63cb@104.21.41.131:8443?path=/&security=tls&encryption=none&insecure=0&host=ad-020.vector9nmb3.info&fp=chrome&type=ws&allowInsecure=0&sni=ad-020.vector9nmb3.info #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1ad22152-5e1d-4f26-b059-d19420dd74db@190.93.245.101:80?encryption=none&security=tls&type=ws&sni=new-V2ray.斯涅過濾器69.website&host=new-V2ray.斯涅過濾器69.website&path=%2f #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1acc7753-486c-46c2-ae69-8e991cd0a5d3@fv2026.node2.top:21001?flow=xtls-rprx-vision&fp=chrome&pbk=HWUNFHoOryJHQXKF-ZOm6wMYZdVJwH5aHGa5I9_HDGA&security=reality&sid=dfa28122&sni=itunes.apple.com&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1aae9657-c653-495d-e8ad-8ca52916cea8@de.bolagskontaktstockholm.se:443?path=/ws&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1aacdfec-6227-41d7-9b24-194a16a42f50@plan.opann.ir:443/?type=tcp&encryption=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a9f25d4-3a3d-439a-94fe-50d4cfbba218@kinoveh6.komediyatorg.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=kinoveh6.komediyatorg.net&fp=chrome&insecure=0 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a9f25d4-3a3d-439a-94fe-50d4cfbba218@kinoae3.komediyatorg.net:443?type=tcp&headerType=none&security=tls&encryption=none&sni=kinoae3.komediyatorg.net&fp=chrome&insecure=0 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a9829ae-f8f0-4f8e-b404-6ed7f2da02f9@NUFiLTER.fastly80.hosting-ip.com:80?allowInsecure=0&sni=api.nhl9.ir&type=ws&host=api.nhl9.ir&path=/TELEGRAM-NUFiLTER #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a9829ae-f8f0-4f8e-b404-6ed7f2da02f9@151.101.2.216:80?allowInsecure=0&sni=api.nhl9.ir&type=ws&host=api.nhl9.ir&path=/TELEGRAM-NUFiLTER #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://1a9755e3-84a3-46b0-9d7b-e864d68214e6@azadnett1.set7.site:35420?type=tcp&security=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a8fc4e7-9c26-41df-85b7-814e6392ff69@198.202.211.128:443?security=tls&sni=PQNIMsrV2rayJGiioii92129TxTulSawMINngMahdiUk.PQmin.lat&type=grpc #🇺🇸 [ Configs by DukeMehdi ] VL-US
+vless://1a8d3885-d868-49c5-abc4-68ff79a91e09@45.82.67.183:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=daiJkQwpAcBk7oH1iZzRthMj-jAlqovX7vAiwVqfjTU&security=reality&sid=8880a9f75eb46d91&sni=northwaleswildlifetrust.org.uk&type=tcp #🇳🇱 [ Configs by DukeMehdi ] VL-NL
+vless://1a88f661-c972-4606-83a4-d10a6cf525c2@s1.orangesms.ir:3389?security=reality&encryption=none&pbk=fJgfoeTonZ3FfIXETWnn65nJeuioFkRcwlqFzwlAlwU&host=token.safebrowsing.apple&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=25e1eaeece23a4ca #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a827c35-7a17-48d8-a9f5-eeed323ca57b@91.99.141.177:443?security=reality&encryption=none&pbk=SJt4jAvhiR5MVRnl-OPj2BWUXZT6p4oH-Ugl3B0b-VA&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=8ad4b0d652d3e8 #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://1a7015d0-1790-452f-a31d-d863b69b7bcb@web-production-9a1f3.up.railway.app:443?encryption=none&security=tls&type=ws&host=web-production-9a1f3.up.railway.app&path=/ws/1a7015d0-1790-452f-a31d-d863b69b7bcb&sni=web-production-9a1f3.up.railway.app&fp=chrome&alpn=http/1.1 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d #🇷🇺 [ Configs by DukeMehdi ] VL-RU
+vless://1a6be941-2c95-489f-9dd6-fd0d9fb1ac73@Www.speedtest.net:2095?path=/@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN-V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1wss9500?ed=2560&security=none&encryption=none&host=Tak.vipmehspd.ir.&type=httpupgrade #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc #🇦🇺 [ Configs by DukeMehdi ] VL-AU
+vless://1a50ebe0-2a29-4a46-ad16-906614733213@104.18.162.24:2086/?type=httpupgrade&encryption=none&host=aljywww.speedtest.net.%E7%9C%9F%E7%9A%84www.digikala.com.%E6%88%91%E7%9C%9F.%E7%9A%84%E7%9C%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E7%88%B1%E7%9A%84%E5%BE%88%E7%88%B1%E5%BE%88join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de.venora.xyzfyl.uyflutufali.gozaroshloreshin.ir.&path=%2Fwww.adsl.tci.ir%3Fed%3D1024 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a4f9baa-b135-45e0-ba40-b11e30545c69@qq.mmd111.sbs:46541?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a49012e-1dc4-45b7-a97c-3404bc915a66@tr-ist-3.blook.network:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tr-ist-3.blook.network&fp=firefox&security=reality&pbk=W58BNG-2mtSvQYg7Id1yuW2-XqtLj0zoutETNsQuWkA&sid=45f9dc94 #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a35bdb9-217d-4fc5-acef-1fbff95c6b68@31.15.16.95:1010?mode=gun&security=none&encryption=none&type=grpc&serviceName=MoonV2r---Telegram---Channel #🇳🇱 [ Configs by DukeMehdi ] VL-NL
+vless://1a33ef35-79eb-4c01-a70b-6b55a1204f5d@138.124.90.40:11735?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=ED0posvMCUDI2sgVQwf6QYWb3uCSL7dHpir-NSbWPig&sid=5cacb3425fb6&spx=%2F&type=tcp&headerType=none #🇦🇹 [ Configs by DukeMehdi ] VL-AT
+vless://1a2edf79-257e-44c1-b17f-7299f04ce557@138.124.104.151:443?&security=reality&flow=xtls-rprx-vision&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&fp=firefox&sni=pol.pinkmoon.pro&type=tcp&headerType=none&host=pol.pinkmoon.pro&path=%2F #🇵🇱 [ Configs by DukeMehdi ] VL-PL
+vless://1a2edf79-257e-44c1-b17f-7299f04ce557@138.124.104.136:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&sid=8ffa160e608bf539&sni=pol.pinkmoon.pro #🇵🇱 [ Configs by DukeMehdi ] VL-PL
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.158.133.158:2096?path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net #🇩🇪 [ Configs by DukeMehdi ] VL-DE
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@195.85.59.155:2087/?type=ws&encryption=none&host=trojanyu.pages.dev&security=tls&sni=trojanyu.pages.dev #🇨🇾 [ Configs by DukeMehdi ] VL-CY
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443/?type=ws&encryption=none&host=trojanyu.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=trojanyu.pages.dev&alpn=http%2F1.1&fp=randomized #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow= #🇮🇩 [ Configs by DukeMehdi ] VL-ID
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@56.10.98.79:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@56.10.98.229:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@56.10.96.32:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@56.10.96.179:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@56.10.92.230:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@56.10.91.105:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@56.10.90.157:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@56.10.81.116:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@54.180.88.93:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@54.180.87.212:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@54.180.145.182:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@54.180.144.198:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.130.5.51:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.87.113:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.85.98:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.63.197:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.254.65:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.254.0:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.251.90:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.245.92:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.220.113:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.215.38:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.195.111:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.188.22:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.176.21:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.173.4:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.166.156:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.166.142:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.138.135:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.137.18:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.130.243:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.129.60:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.128.141:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.127.121:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.122.188:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.121.67:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.12.249:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.114.130:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.112.38:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.111.168:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.104.91:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.104.216:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.129.103.202:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.128.79.99:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.128.74.27:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.128.74.231:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.128.70.91:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.128.236.199:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@47.128.236.151:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.201.21.45:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@43.200.172.17:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.39.193.204:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.39.190.197:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.37.36.254:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.36.74.92:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.34.90.17:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.34.197.254:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.1.72.171:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.1.196.74:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@3.0.48.69:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.198.109:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.196.7:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.196.216:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.194.196:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.190.16:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.189.133:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.157.1:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.154.37:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.154.28:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.154.104:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.153.181:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.152.198:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.143.152.144:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.91.193:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.162.124:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.158.82:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.146.239:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.140.18:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.125.176:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.117.130:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.115.66:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.142.108.16:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.4.231:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.3.50:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.219.52:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.210.77:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.206.22:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.170.98:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.169.77:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.167.60:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.166.235:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.163.220:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.163.167:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.141.162.250:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.248.22:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.248.226:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.247.116:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.246.109:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.239.182:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.196.85:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.196.84:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.117.80:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.115.93:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.115.210:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.115.207:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.113.220:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.140.113.107:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.138.51.45:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.138.243.158:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.138.241.42:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.138.233.225:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.138.232.191:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.138.231.5:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.138.228.135:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.138.124.71:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@18.138.102.203:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@15.164.211.60:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.88.163:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.77.78:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.63.246:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.60.245:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.43.252:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.42.95:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.42.88:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.27.32:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.16.119:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.130.163:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.128.218:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.124.72:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.251.102.136:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.250.231.73:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.250.231.237:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.250.182.244:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.250.172.188:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.250.172.180:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.229.155.222:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.229.146.214:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.229.146.195:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.229.144.26:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.229.140.176:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.229.139.174:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.229.138.97:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.215.157.237:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.43.194:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.37.232:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.37.168:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.29.90:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.23.140:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.220.51:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.219.163:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.207.62:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.205.70:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.203.137:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.200.151:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.200.113:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.198.128:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.195.192:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.191.122:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.190.223:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.189.219:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.186.5:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.186.242:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.182.225:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.176.133:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.173.97:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.172.90:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.172.59:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.169.246:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.168.238:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.167.132:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.161.96:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.160.150:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.159.35:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.159.138:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.157.106:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.156.182:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.154.28:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.153.111:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.149.139:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.147.186:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.146.81:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.145.77:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.145.46:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.145.149:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.143.58:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.141.123:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.139.39:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.139.204:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.138.63:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.138.50:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.138.184:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.134.229:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.128.238:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.214.122.94:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.93.227:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.93.192:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.72.238:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.72.170:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.72.109:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.70.195:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.68.109:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.46.124:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.246.59:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.243.132:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.226.145:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.225.38:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.184.100:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.178.215:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.171.42:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.167.4:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.164.44:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.163.181:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.162.249:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.161.197:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.160.56:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.16.164:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.156.130:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.148.241:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.145.237:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.121.34:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.121.211:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.212.106.86:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.209.26.68:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.125.208.169:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.125.183.128:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a17b19d-4896-4531-af79-6e91d8ef8228@13.125.170.60:8686?encryption=none&security=reality&type=tcp&sni=www.apple.com&pbk=A3NXnUIT-W0m1Y_leRnv5so2IeCvk9FCFgL31PulfTw&sid=628b3c90c98ead4f #🇰🇷 [ Configs by DukeMehdi ] VL-KR
+vless://1a0bd0ba-df37-4d86-84ee-5f6eb4210d07@se99.kubservice.icu:443?&security=reality&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=se99.kubservice.icu&type=tcp&headerType=none&host=se99.kubservice.icu&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a0bd0ba-df37-4d86-84ee-5f6eb4210d07@hu001.kubservice.icu:443?&security=reality&flow=xtls-rprx-vision&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&fp=qq&sni=hu001.kubservice.icu&type=tcp&headerType=none&host=hu001.kubservice.icu&path=%2F #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://1a0b862b-1e8a-46bf-9418-1bdd03ac6c9e@54.254.145.25:6768?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&fp=chrome&type=ws&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query #🇸🇬 [ Configs by DukeMehdi ] VL-SG
+vless://19f935c2-4c92-4b8a-b024-3e378f396255@zula.ir:80?path=/%40custom_config%3Fed%3D2048&security=none&encryption=none&host=336125422.ir.www.zula.ir.xn--4all.king4usd.shop.&type=ws #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://19f6900b-e716-4efc-55bb-c43b3cb4acfc@teain.org:1005?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=ios&type=tcp&sni=knox.cdn-apple.com&sid=a62d513cd709744a #🌐 [ Configs by DukeMehdi ] VL-XX
