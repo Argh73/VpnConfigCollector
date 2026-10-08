@@ -1,21 +1,30 @@
-vmess://eyJhZGQiOiIxMDYuNTIuNTcuODYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImY1NmI5YTkyLTQ3ZDQtNGQ2ZS1iODI4LTFhYTNlOTZkYWU2NSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjEwMDAxIiwicHMiOiJDTiDwn4eo8J+HsyB8IEBSYXlkaWthbHggfCAyMkUwMkMiLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiIxMDYuNTIuNTcuODYiLCJ0bHMiOiIiLCJ2IjoiMiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgNTE4QjdCIiwiYWRkIjoiMTU3LjE0OC43LjEzNiIsInBvcnQiOiI1MDAxMSIsImlkIjoiMWIzMGY0MTMtMjg2NS00ZDQwLTkxNDYtNDIwNzc3ODcxOGNkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgMzMwM0FCIiwiYWRkIjoiMTU3LjE0OC43LjU1IiwicG9ydCI6IjUwMDExIiwiaWQiOiIxYjMwZjQxMy0yODY1LTRkNDAtOTE0Ni00MjA3Nzc4NzE4Y2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgQkQzQzE1IiwiYWRkIjoiMTgzLjI0MC4yMzUuMTYyIiwicG9ydCI6IjU0ODgyIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgNDk2MEE3IiwiYWRkIjoiMTIwLjE5Ny4xMzAuMTI2IiwicG9ydCI6IjEzMDAxIiwidHlwZSI6Im5vbmUiLCJpZCI6IjIxZGNiZWM4LWVlZTgtM2QyMC04MmI2LWY4YzE2ZmU2ZGM4ZCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIxMjAuMTk3LjEzMC4xMjYiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgRUQ0QTYxIiwiYWRkIjoiMTIwLjI0MC4xNDIuMjEiLCJwb3J0IjoiMTE5NzIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDE5YzUzOTYtYWVmMi1iNTA4LTNhYmItZTlmOTNjOGIwY2ZjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hZGI0YzJjYy05ZTc3LWQ2ZmMtNGRiYS1lMDZiMTU2NTk0NjkiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsInRscyI6IiJ9
+vmess://eyJhZGQiOiIxNTAuMjQyLjI0NC4xMTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWVmZjkzM2YtMGFlNi00NDY1LTg1YmYtMTJmMTM5NGYzNWFmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNjQ4IiwicHMiOiJDTiDwn4eo8J+HsyB8IEBSYXlkaWthbHggfCAxMEMwN0QiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgNDYwRjIwIiwiYWRkIjoiMTgzLjIzNi41MS4yMyIsInBvcnQiOiI0NTAyMCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgREZCQkY4IiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDExIiwiaWQiOiIxYjMwZjQxMy0yODY1LTRkNDAtOTE0Ni00MjA3Nzc4NzE4Y2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgOURGM0JBIiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDExIiwiaWQiOiJlMWJlNjk0MS0wNjY3LTQ2OWMtOTIyNC02ZjM0YWRiNTQ5YmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgNkMxMUQzIiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDEyIiwiaWQiOiIxYjMwZjQxMy0yODY1LTRkNDAtOTE0Ni00MjA3Nzc4NzE4Y2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgMENFMTRGIiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDEyIiwiaWQiOiJlMWJlNjk0MS0wNjY3LTQ2OWMtOTIyNC02ZjM0YWRiNTQ5YmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgQTgyRENFIiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDEyIiwiaWQiOiJmMTE0ZDQxNC0xNTM1LTQzMjEtODU2Yy0yOTk3OWVlZWQ3OTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgN0U4NkIzIiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDEzIiwiaWQiOiI5ZTYzY2E1NS0xZmY5LTQ1M2ItYWU4MC03NTk0N2I4NTk2ZDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgQjlDM0JCIiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDE0IiwiaWQiOiJmMTE0ZDQxNC0xNTM1LTQzMjEtODU2Yy0yOTk3OWVlZWQ3OTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgMUU0QjkxIiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDE1IiwiaWQiOiI5ZTYzY2E1NS0xZmY5LTQ1M2ItYWU4MC03NTk0N2I4NTk2ZDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgNTc0Mzk4IiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDE1IiwiaWQiOiJmMTE0ZDQxNC0xNTM1LTQzMjEtODU2Yy0yOTk3OWVlZWQ3OTkiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgNzJERkM1IiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDE2IiwiaWQiOiIxNDhlODJhZS01MDE0LTRhMWEtYTc4My1kZDYzZmE5Y2RjOWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgOUJGMUIxIiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDE1IiwiaWQiOiIyM2I1NzkwYy00ZTk2LTQ5ZmEtOTVmYy05MDc5Y2U5Y2Y0M2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgQTE1MjE5IiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDE3IiwiaWQiOiJhYmNiMDA2ZC03MzlmLTRjZWMtYjEzZi0xMmMxMGQzMzRkOTIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgQkQzQUVFIiwiYWRkIjoiMzYuMTMzLjc4LjM3IiwicG9ydCI6IjUwMDE3IiwiaWQiOiJlMWJlNjk0MS0wNjY3LTQ2OWMtOTIyNC02ZjM0YWRiNTQ5YmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgMEM4MDc2IiwiYWRkIjoiMzYuMTMzLjc5LjE3IiwicG9ydCI6IjUwMDExIiwiaWQiOiIxYjMwZjQxMy0yODY1LTRkNDAtOTE0Ni00MjA3Nzc4NzE4Y2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgRENDNEY2IiwiYWRkIjoiMzYuMTM5LjExNy40MSIsInBvcnQiOiI1MDAxMSIsImlkIjoiZTFiZTY5NDEtMDY2Ny00NjljLTkyMjQtNmYzNGFkYjU0OWJhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiQ04g8J+HqPCfh7MgfCBAUmF5ZGlrYWx4IHwgQ0U1QTA1IiwiYWRkIjoiMzYuMTM0LjM1LjM2IiwicG9ydCI6IjUwMDExIiwiaWQiOiJlMWJlNjk0MS0wNjY3LTQ2OWMtOTIyNC02ZjM0YWRiNTQ5YmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIifQ==
+vless://9419f782-b18e-4c4b-ae95-a7a279fd021f@91.193.58.117:443?path=/Telegram-WangCai2🇨🇳&security=tls&encryption=none&insecure=0&host=jamph131-1228.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=jamph131-1228.pages.dev#🔥Join+Telegram:@Farah_VPN🟣
+vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&host=vp58.cc.cd&path=/Telegram🇨🇳+fp=chrome&security=tls&sni=vp58.cc.cd&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=/Telegram🇨🇳 fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#🔥Join+Telegram:@Farah_VPN🟣
+vmess://eyJ2IjogIjIiLCAicHMiOiAi6Ziy6IyD5aKD5aSW5Yq/5Yqb5riX6YCPICMyIiwgImFkZCI6ICIxMjcuMC4wLjUzIiwgInBvcnQiOiA4MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjg4ODg4ODg4LTg4ODgtODg4OC04ODg4LTg4ODg4ODg4ODg4OCJ9
+vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:8443?mode=gun&security=reality&encryption=none&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&fp=chrome&type=grpc&serviceName=TunService&sni=www.canon.com#🇨🇳189662 | ⚡️Telegram = t.me/SOSkeyNET
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#
+vmess://eyJhZGQiOiI0Ni4xODMuMTg3LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoid3d3LmJhaWR1LmNvbSIsImlkIjoiOTJhMDQ4ZWMtYTE2MC00OTdlLTgwNjktYzJlOTAyNjI2ZDdhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkE0MiIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMjUuMTI0LjI1NC41IiwidiI6MiwicHMiOiLwn4eo8J+HsyBDTiDkuK3lm70gMiIsInBvcnQiOiIxMDgwIiwiaWQiOiI0NmNmY2ZlMS1lNDUwLTQ1OWQtYTNhYi05NDA2MDExYWIzZWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ0bXMuZGluZ3RhbGsuY29tIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
 vmess://eyJhZGQiOiJ0ZW5jZW50LmRhbWFvb29vLmNvbSIsInYiOjIsInBzIjoi8J+HqPCfh7NfQ05f5Lit5Zu9XzEzIiwicG9ydCI6IjExNDUyIiwiaWQiOiI4MmYyYTUxZi00ODhjLTQ3YjAtYjIyMy1kMTdmNDlkODY2MGQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
 vmess://eyJhZGQiOiJkYXRhLWhrLXYxLnVzYWJvb2tzLmNvbS5jbiIsInYiOjIsInBzIjoi8J+HqPCfh7NfQ05f5Lit5Zu9XzE0IiwicG9ydCI6IjIwMjA2IiwiaWQiOiJiMTQ3OGUyNC00OTE2LTNhYmUtOGYxNy0xNTkzMTAxMmVjYmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkYXRhLWhrLXYxLnVzYWJvb2tzLmNvbS5jbiIsInRscyI6IiIsInBhdGgiOiIvZGViaWFuIn0=
-ss://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xOCB8IOKsh++4jyAyLjNNQi9zIiwiYWRkIjoieGNtZzE5LmR0a2owMzI4LmNvbSIsInBvcnQiOjQ0MywiaWQiOiJiYzk0Zjc0Mi0wZTdiLTRjZjgtZTg5Ny02MjE0ZjliZWM4ZGEiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InhjbWcxOS5kdGtqMDMyOC5jb20iLCJwYXRoIjoiL3hjbWcxMjM0IiwiaG9zdCI6InhjbWcxOS5kdGtqMDMyOC5jb20ifQ==
-trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD_15
+ss://eyJhZGQiOiJ3ZWIubWlsYWR2aXAuc2hvcCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIxYjBmZGE4MC01MDZkLTRlMWYtZWI1Zi01ODM5OTRkNDdkNDYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLimqHvuI8gQFZpUFZwbl92MnJheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+ss://eyJhZGQiOiJzZWxsdmlwdnBuLm15aXJhbjEucHciLCJhaWQiOiIwIiwiaG9zdCI6InNuYXBwLmlyIiwiaWQiOiI4YTkwYzZkNy01OGRhLTQyNDgtZDAyNC01NzRhMWQzZjMyNjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDUzIiwicHMiOiJ0ZXN0M0BzZWxsX3ZpcHZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://ewogICAgImFkZCI6ICI0Mi4xODYuMTc1LjgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzZ2FybS5wdHV1Lm1sIiwKICAgICJpZCI6ICIyOTYyYjZkYy04ZGU1LTQwYzItZjVmYi01MDM5ZjcyZDlhOTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvcmF5IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4ezQ04tNDIuMTg2LjE3NS44LTAxNTEiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65109?security=tls&sni=dl.bgp7.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.117-0148
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:65523?security=tls&sni=dl.shcuhkt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-112.82.223.167-0136
@@ -41,12 +50,12 @@ trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:65524?sec
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@116.129.254.7:4572?security=tls&sni=dl.cscuhkbgp2.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-116.129.254.7-0041
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:65525?security=tls&sni=dl.shsgaws.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-112.82.223.167-0039
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@cn-sh.sasg4e.ccddn4.icu:65525?security=tls&sni=dl.shcuhkt4.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-122.195.187.155-0038
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10824?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-0320
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.118:65023?security=tls&sni=dl.sghgch3.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.118-0037
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:65521?security=tls&sni=dl.shcujpntt2.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-112.82.223.167-0036
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:65522?security=tls&sni=dl.shcuusan.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-112.82.223.167-0034
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10824?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.6-0320
 vmess://ewogICAgImFkZCI6ICI0Mi4xODYuMTc1LjgiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzZ2FybS5wdHV1Lm1sIiwKICAgICJpZCI6ICIyOTYyYjZkYy04ZGU1LTQwYzItZjVmYi01MDM5ZjcyZDlhOTUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6jwn4ezQ04tNDIuMTg2LjE3NS44LTAzMjkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICIzOS4xMDguMTEzLjEyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZmRlMTBlMzktNDhiYi00ZGNmLWIzYmEtNzFkNzExMzIzYTU0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDEwMDg2LAogICAgInBzIjogIvCfh6jwn4ezQ04tMzkuMTA4LjExMy4xMjctMDQ5MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@shcuac.aag436.ccddn4.icu:65522?security=tls&sni=dl.shcuusan.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-112.82.223.167-0034
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65300?security=tls&sni=dl.bgp4.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.117-0024
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65302?security=tls&sni=dl.sghkta.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.117-0023
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65207?security=tls&sni=dl.gdcmhkbgp.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0021
@@ -55,12 +64,12 @@ trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65211?security=tls&
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65203?security=tls&sni=dl.gdcmjpwea.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0017
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65208?security=tls&sni=dl.gdcmhinet3.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0014
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.85:65200?security=tls&sni=gzsgntt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.85-0013
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65210?security=tls&sni=gztwkbt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0012
 vmess://ewogICAgImFkZCI6ICIxMjQuMjIxLjEzMS4xNzYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImZhNGI2ZjhmLTEyNjQtNDVlYy05NjUxLTYxNjBjMTJjYWJjNSIsCiAgICAibmV0IjogImh0dHAiLAogICAgInBhdGgiOiAiIiwKICAgICJwb3J0IjogNTA3OTcsCiAgICAicHMiOiAi8J+HqPCfh7NDTi0xMjQuMjIxLjEzMS4xNzYtMTM2OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-vmess://ewogICAgImFkZCI6ICI4LjIxMC40OC4yMTkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImNiZTVhYzIyLWViNDItNGNhOS05ZmRjLTI4M2U1N2Y5ODAwOCIsCiAgICAibmV0IjogImh0dHAiLAogICAgInBhdGgiOiAiIiwKICAgICJwb3J0IjogMjY4MTIsCiAgICAicHMiOiAi8J+HrfCfh7BISy04LjIxMC40OC4yMTktMTM5MCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICJibG9nLnZvZXdsLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImJsb2cudm9ld2wuY29tIiwKICAgICJpZCI6ICI3YTlmMDI2Zi1mN2E4LTQwY2EtZjJmOS0zYjM4MGMyODdjMGQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvYWJjIiwKICAgICJwb3J0IjogNDM4MTUsCiAgICAicHMiOiAi8J+HqPCfh7NDTi01OS42My4xNTMuMjgtMTM5NyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65210?security=tls&sni=gztwkbt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0012
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65022?security=tls&sni=dl.sg6.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.117-0010
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65110?security=tls&sni=dl.bgp8.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.117-0009
+trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@45.64.22.55:443?security=tls&sni=stutter.freetrade.link#%F0%9F%87%B2%F0%9F%87%B4MO-45.64.22.55-1551
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com#%F0%9F%87%A8%F0%9F%87%B3CN-120.236.197.205-1777
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19215?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-2036
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-120.226.39.25-2038
@@ -118,16 +127,13 @@ trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65303?security=tls&s
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65206?security=tls&sni=dl.hncmhkbgp.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0007
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65214?security=tls&sni=gztwhinetz.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0006
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65025?security=tls&sni=dl.sg7.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.117-0005
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65301?security=tls&sni=dl.bgp3.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.117-0004
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65201?security=tls&sni=gzhkntt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0003
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65215?security=tls&sni=dl.gdhkntt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0002
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11048#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.174-2686
 trojan://TNDSJfNv@36.151.195.48:4603?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.195.48-2729
 trojan://TNDSJfNv@36.151.195.48:4787?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-36.151.195.48-2752
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25251#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-2927
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25252#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-2943
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24009#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-5055
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.118:65501?security=tls&sni=dl.sg2.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.118-0001
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65301?security=tls&sni=dl.bgp3.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.117-0004
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10819?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.2-5261
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10821?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.8-5262
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10823?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.7-5263
@@ -160,6 +166,9 @@ trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10823?security=tls#%F
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.3:10823?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.3-5291
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10824?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.4-5292
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10824?security=tls#%F0%9F%87%A8%F0%9F%87%B3CN-183.236.51.2-5293
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65201?security=tls&sni=gzhkntt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0003
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65215?security=tls&sni=dl.gdhkntt.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-120.241.126.83-0002
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.118:65501?security=tls&sni=dl.sg2.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.118-0001
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65523?security=tls&sni=dl.sg3.cc.tjcct.xyz#%F0%9F%87%A8%F0%9F%87%B3CN-211.99.96.117-0000
 ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA==@180.101.193.226:10068#%F0%9F%87%A8%F0%9F%87%B3CN-180.101.193.226-7353
 ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1154#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7354
@@ -192,10 +201,9 @@ ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5986#%F0%9F%87%A8%F0%9F%87%B3CN-120.19
 ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1190#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7382
 ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1182#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7383
 ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1192#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7384
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.255.123.90:989#%F0%9F%87%B3%F0%9F%87%ACNG-185.255.123.90-8055
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNWEwYThkOS1hYjJjLTQwN2YtODlhNC1iZjAyN2QyMTYxODQ=@183.240.222.15:870#%F0%9F%87%A8%F0%9F%87%B3CN-183.240.222.15-8080
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#
-vmess://eyJhZGQiOiIxNjcuODguNjMuNTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQGkxMFZQTuKBuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#EPODONIOS
+vmess://ewogICAgImFkZCI6ICIwODFkMWFhZC1yd2NzZzAtMW43anEuYm4ucDVwdi5jb20iLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIwODFkMWFhZC1yd2NzZzAtMW43anEuYm4ucDVwdi5jb20iLAogICAgImlkIjogIjRhNzVjM2JhLWYyZTktMTFlZC1iZjFiLWYyM2M5MTM2OWYyZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4et8J+HsEhLLTIwMy4yMTguNzEuNDAtODY1MSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@109.176.239.123:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7GB-148
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@139.64.235.123:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-552
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@167.179.110.68:8443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-44
@@ -207,12 +215,14 @@ vless://1d16c6e0-1bbe-435b-b661-90043fee999c@45.135.235.123:443?security=tls&typ
 vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?security=none&type=ws&path=/pyip=Telegram🇨🇳+@VPNine1&host=proud-cloud-5c50.113-8dc.workers.dev&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1002
 vless://fb5058f5-a9ed-424e-9ed7-33d455438286@154.92.9.2:8880?security=none&type=ws&path=/pyip=Telegram🇨🇳+@WangCai2&host=old-violet-a5ce.29-440.workers.dev&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BECY-6
 vless://fb5058f5-a9ed-424e-9ed7-33d455438286@154.92.9.2:8880?type=ws&host=old-violet-a5ce.29-440.workers.dev&path=/pyip=Telegram🇨🇳#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BECY-8
-vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&host=vp58.cc.cd&path=/Telegram🇨🇳+fp=chrome&security=tls&sni=vp58.cc.cd&type=ws#🔥Join+Telegram:@Farah_VPN🟣
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#🔥Join+Telegram:@Farah_VPN🟣
-vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=/Telegram🇨🇳 fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
-trojan://Telegram_healer_config@104.21.4.124:443?allowInsecure=1&alpn=http/1.1&fp=chrome&host=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&path=/tr/W3Ei3SdcW9sRVMLIbEd8sB1lm?ed=2560&security=tls&sni=vre6r9qrbqi0t25tg.srtb0m3hdbwr2cjz8fjur.workers.dev&type=ws#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B3%20CN%20%7C%20TROJAN%20%7C%201078
-vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/Telegram🇨🇳+fp=chromesecurity=tls#%F0%9F%87%AC%F0%9F%87%A7%5Bwww.v2nodes.com%5D%20vless-GB-1...%20%238
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIzIiwiYWRkIjoiMjEwLjEzOC4zNy41MyIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IkRyQktnMTZlR2YzRlpsTTMudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCJ0ZXN0X25hbWUiOiIxMjMifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTkiLCJhZGQiOiJ1azMtMi45OTg5OTguYmVzdCIsInBvcnQiOiI0NDMiLCJpZCI6IjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJzZXJ2ZXIyMi45OTY2MzM4Lnh5eiIsInBhdGgiOiIvc2VyaHJkZnRzaGciLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJ2ZXIyMi45OTY2MzM4Lnh5eiIsInRlc3RfbmFtZSI6IjE5In0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjIiLCJhZGQiOiI0NS4xNDQuMTU0LjE0OSIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzEiLCJhZGQiOiIxNzIuNjQuMTQ2LjE5MSIsInBvcnQiOiIyMDgzIiwiaWQiOiJhYzI1MTIzNy01NzZmLTQwYzgtYTU0My01NTQ5NjBjOTU4YjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJvci41MjExNjYueHl6IiwicGF0aCI6Ii9vcjMiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJvci41MjExNjYueHl6IiwidGVzdF9uYW1lIjoiNzEifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTI5IiwiYWRkIjoiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsInBvcnQiOiI0NDMiLCJpZCI6ImFsaWlsYXByby12MnJheW5nLWNvbmZpZyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnaXRodWIuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJnaXRodWIuY29tIiwidGVzdF9uYW1lIjoiMTI5In0=
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.149.54:8443?encryption=none&type=ws&host=sni.111000.dynv6.net&path=/?Telegram🇨🇳 @WangCai2&security=tls&sni=sni.111000.dynv6.net#EPODONIOS
+vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=/Telegram🇨🇳 fp=chrome#EPODONIOS
+vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&host=vp58.cc.cd&path=/Telegram🇨🇳+fp=chrome&security=tls&sni=vp58.cc.cd&type=ws#EPODONIOS
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE5IiwiYWRkIjoiMjEyLjk1LjM0LjE5NSIsInBvcnQiOiI0NDMiLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjExOSJ9
 ss://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&amp;fp=chrome&amp;type=xhttp&amp;sni=download.nvidia.com #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.2:8443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&amp;fp=chrome&amp;type=grpc&amp;serviceName=TunService&amp;sni=download.nvidia.com #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://3ae00194-1bc0-0bf4-9564-3c55b1c6d485@122.8.45.3:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&amp;fp=chrome&amp;type=xhttp&amp;sni=download.nvidia.com #🇨🇳 [ Configs by DukeMehdi ] SS-CN
@@ -221,109 +231,121 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzI1YTM0NS1jNzJmLTQ2MzctYThmNC0zNGY5ZWZmYjd
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNWEwYThkOS1hYjJjLTQwN2YtODlhNC1iZjAyN2QyMTYxODQ=@183.240.222.15:870 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24002 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24007 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25217 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25220 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25226 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25230 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25207 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25218 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25219 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25231 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25233 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25238 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25245 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25251 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25252 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25254 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25256 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25259 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25261 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25266 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25267 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25268 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25270 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25279 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25283 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25284 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25287 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25286 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25289 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25294 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25295 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25296 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA==@180.101.193.226:10068 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://YWVzLTI1Ni1nY206QkdYOE9YRDZQMTBYNTNMWQ==@219.135.227.209:17001 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://YWVzLTI1Ni1nY206UU0xQkI1U01XQzQ3SVZXQQ==@219.135.227.209:15010 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1150 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1154 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1172 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1173 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1182 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1190 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.80:1157 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.80:1185 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5982 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.111:5980 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.111:5981 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5980 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5984 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5985 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5988 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5981 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5986 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5989 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5980 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5983 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5985 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
 ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5988 #🇨🇳 [ Configs by DukeMehdi ] SS-CN
-ssr://14.29.124.168:24005:origin:aes-128-cfb:plain:UWF6RWRjVGdiMTU5QCQq/?obfsparam=&remarks=8J%2BHqPCfh7NDTi0xNC4yOS4xMjQuMTY4LTI0Nzk%3D&protoparam= #🇨🇳 [ Configs by DukeMehdi ] SSR-CN
-ssr://36.156.222.25:32986:auth_aes128_sha1:chacha20-ietf:http_simple:enp0dzlqazdndQ==/?obfsparam=ZTVhYjA2MTgxLm1pY3Jvc29mdC5jb20%3D&remarks=8J%2BHqPCfh7NDTi0zNi4xNTYuMjIyLjI1LTI1MTI%3D&protoparam=NjE4MTptOW9ESWM%3D #🇨🇳 [ Configs by DukeMehdi ] SSR-CN
+ssr://120.198.71.184:560:auth_aes128_md5:chacha20-ietf:plain:bWJsYW5rMXBvcnQ=/?obfsparam=dC5tZS92cG5oYXQ%3D&remarks=8J%2BHqPCfh7NDTi0xMjAuMTk4LjcxLjE4NC0yMDcz&protoparam=NjMwNjg6YWpoamVpMTIzNDU2 #🇨🇳 [ Configs by DukeMehdi ] SSR-CN
 ssr://42.157.196.103:10120:auth_aes128_md5:rc4-md5:http_post:WWs0VWRyT3lRZw==/?obfsparam=YWpheC5taWNyb3NvZnQuY29t&remarks=8J%2BHqPCfh7NDTi00Mi4xNTcuMTk2LjEwMy0xODQz&protoparam= #🇨🇳 [ Configs by DukeMehdi ] SSR-CN
 ssr://42.157.196.104:10967:auth_aes128_md5:aes-256-cfb:tls1.2_ticket_auth:dkNtcDhBTGloNg==/?obfsparam=YWpheC5taWNyb3NvZnQuY29t&remarks=8J%2BHqPCfh7NDTi00Mi4xNTcuMTk2LjEwNC0xODQ0&protoparam= #🇨🇳 [ Configs by DukeMehdi ] SSR-CN
 ssr://42.157.196.104:20037:auth_aes128_md5:aes-256-cfb:http_post:Q1dTWnNjTGtqZg==/?obfsparam=YWpheC5taWNyb3NvZnQuY29t&remarks=8J%2BHqPCfh7NDTi00Mi4xNTcuMTk2LjEwNC0xODQ1&protoparam= #🇨🇳 [ Configs by DukeMehdi ] SSR-CN
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19201?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19215?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19233?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19239?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19225?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19232?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19240?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19241?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@116.129.254.5:4568?security=tls&sni=hnhkhkt.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@116.129.254.7:4570?security=tls&sni=hnjpntt2.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@116.129.254.7:4571?security=tls&sni=dl.hncujpwea2.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@116.129.254.7:4572?security=tls&sni=dl.cscuhkbgp2.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@116.129.254.7:4573?security=tls&sni=dl.cscujpntt6.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65200?security=tls&sni=ggjpntt.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65201?security=tls&sni=gzhkntt.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65203?security=tls&sni=dl.gdcmjpwea.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65204?security=tls&sni=dl.gdkraws.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65205?security=tls&sni=gzjpaz.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65206?security=tls&sni=dl.hncmhkbgp.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65207?security=tls&sni=dl.gdcmhkbgp.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65208?security=tls&sni=dl.gdcmhinet3.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65212?security=tls&sni=gzhkaz.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65213?security=tls&sni=dl.gdusan2.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.83:65214?security=tls&sni=gztwhinetz.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@120.241.126.85:65200?security=tls&sni=gzsgntt.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65022?security=tls&sni=dl.sg6.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65109?security=tls&sni=dl.bgp7.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65110?security=tls&sni=dl.bgp8.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65303?security=tls&sni=dl.sghgc2.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65523?security=tls&sni=dl.sg3.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65300?security=tls&sni=dl.bgp4.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65301?security=tls&sni=dl.bgp3.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.117:65302?security=tls&sni=dl.sghkta.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.118:65023?security=tls&sni=dl.sghgch3.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7243c2bd-5576-3c2d-aea0-594ff03522a0@211.99.96.118:65501?security=tls&sni=dl.sg2.cc.tjcct.xyz #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10820?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10823?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10824?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10826?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.3:10823?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10824?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10826?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10822?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10823?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.5:10826?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.6:10820?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10819?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10821?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10819?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10821?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10823?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10823?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10824?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10825?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10819?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10820?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10824?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10825?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://TNDSJfNv@36.151.195.48:4603?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
+trojan://TNDSJfNv@36.151.195.48:4787?security=tls #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 trojan://ba4fedf8c217c146@120.236.197.205:3389?security=tls&sni=n2.gladns.com #🇨🇳 [ Configs by DukeMehdi ] TJ-CN
 vless://0f47a872-b140-46f5-aef8-f46993f5fc01@112.49.63.11:33102?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sgg.knhqf.com #🇨🇳 [ Configs by DukeMehdi ] VL-CN
 vless://1b60cff4-49ce-4bf3-9027-e4f9c47d6158@27.44.143.169:14343?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=thuk.huaweiyouxuan.com #🇨🇳 [ Configs by DukeMehdi ] VL-CN
 vless://1d16c6e0-1bbe-435b-b661-90043fee999c@185.207.197.123:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none #🌐 [ Configs by DukeMehdi ] VL-MH
 vless://2d24e797-ec6c-0808-dd31-9cd22b5dfdc7@122.8.45.4:8443?mode=gun&security=reality&encryption=none&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com #🇨🇳 [ Configs by DukeMehdi ] VL-CN
-vless://72d334af-a4e9-ed8f-cbec-75317ce0b463@122.8.44.9:443?path=/&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=xhttp&sni=download.nvidia.com #🇨🇳 [ Configs by DukeMehdi ] VL-CN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:8443?path=/?Telegram🇨🇳 @WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net #🌐 [ Configs by DukeMehdi ] VL-XX
+vless://72d334af-a4e9-ed8f-cbec-75317ce0b463@122.8.44.9:443?path=%2F&security=reality&encryption=none&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&fp=chrome&type=xhttp&sni=download.nvidia.com #🇨🇳 [ Configs by DukeMehdi ] VL-CN
 vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528/?type=tcp&encryption=none&flow= #🇨🇳 [ Configs by DukeMehdi ] VL-CN
-vmess://eyJhZGQiOiIxMDYuNTUuMTg3LjEzOSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNWE0NjQ3MDctMzE2Mi00YTA5LWU5ZTItZDcwYTZiODkyMjY3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjg0NDgsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxMjQuMjIyLjE4OS4yMjUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImE4YzlhZDViLTFmNTgtNDIzNC1iNWZlLWE4OTViZWU5YTA0NyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxNTMuMTAxLjY0LjIyMSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNTcxNmMxYjQtYzJkMy00YTlkLWE5YTgtNWQ5OTE5ZDBlZDhmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3F3ZTEyMzMyMWV3cSIsInBvcnQiOjQwMDEzLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIyMTAuNzUuMjQuMjIwIiwiYWlkIjowLCJob3N0Ijoic2dhcm0ucHR1dS5jZiIsImlkIjoiYTkyOGEyNmMtMmFkYi00NWZlLWU1N2QtOGEyN2RhZGUzMDllIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOjQ0MywicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
-vmess://eyJhZGQiOiIyMjMuMTExLjIwMi4xMzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImUxNTlmNDA5LWFmMGUtMzhiNi1iMzRlLTQwNGE5ODA4OTQ3MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9tdWd1YSIsInBvcnQiOjYzMDg2LCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
-vmess://eyJhZGQiOiIyMjMuMTExLjIwMi4xMzkiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImUxNTlmNDA5LWFmMGUtMzhiNi1iMzRlLTQwNGE5ODA4OTQ3MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9tdWd1YSIsInBvcnQiOjYzMDg4LCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZmRlMTBlMzktNDhiYi00ZGNmLWIzYmEtNzFkNzExMzIzYTU0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjEwMDg2LCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiI0Mi4xODYuMTc1LjgiLCJhaWQiOjAsImhvc3QiOiJzZ2FybS5wdHV1Lm1sIiwiaWQiOiIyOTYyYjZkYy04ZGU1LTQwYzItZjVmYi01MDM5ZjcyZDlhOTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxODMuMjM2LjUxLjIzIiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTIxMTIiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxMjAuMjMyLjE1My4yNyIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU4ODMxIiwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxMjAuMjMyLjE1My42MyIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6Ijc3MGVlNzMwLTI0NTAtNGUzYy1hNmM2LTM5MzJiZDMyYWZiZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQwOTcyIiwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxMjAuMjM0LjEwMi4yMjkiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1MjkwOCIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxODMuMjM2LjQ4LjE2MyIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU4ODMxIiwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxODMuMjM2LjUxLjIzIiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDY2MDIiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxODMuMjM2LjUxLjIzIiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTMwMDIiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxMjAuMTk4LjcxLjIxNCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NDkzIiwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxMjAuMjMyLjE1My4yNyIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU4MDAyIiwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxODMuMjM2LjQ4LjE1OCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjUwMDUyIiwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxODMuMjM2LjQ4LjE1OCIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU5OTUyIiwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxODMuMjM2LjUxLjIzIiwiYWlkIjoiNjQiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTE3MDQiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxMDYuNTIuNTcuODYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImY1NmI5YTkyLTQ3ZDQtNGQ2ZS1iODI4LTFhYTNlOTZkYWU2NSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjEwMDAxIiwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6IjEwNi41Mi41Ny44NiIsInRscyI6IiIsInYiOiIyIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxMTIuMTMyLjIxNS4xMDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiI1MDAwMiIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxMjAuMjMyLjI0Mi4xMjYiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0MTQ5MiIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
@@ -344,12 +366,12 @@ vmess://eyJhZGQiOiIxMjAuMjMyLjE1My40MCIsImFpZCI6IjY0IiwiaG9zdCI6IiIsImlkIjoiNDE4
 vmess://eyJhZGQiOiIxMjAuMjMzLjcuMjIxIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjIxZGNiZWM4LWVlZTgtM2QyMC04MmI2LWY4YzE2ZmU2ZGM4ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDA3IiwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxMjAuMjQwLjE0Mi4yMSIsImFpZCI6IjAiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiZDE5YzUzOTYtYWVmMi1iNTA4LTNhYmItZTlmOTNjOGIwY2ZjIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FkYjRjMmNjLTllNzctZDZmYy00ZGJhLWUwNmIxNTY1OTQ2OSIsInBvcnQiOiIxMTk3MiIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxMjQuMTUxLjQ1LjYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQ2NDNkNmVhLTJlNDgtNGFkNS1iOTZlLWQxMWI4ODljYzZhNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzgzMjAiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
-vmess://eyJhZGQiOiIxNTcuMTQ4LjcuMTM2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjFiMzBmNDEzLTI4NjUtNGQ0MC05MTQ2LTQyMDc3Nzg3MThjZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwMTEiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIxNTcuMTQ4LjcuMTM2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjFiMzBmNDEzLTI4NjUtNGQ0MC05MTQ2LTQyMDc3Nzg3MThjZCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwMTEiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjEyMCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxNTcuMTQ4LjcuNTUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMWIzMGY0MTMtMjg2NS00ZDQwLTkxNDYtNDIwNzc3ODcxOGNkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAxMSIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxNjIuNC4xMzYuNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwibmV0Ijoid3MiLCJwYWNrZXRFbmNvZGluZyI6Inh1ZHAiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBvcnQiOiI0NDMiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxODMuMjM2LjUxLjIzIiwiYWlkIjoiNjQiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NTAyMCIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIxODMuMjQwLjIzNS4xNzAiLCJhaWQiOiI2NCIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU0NjAyIiwicHMiOiJDb25maWdzIGJ5IER1a2VNZWhkaSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
-vmess://eyJhZGQiOiIzNi4xMzMuNzQuMTUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTFiZTY5NDEtMDY2Ny00NjljLTkyMjQtNmYzNGFkYjU0OWJhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAxMSIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIzNi4xMzMuNzQuMTUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZTFiZTY5NDEtMDY2Ny00NjljLTkyMjQtNmYzNGFkYjU0OWJhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAxMSIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTUxIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIzNi4xMzMuNzguMzciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMWIzMGY0MTMtMjg2NS00ZDQwLTkxNDYtNDIwNzc3ODcxOGNkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAxMSIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIzNi4xMzMuNzguMzciLCJhaWQiOiIwIiwiaWQiOiIxNDhlODJhZS01MDE0LTRhMWEtYTc4My1kZDYzZmE5Y2RjOWQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNTAwMTIiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIzNi4xMzMuNzguMzciLCJhaWQiOiIwIiwiaWQiOiIxNDhlODJhZS01MDE0LTRhMWEtYTc4My1kZDYzZmE5Y2RjOWQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNTAwMTMiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
@@ -357,9 +379,19 @@ vmess://eyJhZGQiOiIzNi4xMzMuNzguMzciLCJhaWQiOiIwIiwiaWQiOiI5ZTYzY2E1NS0xZmY5LTQ1
 vmess://eyJhZGQiOiIzNi4xMzMuNzguMzciLCJhaWQiOiIwIiwiaWQiOiIxNDhlODJhZS01MDE0LTRhMWEtYTc4My1kZDYzZmE5Y2RjOWQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNTAwMTUiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIzNi4xMzMuNzguMzciLCJhaWQiOiIwIiwiaWQiOiIxMjM1NDMxYi1iNmI4LTRhZGQtYmZmNC1hNmQ3MWJjYzRkNzEiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNTAwMTYiLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIzNi4xMzMuNzguMzciLCJhaWQiOiIwIiwiaWQiOiIxNDhlODJhZS01MDE0LTRhMWEtYTc4My1kZDYzZmE5Y2RjOWQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNTAwMTciLCJwcyI6IkNvbmZpZ3MgYnkgRHVrZU1laGRpIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
-vmess://eyJhZGQiOiIzNi4xMzMuNzguMzciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMWIzMGY0MTMtMjg2NS00ZDQwLTkxNDYtNDIwNzc3ODcxOGNkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAxOCIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTEzIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIzNi4xMzMuNzguMzciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMWIzMGY0MTMtMjg2NS00ZDQwLTkxNDYtNDIwNzc3ODcxOGNkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAxOCIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
 vmess://eyJhZGQiOiIzNi4xMzMuNzkuMTciLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMWIzMGY0MTMtMjg2NS00ZDQwLTkxNDYtNDIwNzc3ODcxOGNkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAxMSIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
-vmess://eyJhZGQiOiIzNi4xMzQuMzUuMzYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMWIzMGY0MTMtMjg2NS00ZDQwLTkxNDYtNDIwNzc3ODcxOGNkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAxMSIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiOSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vmess://eyJhZGQiOiIzNi4xMzQuMzUuMzYiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMWIzMGY0MTMtMjg2NS00ZDQwLTkxNDYtNDIwNzc3ODcxOGNkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MDAxMSIsInBzIjoiQ29uZmlncyBieSBEdWtlTWVoZGkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9 #🇨🇳 [ Configs by DukeMehdi ] VM-CN
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@167.179.110.68:8443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-45
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@185.207.197.123:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-99
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@139.64.235.123:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-629
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@185.193.29.123:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7GB-101
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@188.42.145.123:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BALU-10
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@109.176.239.123:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7GB-155
+vless://e403856e-4e50-49e6-9edc-d9536a803a6a@141.193.27.4:80?security=none&type=ws&path=/pyip=Telegram🇨🇳+@VPNine1&host=proud-cloud-5c50.113-8dc.workers.dev&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1139
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@45.131.6.123:443?security=tls&type=ws&path=/Telegram-WangCai2🇨🇳&host=notls.lukongtou.eu.org&packetEncoding=xudp&sni=notls.lukongtou.eu.org&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-335
+vless://fb5058f5-a9ed-424e-9ed7-33d455438286@154.92.9.2:8880?security=none&type=ws&path=/pyip=Telegram🇨🇳+@WangCai2&host=old-violet-a5ce.29-440.workers.dev&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BECY-7
+vless://fb5058f5-a9ed-424e-9ed7-33d455438286@154.92.9.2:8880?type=ws&host=old-violet-a5ce.29-440.workers.dev&path=/pyip=Telegram🇨🇳#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BECY-9
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#4Kian-405961962c
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https://t.me/wangcai2🇨🇳#4Mohsen-2747ed3f1a
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#4Mohsen-4f0fdf69e4
@@ -395,6 +427,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.195.50:8880?security=none&typ
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@66.235.200.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime47.workers.dev&packetEncoding=xudp&encryption=none#4Nika-02f35dcb54
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.40:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS🇨🇳&host=vms.lifetime09.workers.dev&packetEncoding=xudp&encryption=none#4FreeIran-c820dc94d4
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.30:8880?security=none&type=ws&path=/?ed=2560&https://t.me/YouTube@小青科学网🇨🇳&host=vms.lifetime11.workers.dev&packetEncoding=xudp&encryption=none#4Mohsen-66b97059de
+vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=/Telegram🇨🇳#4Nika-9ae4ff2768
+vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?encryption=none&host=vp58.cc.cd&path=/Telegram🇨🇳+fp=chrome&security=tls&sni=vp58.cc.cd&type=ws#4Mohsen-bc6d9a9793
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?security=tls&type=ws&path=/Telegram🇨🇳#4Jadi-b10efea773
 vless://7b102311-43fd-4e8f-877e-8090623c101d@57.128.177.198:443?sni=vp58.cc.cd&type=ws&host=vp58.cc.cd&path=/Telegram🇨🇳+fp=chromesecurity=tls#4Nika-6e815ec7d0
 vless://7b102311-43fd-4e8f-877e-8090623c101d@94.159.97.247:443?security=tls&type=ws&path=/Telegram🇨🇳#4Mohsen-13be07cbec
