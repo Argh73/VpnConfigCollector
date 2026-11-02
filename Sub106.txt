@@ -2,503 +2,503 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Argh94/VpnConfigCollector
 #profile-web-page-url: https://github.com/Argh94/VpnConfigCollector
-vmess://eyJhZGQiOiIxNzIuNjcuMTYxLjE0NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTM5Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjpudWxsLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsIm5hbWUiOiJLUiDwn4ew8J+HtyB8IEBSYXlkaWthbHggfCBFOUY5N0EiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJ2MmdvIHwg8J+HsPCfh7cgS1IgfCBWTUVTUyB8IDEzOCIsInNjeSI6ImF1dG8iLCJzbmkiOm51bGwsInRscyI6Im5vbmUiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
-vmess://eyJhZGQiOiIxNzIuNjcuMTU2LjEyMSIsImFpZCI6IjAiLCJob3N0Ijoid3d3LmdwdGNsb3VkYWkuY29tIiwiaWQiOiJlNzBhNWI3MC1mNjNjLTQ0NTAtYWY4Yi05NDk5MGNkZjgwYzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdHJ1dGgiLCJwb3J0IjoiNDQzIiwicHMiOiJ2MmdvIHwg8J+HqfCfh6ogREUgfCBWTUVTUyB8IDEzNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNzIuNjQuODAuMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTM2Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNzIuNjQuMTU1LjIwOSIsImFpZCI6MCwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTM1Iiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNjkuMTk3LjE0Mi4yMiIsImFpZCI6MCwiaG9zdCI6IjE2OS4xOTcuMTQyLjIyIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2MmdvIHwg8J+HuvCfh7ggVVMgfCBWTUVTUyB8IDEzNCIsInNuaSI6IjE2OS4xOTcuMTQyLjIyIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOjAsImhvc3QiOiIxMzQuMTk1LjE5Ni4yMTEiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2MmdvIHwg8J+HqPCfh6YgQ0EgfCBWTUVTUyB8IDEzMyIsInNuaSI6IjEzNC4xOTUuMTk2LjIxMSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsImFpZCI6IjAiLCJpZCI6ImE5MTViMWQ2LWNmMjgtNGRjOC1lNGI0LWUwOWM0OGMzN2VjMCIsIm5ldCI6InRjcCIsInBvcnQiOiI4MDAiLCJwcyI6InYyZ28gfCDwn4ew8J+HtyBLUiB8IFZNRVNTIHwgMTMyIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMjkuMTQ2Ljc3LjI0OCIsImFpZCI6IjAiLCJob3N0IjoiMTI5LjE0Ni43Ny4yNDgiLCJpZCI6ImY4MzZjNzM2LTg3ZmMtNGZkZS1hYWJjLTAwODU3ZWNkZmYzZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiIzOTQ5NSIsInBzIjoidjJnbyB8IPCfh7rwn4e4IFVTIHwgVk1FU1MgfCAxMzEiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMjkuMTQ2LjE0My44MCIsImFpZCI6IjAiLCJpZCI6ImQ0NjAzY2MyLWUwZWUtNDY1MS04M2Y1LTFkYjViNzE2ODE3NyIsIm5ldCI6InJhdyIsInBvcnQiOiI0ODExMSIsInBzIjoidjJnbyB8IPCfh7rwn4e4IFVTIHwgVk1FU1MgfCAxMzAiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2MmdvIHwg8J+HuPCfh6wgU0cgfCBWTUVTUyB8IDEyOSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODAiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTI4Iiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxMDQuMjEuNTcuODQiLCJhaWQiOiIwIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTI3Iiwic2N5IjoiYXV0byIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDQuMjEuNy4xMzMiLCJhaWQiOjAsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMTI2Iiwic2N5IjoiYXV0byIsInNlcnZpY2VOYW1lIjoiIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInRscyI6InRscyIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiJ2MmdvIHwg8J+HuPCfh6wgU0cgfCBWTUVTUyB8IDEyNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDQuMjEuMTUuMjUxIiwiYWlkIjoiMCIsImhvc3QiOiJ3d3cud2luZG93c3NlYXJjaHRvb2xzLmNvbSIsImlkIjoiYmExMTE2ZTItOGMyZi00ZTNkLThlNTAtYzk1NDM2MGNmOTcwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RydXRoIiwicG9ydCI6IjQ0MyIsInBzIjoidjJnbyB8IPCfh6vwn4e3IEZSIHwgVk1FU1MgfCAxMjQiLCJzY3kiOiJhdXRvIiwic25pIjoid3d3LndpbmRvd3NzZWFyY2h0b29scy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&security=reality&sid=e6&sni=passport.yandex.ru&type=tcp#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%20123
-vmess://eyJhZGQiOiIxMDQuMTcuMTQ3LjIyMiIsImFpZCI6MCwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MCIsInBzIjoidjJnbyB8IPCfh7rwn4e4IFVTIHwgVk1FU1MgfCAxMjIiLCJzbmkiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJ3am9mSHNRdEV1RXl3eEVxLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6Indqb2ZIc1F0RXVFeXd4RXEudi4zZG5zLnZpcCIsImlkIjoiYTlmNGRlOGItNjhmMS00NGI2LWI2YTItMWRiNjA5NDA1MDNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoidjJnbyB8IPCfh7jwn4esIFNHIHwgVk1FU1MgfCAxMjEiLCJzY3kiOiJhdXRvIiwic25pIjoid2pvZkhzUXRFdUV5d3hFcS52LjNkbnMudmlwIiwidGVzdF9uYW1lIjoiMTY0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@ov-germany1.09vpn.com:80?encryption=none&host=OV-Germany1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20120
-vless://379998c5-2a71-4202-9c74-522e0c3c5404@185.147.27.183:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=user-6a917f32.noooo.win&type=tcp#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20VLESS%20%7C%20119
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&host=SC-TheNetherlands1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%20118
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#v2go%20%7C%20VLESS%20%7C%20117
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#v2go%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20KR%20%7C%20SS%20%7C%20116
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20115
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20SS%20%7C%20114
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20113
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20112
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20111
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20110
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20109
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20108
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&security=reality&sni=www.cloudflare.com&type=tcp#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%20107
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445?type=tcp&headerType=none#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20SS%20%7C%20106
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20SS%20%7C%20105
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%BA%20MU%20%7C%20SS%20%7C%20104
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20SS%20%7C%20103
-vless://18535741-e8b3-4b43-9348-785b55936751@ov-germany1.09vpn.com:80?path=/vless/&security=none&encryption=none&host=ov-germany1.09vpn.com&type=ws#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%20102
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%20101
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%20100
-vless://7b91b2c3-8af3-449b-a555-00c9460989f4@lvi.su:443?path=%2Fvpn-relay%3Ftoken%3D27fede42482b3c29d4c1c9640876c250%26pool%3Dwhitelist2&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=lvi.su&fp=chrome&type=ws&allowInsecure=0&sni=lvi.su#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20%7C%2099
-vless://682feb0b-87c5-45f1-bc58-0a5895e0b867@ticket.bestsellersd.site:443?alpn=h2&encryption=none&fp=chrome&host=ticket.bestsellersd.site&mode=auto&path=/Meh?di=443&security=tls&sni=ticket.bestsellersd.site&type=xhttp#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2098
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%2097
-vless://63c5f8b3-3d3d-46a9-ae1f-58635cdaf891@185.121.179.122:443?security=reality&encryption=none&pbk=wpZDT_592emHu309qN-7-qceofbMJzoAdIx9m9RFJGg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.stream-node6.com&sid=98753667b2406829#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%2096
-vless://7858128a-6b5e-4f86-9bff-52c1f1e6439d@91.107.247.173:2083?path=/&security=tls&encryption=none&host=sino.bestsellers1.site&fp=chrome&type=ws&sni=sino.bestsellers1.site#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2095
-vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@78.159.250.214:443?security=reality&encryption=none&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=qq.utiltools.site&sid=00000000#v2go%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20VLESS%20%7C%2094
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=random&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&sid=b390e0a721d242b0&type=tcp&headerType=none&host=www.icloud.com/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20VLESS%20%7C%2093
-vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?mode=gun&security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#v2go%20%7C%20%F0%9F%87%B9%F0%9F%87%B7%20TR%20%7C%20VLESS%20%7C%2092
-vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@94.249.180.86:443?security=reality&encryption=none&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=a696de84963656de#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2091
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.202:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=yahoo.com&sid=c39cc7310a#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%2090
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@178.17.52.236:2083?mode=auto&path=/v2/sync/6e9367&security=reality&encryption=none&pbk=mbi4BZAuiq_L6pfhG2xxWmtosq0Z1Pzf18fvNSWKMxY&fp=edge&type=xhttp&sni=maps.blog-forme.ru&sid=3258252d44113e23#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2089
-vless://3d9d91c0-0a90-471a-a518-a0ff66a1970a@wwww.qarvian.ir:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&encryption=none&insecure=0&host=copy_az_channel_NUFiLTER_7i.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=cdn.akamai.steamstatic.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%2088
-vless://cc60f593-7762-42cb-c2a1-96d60b53988d@199.232.239.239:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel/@CloudVPNchannel?ed=2056&security=tls&alpn=h2&encryption=none&insecure=0&host=mpkoe7ypcibr80p102020123.global.ssl.fastly.net&fp=firefox&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2087
-vless://2614a96d-e39f-4cca-a9c7-467a178c2c0a@191.217.245.227:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pl.lenvex.cc#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20VLESS%20%7C%2086
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2085
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2084
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2083
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2082
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2081
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2079
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2078
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2077
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2076
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2075
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2074
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2073
-vless://3b9189fd-9d29-465e-8c1f-5651af043fe4@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&spx=/uUr56K29YvRQ5rt&type=tcp#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%2072
-vless://441caaf2-aae6-4883-8af9-1e5770395ae8@188.116.27.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&security=reality&sid=1174&sni=www.sony.co.uk&spx=/uUr56K29YvRQ5rt&type=tcp#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%2071
-vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgNzAiLCJzY3kiOiJhdXRvIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInRlc3RfbmFtZSI6Ijk1IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#v2go%20%7C%20VLESS%20%7C%2069
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#v2go%20%7C%20VLESS%20%7C%2068
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#v2go%20%7C%20%F0%9F%87%B2%F0%9F%87%A9%20MD%20%7C%20VLESS%20%7C%2067
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5hdGlvbiI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6InYyZ28gfCDwn4e48J+HrCBTRyB8IFZNRVNTIHwgNjYiLCJzY3kiOiJhdXRvIiwic2VydmVyUG9ydCI6MCwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNTguMTYwLjE4MC4xNjUiLCJhaWQiOiIwIiwiaG9zdCI6IjE1OC4xNjAuMTgwLjE2NSIsImlkIjoiYzU4YzEyMDUtYjMwOC00MTZmLTg1MDMtYzA0NTU3YWJmOTNkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNDIxMiIsInBzIjoidjJnbyB8IPCfh7fwn4e6IFJVIHwgVk1FU1MgfCA2NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIxNTguMTYwLjE4MC4xNjUiLCJ0ZXN0X25hbWUiOiIyMCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://09f30c46-3964-41ce-882a-72aee83ddd42@65.109.211.81:465?path=%2F&security=tls&encryption=none&insecure=0&host=hw6.divarkhaghazi.com.&fp=firefox&type=ws&allowInsecure=0&sni=hw6.divarkhaghazi.com#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20VLESS%20%7C%2064
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@79.182.39.37:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=none&fp=firefox&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#v2go%20%7C%20%F0%9F%87%A7%F0%9F%87%B7%20BR%20%7C%20VLESS%20%7C%2063
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2062
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.171:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2061
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20SS%20%7C%2060
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20SS%20%7C%2059
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:443#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2058
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2057
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20SS%20%7C%2056
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999?#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20SS%20%7C%2055
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20SS%20%7C%2054
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20SS%20%7C%2053
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20SS%20%7C%2052
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20SS%20%7C%2051
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2050
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20SS%20%7C%2049
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.175:443#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2048
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&security=reality&fm=AhmadV2ray&type=tcp&sni=zsit.eu-cdn294.com&flow=xtls-rprx-vision&headerType=none&encryption=none&sid=cd2d53510b4df2a8&fp=chrome&spx=/AhmadV2ray#v2go%20%7C%20%F0%9F%87%B7%F0%9F%87%B4%20RO%20%7C%20VLESS%20%7C%2047
-vmess://eyJhZGQiOiJ3d3cud2luZG93c21zaWRvd25sb2Fkcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy53aW5kb3dzbXNpZG93bmxvYWRzLmNvbSIsImlkIjoiODBiZTJkZWItM2IyNy00Nzc1LTliZDEtN2YyYTJiOWMyNjFiIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RydXRoIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoidjJnbyB8IPCfh6jwn4emIENBIHwgVk1FU1MgfCA0NiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cud2luZG93c21zaWRvd25sb2Fkcy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2045
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2044
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2043
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20SS%20%7C%2042
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@213.202.208.199:5000#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20SS%20%7C%2041
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2040
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20TROJAN%20%7C%2039
-vless://261cdc0d-9a73-4b75-b61b-e99980e3d668@51.38.127.93:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.05JPC3_8Wu_AICg4N1Iwi-wygGesw78y5dQUFNT_UwE&pbk=vKnJBC8MN4hGDqu7_C6luBwjVnhq9Wjb6BWkuK_8_z0&headerType=none&fp=chrome&spx=%2F697894d38cc69ce&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=dee5ab9e#v2go%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20VLESS%20%7C%2038
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2037
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.54:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2036
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2035
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080?note=--Telegram--@V2ray_official--#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2034
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2033
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2032
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080?#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2031
-vless://3e21e3d3-6d26-4155-b851-764dd8e8c6b5@156.252.229.136:8443?security=reality&encryption=none&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=play.googleapis.com&sid=974f7f8f#v2go%20%7C%20%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20VLESS%20%7C%2030
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2029
-vless://6228ee5b-fe07-4ee5-8300-386cd004eb84@57.129.138.142:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Guo_gNZWlSZKb4JcO9dTLxruZ9smPrxZlMsfZJOJEjI&pbk=itUb_lVoLPqG2cGs6vxsOaOImohnpXucmiaDm6_6iyU&headerType=none&fp=chrome&spx=%2F09877bd0d6f416c&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=fe57#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20VLESS%20%7C%2028
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2027
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.16:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2026
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2025
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%B1%20CL%20%7C%20TROJAN%20%7C%2024
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2023
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2022
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2021
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2020
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197:8080#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%2019
-ss://YWVzLTI1Ni1nY206bEYzblJqSDU4a29LVGUtX1Z0QUJiZw@51.75.118.5:20222#v2go%20%7C%20%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20SS%20%7C%2018
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20SS%20%7C%2017
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20SS%20%7C%2016
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20SS%20%7C%2015
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#v2go%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20VLESS%20%7C%2014
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&encryption=none&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&headerType=none&type=tcp&sni=www.cloudflare.com&sid=83f8317a948bb769#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%2013
-vmess://eyJhZGQiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6Ind3dy51YnVudHV1cGRhdGVzLmNvbSIsImlkIjoiODNiMDlhNjQtMWVhZi00YzRkLTg5ZWQtODY2ZDRiNmI4MTE1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3RydXRoIiwicG9ydCI6IjQ0MyIsInBzIjoidjJnbyB8IPCfh6vwn4e3IEZSIHwgVk1FU1MgfCAxMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cudWJ1bnR1dXBkYXRlcy5jb20iLCJ0ZXN0X25hbWUiOiI1MyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://d342d11e-d224-4463-b982-532309285094@104.18.40.100:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#v2go%20%7C%20VLESS%20%7C%2011
-vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&fp=chrome&spx=%2Fb53ffbda568617f&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#v2go%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20CA%20%7C%20VLESS%20%7C%2010
-vless://729dd5f2-f5ff-4070-8c10-863eceded0b1@195.123.235.177:443?security=reality&encryption=none&pbk=5B83otQ5ZQwtBFhR7xzsGJRXflkFKRJpQguYbE5JWGI&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=c85d029f5e8eb393#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20VLESS%20%7C%209
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%208
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%207
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?security=tls&insecure=0&headerType=none%20&fp=chrome&type=tcp&allowInsecure=0&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%206
-vmess://eyJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsImFpZCI6IjAiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6IjgwIiwicHMiOiJ2MmdvIHwg8J+HuvCfh7ggVVMgfCBWTUVTUyB8IDUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTM3IiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxODguMTE0Ljk3LjEiLCJhaWQiOiIwIiwiaG9zdCI6Ind3dy53aW5kb3dzc2VhcmNodG9vbHMuY29tIiwiaWQiOiJiYTExMTZlMi04YzJmLTRlM2QtOGU1MC1jOTU0MzYwY2Y5NzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdHJ1dGgiLCJwb3J0IjoiNDQzIiwicHMiOiJ2MmdvIHwg8J+Hq/Cfh7cgRlIgfCBWTUVTUyB8IDQiLCJzY3kiOiJhdXRvIiwic25pIjoid3d3LndpbmRvd3NzZWFyY2h0b29scy5jb20iLCJ0ZXN0X25hbWUiOiIxMTMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%203
-vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOiIwIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6InYyZ28gfCDwn4e68J+HuCBVUyB8IFZNRVNTIHwgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRlc3RfbmFtZSI6IjI5IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#v2go%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%201
-trojan://MiTiVPN@167.82.64.120:443?alpn=http/1.1&fp=chrome&host=mitivpn--mitivpn-mitivpn.ac.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=community.fastly.steamstatic.com&type=ws #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@151.101.56.9:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=@mehrosaboran #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MiTiVPN@151.101.56.7:443?path=@mehrosaboran&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MiTiVPN@151.101.56.7:443?path=@TEHRANARGO&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MiTiVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MiTiVPN@151.101.56.255:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MiTiVPN@151.101.56.230:443?security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&allowinsecure=0&type=ws&host=MiTiVPN-MiTiVPN-MiTiVPN---MiTiVPN--MiTiVPN.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/Telegram-MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn-mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=community.fastly.steamstatic.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&insecure=0&host=mitivpn-mitivpn-mitivpn.ac.ir&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@151.101.36.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@151.101.36.120:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=1&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=1&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com&path=/?Telegram---Lent_Gc---Lent_Gc #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn-mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram—V2ray_confiig&security=tls&alpn=http/1.1&insecure=0&host=mitivpn—mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/?TELEGRAM------TOOTFFARANGI &security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&insecure=0&host=mitivpn--mitivpn-mitivpn.ac.ir&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=&security=tls&alpn=http/1.1&insecure=0&host=mitivpn--mitivpn.ac.ir&fp=chrome&type=ws&allowInsecure=0&sni=firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@146.75.57.120:443?alpn=http/1.1&fp=chrome&host=mitivpn--mitivpn-mitivpn.ac.ir&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/NLSus---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&sni=firefox.com&type=ws #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTiVPN@140.248.185.253:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=4-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTIVPN@199.232.78.160:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTIVPN@199.232.78.160:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTIVPN@199.232.78.101:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTIVPN@167.82.76.7:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MiTIVPN@151.101.56.7:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MiTIVPN@151.101.56.7:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/D-e2@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MiTIVPN@151.101.56.56:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/D-e2@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://Masir_Sefid@84.234.31.249:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com #🇨🇭 [ Configs by DukeMehdi ] TJ-CH
-trojan://Masir_Sefid@83.228.225.220:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/aRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8 #🇨🇭 [ Configs by DukeMehdi ] TJ-CH
-trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=/W8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70 #🇨🇭 [ Configs by DukeMehdi ] TJ-CH
-trojan://MItIVPN@199.232.78.160:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-55e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MItIVPN@199.232.78.101:443?security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MITIVpN@199.232.78.160:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/NLSus---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MITIVpN@199.232.78.160:443?path=/&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MITIVpN@199.232.78.101:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/NLSus---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MITIVpN@167.82.76.7:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/NLSus---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MITIVpN@151.101.56.90:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/NLSus---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MITIVpN@151.101.56.7:443?path=/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/NLSus---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh/---@Tarkshodeh---@Tarkshodeh&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-22e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://MITIVPN@199.232.78.160:443?path=mehrosaboram&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-44s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://MITIVPN@167.82.76.7:443?path=@bored_vpn&security=tls&alpn=http/1.1&insecure=0&host=mitivpn---ss--s---mitivpn-33s.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.215.50:54673?security=none&type=tcp #🇫🇮 [ Configs by DukeMehdi ] TJ-FI
-trojan://LcICDcp!jD9TFV$NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?path=/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed&security=tls&alpn=http/1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://BxceQaOe@43.198.13.210:41973?allowInsecure=1&sni=t.me/ripaojiedian&note=@FreeOnlineVPN #🇭🇰 [ Configs by DukeMehdi ] TJ-HK
-trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN #🇭🇰 [ Configs by DukeMehdi ] TJ-HK
-trojan://@ZhilaVPN@91.107.174.133:14639?mode=auto&path=/&security=reality&pbk=E7nNU4kKyWD1oPuKzzXKsAhc8ZFWxBQuQf_xocrmdTk&fp=chrome&spx=/&type=xhttp&sni=play.google.com&sid=2f368a9b67 #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://8r<[9'l6hAO #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://8mjHjiRVsOT5@3.10.143.243:16151?allowInsecure=0&sni=appsvs.shop #🇬🇧 [ Configs by DukeMehdi ] TJ-GB
-trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65 #🇹🇷 [ Configs by DukeMehdi ] TJ-TR
-trojan://778f5385b4254495@hik160.pacemakere.com:20014?allowInsecure=1&sni=hik160.pacemakere.com #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://778f5385b4254495@hik160.pacemakere.com:20014?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=hik160.pacemakere.com #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://778f5385b4254495@hik160.pacemakere.com:20014?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=hik160.pacemakere.com #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net #🇭🇰 [ Configs by DukeMehdi ] TJ-HK
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net #🇭🇰 [ Configs by DukeMehdi ] TJ-HK
-trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.101:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/us-gllc@soskeynets #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://6c73b7937b3e44e5982f9d5efa57d8cd@172.67.131.217:443?path=/tr/9LJwNSQPh5UJMu8TbPKBJPtkZWKkYFFl?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=auto-ScaLe-728382.builD-sVc-267891.WoRkeRS.DeV&fp=chrome&type=ws&allowInsecure=0&sni=aUTO-scale-728382.BuiLD-sVc-267891.wORkErs.dEv #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://65IHvp68B85OE3zc2K9VwUShp8ibgFOq@199.232.8.223:443?mode=auto&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&path=/&security=tls&insecure=1&host=gahgs6.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=www.firefox.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=in002.zestapp778.com #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=in002.zestapp778.com #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?allowInsecure=1&sni=in002.zestapp778.com #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&insecure=1&security=tls&fp=chrome&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@fr001.zestapp778.com:16778?allowInsecure=1&fp=chrome #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?security=tls&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@de001.zestapp778.com:51520?allowInsecure=1 #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://5t6i121em5lkmsmk@130.94.19.95:57277?security=tls&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us001.zestapp778.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://5ht01jip7wquct11@185.36.145.44:8?security=none&type=tcp #🇮🇷 [ Configs by DukeMehdi ] TJ-IR
-trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?security=tls&sni=moltbot.doctoroyy.net #🇲🇾 [ Configs by DukeMehdi ] TJ-MY
-trojan://5453ae26-250d-4e79-b4ec-016baf806865@d05f4aa7-92b1-a659-e3b9-695dd2870b3c.131.pp.ua:443?sni=D05F4aA7-92B1-a659-E3b9-695Dd2870B3c.131.Pp.UA&type=tcp #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://50414e45-4c5f-5a45-5553-a0ce99682025@104.21.200.224:443?path=/stream/PANEL_ZEUS/a0ce99682025&security=tls&insecure=0&host=7pzcmuemuf6s.mahdi1395ra.workers.dev&fp=unsafe&type=ws&allowInsecure=0&sni=7pzcmuemuf6s.mahdi1395ra.workers.dev #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1 #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de9.dedushka.top #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de9.dedushka.top #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de9.dedushka.top #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de8.dedushka.top #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=de8.dedushka.top #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&sni=de7.dedushka.top&type=tcp&headerType=none #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de7.dedushka.top #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de6.dedushka.top #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de6.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de6.dedushka.top #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=de5.dedushka.top #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de3.dedushka.top:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.236:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de10.dedushka.top #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de9.dedushka.top #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.235:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de9.dedushka.top #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.241.241.122:443?security=tls&sni=de2.dedushka.top&alpn=http/1.1&type=tcp&headerType=none #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN #🇯🇵 [ Configs by DukeMehdi ] TJ-JP
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findlocaljobnetworkandbuildcommunityconnections.com #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@216.106.186.66:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findlocaljobnetworkandbuildcommunityconnections.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://2223970e6a0b8ad289d3c43dd85dd2c9@167.82.101.159:443?mode=auto&security=tls&alpn=h2&extra={  "uplinkDataPlacement" : "auto"}&insecure=0&host=denyyyour-name.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=0&sni=ssl.fastly.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://20ba0c60-0133-11f1-95ef-1239d0255272@172.64.152.23:443?path=/howdy&security=tls&insecure=1&host=uk1.test3.net&type=ws&allowInsecure=1&sni=uk1.test3.net #🌐 [ Configs by DukeMehdi ] TJ-XX
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com #🇵🇱 [ Configs by DukeMehdi ] TJ-PL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.252.255:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseexecutivejobopeningsandenhanceleadershipcareer.com #🇵🇱 [ Configs by DukeMehdi ] TJ-PL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@70.34.207.14:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchhealthcarejobsandbuildmedicalcareerpathway.com #🇸🇪 [ Configs by DukeMehdi ] TJ-SE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.9:443?security=tls&insecure=0&host=/?Telegram---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP---@pirozi_ArGaP&headerType=none&type=tcp&allowInsecure=0&sni=resources.indyourperfectremotetechjobfromthecomfortofhome.com #🇳🇱 [ Configs by DukeMehdi ] TJ-NL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&sni=indyourperfectremotetechjobfromthecomfortofhome.com&type=tcp&headerType=none #🇳🇱 [ Configs by DukeMehdi ] TJ-NL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=indyourperfectremotetechjobfromthecomfortofhome.com&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET #🇳🇱 [ Configs by DukeMehdi ] TJ-NL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=indyourperfectremotetechjobfromthecomfortofhome.com #🇳🇱 [ Configs by DukeMehdi ] TJ-NL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.155:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=indyourperfectremotetechjobfromthecomfortofhome.com #🇳🇱 [ Configs by DukeMehdi ] TJ-NL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com #🇳🇱 [ Configs by DukeMehdi ] TJ-NL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.127.154:443?security=tls&headerType=none&sni=www.indyourperfectremotetechjobfromthecomfortofhome.com&allowInsecure=0&insecure=0&type=tcp #🇳🇱 [ Configs by DukeMehdi ] TJ-NL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.113:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.searchnationwidecareerchangehelperandguidancetoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discovergreatjobsandadvanceyourcareer.com #🇪🇸 [ Configs by DukeMehdi ] TJ-ES
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com #🇪🇸 [ Configs by DukeMehdi ] TJ-ES
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com #🇪🇸 [ Configs by DukeMehdi ] TJ-ES
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discovergreatjobsandadvanceyourcareer.com #🇪🇸 [ Configs by DukeMehdi ] TJ-ES
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.244:443?security=tls&headerType=none&type=tcp&sni=api.discovergreatjobsandadvanceyourcareer.com #🇪🇸 [ Configs by DukeMehdi ] TJ-ES
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.166:443?security=tls&sni=learn.discovergreatjobsandadvanceyourcareer.com&insecure=0&allowInsecure=0&type=tcp&headerType=none #🇪🇸 [ Configs by DukeMehdi ] TJ-ES
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.45:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.findconnectwithemployersandbuildprofessionalnetwork.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findconnectwithemployersandbuildprofessionalnetwork.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.132:443?allowInsecure=1&sni=courses.findconnectwithemployersandbuildprofessionalnetwork.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.126:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findconnectwithemployersandbuildprofessionalnetwork.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.114:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.findconnectwithemployersandbuildprofessionalnetwork.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.106:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.findconnectwithemployersandbuildprofessionalnetwork.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.76:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.unlockyourfuturefindyourperfectcareer.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.242:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.unlockyourfuturefindyourperfectcareer.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.unlockyourfuturefindyourperfectcareer.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.unlockyourfuturefindyourperfectcareer.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.147:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.unlockyourfuturefindyourperfectcareer.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.142:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.unlockyourfuturefindyourperfectcareer.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.13:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.unlockyourfuturefindyourperfectcareer.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.unlockyourfuturefindyourperfectcareer.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com #🇨🇱 [ Configs by DukeMehdi ] TJ-CL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com #🇮🇱 [ Configs by DukeMehdi ] TJ-IL
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com #🇦🇺 [ Configs by DukeMehdi ] TJ-AU
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com #🇲🇽 [ Configs by DukeMehdi ] TJ-MX
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connectwithtopemployersandfindidealjobs.com #🇲🇽 [ Configs by DukeMehdi ] TJ-MX
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.80.100:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=connectwithtopemployersandfindidealjobs.com #🇲🇽 [ Configs by DukeMehdi ] TJ-MX
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.238.104.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=findtemporaryworkandfreelancerprojectsonlineplatform.com #🇧🇷 [ Configs by DukeMehdi ] TJ-BR
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com&type=tcp&headerType=none #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.81:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=www.healthcarejobshubenhancemedicalprofessionalskillstoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.65:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.healthcarejobshubenhancemedicalprofessionalskillstoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.49:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.healthcarejobshubenhancemedicalprofessionalskillstoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?allowInsecure=1&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.212:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.healthcarejobshubenhancemedicalprofessionalskillstoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.59:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.nextjobopportunityandclaimyouridealrole.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.54:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=learn.nextjobopportunityandclaimyouridealrole.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.nextjobopportunityandclaimyouridealrole.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.nextjobopportunityandclaimyouridealrole.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nextjobopportunityandclaimyouridealrole.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=www.connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&host=MTMVPN&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&sni=api.connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.connectingpeoplewithgreatjobs.com #🇨🇦 [ Configs by DukeMehdi ] TJ-CA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.106.186.82:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.findlocaljobnetworkandbuildcommunityconnections.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.29:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.yourultimateprofessionalcareerhub.com #🇨🇭 [ Configs by DukeMehdi ] TJ-CH
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&sni=www.yourultimateprofessionalcareerhub.com&type=tcp&headerType=none #🇨🇭 [ Configs by DukeMehdi ] TJ-CH
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@208.69.78.19:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.yourultimateprofessionalcareerhub.com #🇨🇭 [ Configs by DukeMehdi ] TJ-CH
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.iloverussia2026.com #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&host=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.78:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.iloverussia2026.com #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.iloverussia2026.com #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com&type=tcp&headerType=none #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&sni=courses.iloverussia2026.com #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=courses.iloverussia2026.com #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.iloverussia2026.com #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.15:443?allowInsecure=1&sni=courses.iloverussia2026.com #🇩🇪 [ Configs by DukeMehdi ] TJ-DE
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.19:443?security=tls&sni=learn.explorecreativejobsandenhanceyourcareerportfolio.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.131:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.explorecreativejobsandenhanceyourcareerportfolio.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.112:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.explorecreativejobsandenhanceyourcareerportfolio.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.224:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discoverfreshgraduatejobsstartyourprofessionaljourney.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.224:443?allowInsecure=1&sni=resources.discoverfreshgraduatejobsstartyourprofessionaljourney.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.218:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.discoverfreshgraduatejobsstartyourprofessionaljourney.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com&insecure=0&allowInsecure=0&type=tcp&headerType=none #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?allowInsecure=1&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.169:443?fp=chrome&sni=api.discoverfreshgraduatejobsstartyourprofessionaljourney.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=browseseniorrolesandenhanceyourcareertoday.com #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443? #🇺🇸 [ Configs by DukeMehdi ] TJ-US
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.179.108.225:443?sni=discoverparttimepositionsandsupplementyourincomeguide.com&type=tcp&fp=chrome #🇯🇵 [ Configs by DukeMehdi ] TJ-JP
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@15.235.184.127:443?security=tls&sni=exploredigitaljobplatformandfindonlinework.com #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&sni=searchcreativejobsandshowcaseyourartistictalents.com #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@149.28.130.108:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=searchcreativejobsandshowcaseyourartistictalents.com #🇸🇬 [ Configs by DukeMehdi ] TJ-SG
-ss://eyJ2IjpudWxsLCJwcyI6IltcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhdIFVuaXRlZCBTdGF0ZXMgKFJlYWwgSVApIC0gMzk1IHwgR2l0aHViIDogQmxsYXJlIiwiYWRkIjoiMzguMTEwLjEuMjQ2IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlVTIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCB8IEBSYXlkaWthbHggfCAyQjk3Q0YifQ #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://chacha20-ietf-poly1305:oZIoA69Q8yhcQV8ka3Pa3A@82.38.31.62:8080 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
-ss://chacha20-ietf-poly1305:UUjphkQAh5BkOdbf@4.210.68.244:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.72:19999?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.72:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.72:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@202.50.253.27:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://aes-256-gcm:ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=@185.176.206.9:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://aes-256-gcm:Lpq5UPVHtQYiuB9jEUNc2WkeIYCUH9DE@195.58.49.34:18443 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445 #🇨🇦 [ Configs by DukeMehdi ] SS-CA
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206cG56dnBiZTdmZTVpZW52Mw==@5.45.184.251:3059 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@206.189.52.4:17000 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@172.238.244.13:17000 #🇸🇪 [ Configs by DukeMehdi ] SS-SE
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@141.227.134.63:17000 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA==@141.227.134.63:17000 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.54.59.102:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206bHk3dWNzM3IzZWx0Yml0cw==@phone-tiklite.redonlinephone.ir:8443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.157.40.120:5498 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206bEYzblJqSDU4a29LVGUtX1Z0QUJiZw@51.75.118.5:20222 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388 #🇫🇷 [ Configs by DukeMehdi ] SS-FR
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.10:8881 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882 #🇵🇭 [ Configs by DukeMehdi ] SS-PH
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA@185.156.47.97:9443 #🇨🇦 [ Configs by DukeMehdi ] SS-CA
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443 #🌐 [ Configs by DukeMehdi ] SS-SC
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118 #🇨🇦 [ Configs by DukeMehdi ] SS-CA
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.53:8118 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.10:8119 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@91.206.92.238:18443 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@176.32.33.153:18443 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@45.86.51.18:19999 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.81:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.72:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.63:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.54:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.45:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999? #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.18:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.163.18:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.163.18:19999 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999? #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.204.18:19999 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@ #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@95.215.201.18:19999 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@45.86.51.18:19999 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.99:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.54:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999 #🇮🇹 [ Configs by DukeMehdi ] SS-IT
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.160.9:19999 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.53:9090 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:9090 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:5001 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@213.202.208.199:5000 #🇩🇪 [ Configs by DukeMehdi ] SS-DE
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5001 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8009 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.120:8008 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002 #🇮🇳 [ Configs by DukeMehdi ] SS-IN
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.53:8090 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.104.107.41:8090 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206U25PU1JmbzBoNm1uV2VoVEdfWGFuZw@node11.botkeep.cloud:53567 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@46.17.43.227:18443? #🇷🇺 [ Configs by DukeMehdi ] SS-RU
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA@195.133.5.194:18443 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
-ss://YWVzLTI1Ni1nY206TlRReFpERmlaRGhtWXpaalpUUXdOMkUzTkRjMU1tTXdZems1TVRKbA==@37.32.29.37:9147 #🇮🇷 [ Configs by DukeMehdi ] SS-IR
-ss://YWVzLTI1Ni1nY206TWpOaE4yUXdObUZsWVRSbFpHTXhOV1ZsT1RJME1HSTBNVFU0TURZMQ@helsinki03.npvnot.com:995 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@195.58.49.34:18443 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
-ss://YWVzLTI1Ni1nY206THBxNVVQVkh0UVlpdUI5akVVTmMyV2tlSVlDVUg5REU@176.32.34.253:18443? #🇷🇺 [ Configs by DukeMehdi ] SS-RU
-ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:80 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ@149.102.149.207:443 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTI1Ni1nY206T1dKak1UVXdOVE5tWmpobFpqazJPRE5qWWpCaVpqUmlOelJsTTJaag@istanbul07.npvnot.com:995 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206T0dFeVlXSmtZMlk0T1RGallUUTFNVEZtWm1FME9XSTJNVEE1WkRneg@london02.npvnot.com:995 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.53:8080 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8000 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307 #🇵🇱 [ Configs by DukeMehdi ] SS-PL
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ@154.36.158.197:8388 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206NmxiOXdyNGlic3BibDAyMg@b2friday.buzrel.ir:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg==@185.22.155.162:10808 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
-ss://YWVzLTI1Ni1nY206MWVhZGQ0ZTRhMzdiNjYwMQ@45.8.158.176:10801 #🇷🇺 [ Configs by DukeMehdi ] SS-RU
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.189.171.163:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@213.183.63.60:9054 #🇧🇬 [ Configs by DukeMehdi ] SS-BG
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.244:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.9:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443 #🇨🇦 [ Configs by DukeMehdi ] SS-CA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.204:443 #🇯🇵 [ Configs by DukeMehdi ] SS-JP
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad #🇬🇧 [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443 #🇬🇧 [ Configs by DukeMehdi ] SS-GB
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443?type=tcp #🇺🇸 [ Configs by DukeMehdi ] SS-US
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443 #🇳🇱 [ Configs by DukeMehdi ] SS-NL
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443 #🇨🇭 [ Configs by DukeMehdi ] SS-CH
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443 #🌐 [ Configs by DukeMehdi ] SS-XX
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443 #🇺🇸 [ Configs by DukeMehdi ] SS-US
+vmess://ewogICAgImFkZCI6ICI1MS43NS43MC4zNCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JheSIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ep8J+HqkRFLTUxLjc1LjcwLjM0LTc3MzUiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJsZzMwLmNmY2RuMy54eXoiCn0=
+vmess://ewogICAgImFkZCI6ICI1MS44My45Ny4xNjciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjZlN2VmMjFmLTQ3MzYtNDgwZS05M2FhLTFmN2Q1NGYyODA4OSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92bWVzcyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh6vwn4e3RlItNTEuODMuOTcuMTY3LTc3MzQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vmess://ewogICAgImFkZCI6ICI1MS43NS43MC4zNCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNTcyMTI2ZjgtNTMwMS04M2MyLTBhMjYtYzMwY2VkM2RiN2M0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3dtem12d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqfCfh6pERS01MS43NS43MC4zNC03NzMzIiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiZ29vZGZhbWlseTE5LnNpdGUiCn0=
+vmess://ewogICAgImFkZCI6ICI1MS4xNjEuMTUyLjE4MCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiNjE3NGE1ODUtOWExNC00YTMwLTgxZDQtMDc2Mzc2MzI1MzI4IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3ZtZXNzIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HpvCfh7pBVS01MS4xNjEuMTUyLjE4MC03NzMyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiNTEuMTYxLjE1Mi4xODAiCn0=
+trojan://ae7cc604-d970-4200-9a9b-eb45087b4fc1@43.198.12.229:28443?security=tls&sni=mzy.hruqoaw.cn#%F0%9F%87%AD%F0%9F%87%B0HK-43.198.12.229-7730
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1192#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7727
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1182#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7726
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1190#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7725
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5986#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.170-7724
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5981#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.170-7722
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5989#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.170-7721
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24002#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-7720
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24008#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-7719
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5980#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.155-7718
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5988#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.155-7717
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5983#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.82-7716
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.111:5980#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.111-7715
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5987#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.155-7714
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5988#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.82-7713
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1171#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7712
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.80:1185#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.80-7711
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.170:5987#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.170-7710
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5982#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.155-7709
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.111:5981#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.111-7708
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5980#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.82-7707
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5984#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.155-7706
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5985#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.82-7705
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5985#%F0%9F%87%A8%F0%9F%87%B3CN-120.195.181.155-7704
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.80:1158#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.80-7703
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1172#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7702
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1150#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7701
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1173#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7700
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.80:1157#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.80-7699
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24006#%F0%9F%87%A8%F0%9F%87%B3CN-14.29.124.168-7698
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1154#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7697
+ss://YWVzLTI1Ni1jZmI6UnNEazNwZUNTdW83NkI2OA==@180.101.193.226:10068#%F0%9F%87%A8%F0%9F%87%B3CN-180.101.193.226-7696
+ss://YWVzLTI1Ni1jZmI6MWU1MTExNjk5YzQ1NDk2ZGE4NDExMmYzNWRiNjY1YzQ=@165.232.169.142:29332#%F0%9F%87%B8%F0%9F%87%ACSG-165.232.169.142-7695
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.39:8882#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7693
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.99:8080#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.99-7692
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.61.14:9101#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-7691
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.100.207:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-7690
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7689
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.27:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7688
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.64.138.145:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7687
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.48:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7686
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.34:7307#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7684
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.91.107.16:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7683
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.63.79:5004#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.79-7682
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.188.71:5001#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7681
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.188.71:5500#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7680
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.207:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-7679
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.175:8888#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.175-7678
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.91.107.16:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7676
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.61:3306#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7674
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.19:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-7673
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7672
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.82:7307#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7671
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@172.99.190.39:8008#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7669
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.36:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7667
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.86.135.36:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7666
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.107.16:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7665
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7664
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.85:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7663
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNGd5SGtLd0pHeUc=@161.97.66.81:443#%F0%9F%87%AB%F0%9F%87%B7FR-161.97.66.81-7662
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@37.120.147.230:804#%F0%9F%87%BA%F0%9F%87%B8US-37.120.147.230-7661
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.100.207:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-7659
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.188.71:5601#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7657
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@172.99.190.39:8009#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7656
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.146:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-7655
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.27:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7652
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.63.59:9102#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7649
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.85:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7648
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.58:8091#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-7647
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.74:5003#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7646
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7645
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.7:8091#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.7-7644
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.48:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7643
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.85:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7642
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7641
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.9:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-7640
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.188.71:8000#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7639
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.44:2375#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-7638
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7637
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@37.120.147.230:800#%F0%9F%87%BA%F0%9F%87%B8US-37.120.147.230-7636
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.79:5601#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.79-7634
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.107.16:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7633
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.44:2376#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-7632
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.79:7306#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.79-7631
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.63.59:8882#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7630
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.58:2376#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-7629
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.91.107.16:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7628
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.143.66.55:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.55-7627
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.85:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7626
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.85:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7625
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@142.202.48.83:7001#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-7624
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.123:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.123-7622
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.63.59:9101#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7621
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.27:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.27-7619
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.132:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.132-7617
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.99.188.71:7001#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7616
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.63.79:9101#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.79-7614
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.58:3306#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-7613
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.48:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7611
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@78.129.253.9:802#%F0%9F%87%AC%F0%9F%87%A7GB-78.129.253.9-5226
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.14:8091#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-7609
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.135:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-7608
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.74:3389#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7607
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.67:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7606
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.63.79:6379#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.79-7605
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.99:3389#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.99-7604
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.149:3306#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-7603
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.191:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7602
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.191:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7601
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7600
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.48:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.48-7599
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.2:809#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.2-7594
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.49:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.49-7593
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.91.107.16:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7592
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.60:3306#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7591
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.86.135.27:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7590
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.146:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-7589
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7588
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.48.7:6679#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.7-7587
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.61:8882#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7586
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5601#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7585
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.48:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.48-7584
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.63.79:8090#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.79-7583
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.188.71:5000#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7582
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.149:8091#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-7581
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7580
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.19:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-7579
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.60:8888#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7577
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.107.16:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7576
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.27:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7575
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.63.59:6379#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7574
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.83:2375#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-7573
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@162.251.61.221:808#%F0%9F%87%BA%F0%9F%87%B8US-162.251.61.221-7572
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.48.83:6697#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-7571
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.85:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7569
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.48.74:8118#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7568
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.188.71:8090#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7567
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@142.202.48.99:7001#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.99-7566
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.75.136.21:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7565
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.63.44:5004#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-7564
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.36:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7563
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.67:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7562
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.67:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7561
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.67:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7560
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.114.114.69:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7559
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.18:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-7558
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7557
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@167.88.61.50:7002#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.50-7556
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.61:3389#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7554
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@172.99.190.39:9102#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7553
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.39:2375#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7552
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.48:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.48-7551
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.59:5001#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7550
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.91.107.16:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7549
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.63.82:8090#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7548
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.86.135.27:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7547
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.99.188.71:7307#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7546
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.91.107.16:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7545
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.2:805#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.2-7544
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.62.68:5004#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.68-7542
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.7:5601#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.7-7539
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.87:2376#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.87-7538
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.191:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7537
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.82:7306#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7536
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.61:8090#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7535
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.64.138.145:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7534
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.27:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7533
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7531
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.44:5601#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-7530
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.146:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-7529
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7528
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.36:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7527
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.135.18:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-7526
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@172.99.188.71:8119#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7525
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.91.107.66:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.66-7523
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.61:5500#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7522
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjM=@92.38.169.196:826#%F0%9F%87%BA%F0%9F%87%B8US-92.38.169.196-7521
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.27:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7520
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-7519
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.169:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.169-7518
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.48.34:8009#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7515
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.102:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-7514
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.132:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.132-7513
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.87:5601#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.87-7512
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.86.135.27:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7511
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.62.68:3389#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.68-7509
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.100.27:443#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.27-7508
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.188.71:6679#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7507
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@167.88.61.14:8009#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-7506
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.60:6679#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7505
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.135.19:443#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-7504
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.67:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7503
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.188.71:6697#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7502
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@167.88.61.60:7001#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7501
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.190.61:6679#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7499
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.67:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7497
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.20:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.20-7496
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7495
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.85:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7494
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Q2pteEd6clVvQkE=@37.218.241.43:443#%F0%9F%87%BA%F0%9F%87%B8US-37.218.241.43-7493
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.159:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.159-7492
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.34:3389#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7491
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.34:2376#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7489
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7486
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7485
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7483
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.85:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7481
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.48:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.48-7480
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.85:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7479
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.85:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7478
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@172.99.188.71:9101#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7477
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.132:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.132-7476
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.61.60:5003#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7475
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.63.82:5004#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7474
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@167.88.61.60:8008#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7473
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.137.9:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.9-7472
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.135:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-7471
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7470
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.102:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-7469
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.99.188.71:7306#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7468
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.102:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-7467
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.75.136.102:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-7466
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.44:7307#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-7465
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.91.107.225:800#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.225-7463
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.135.18:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-7462
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@37.120.147.230:805#%F0%9F%87%BA%F0%9F%87%B8US-37.120.147.230-7461
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.91.107.16:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7460
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.134.85:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7459
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.91.107.16:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7458
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.91.107.16:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7457
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-7456
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@37.120.147.230:809#%F0%9F%87%BA%F0%9F%87%B8US-37.120.147.230-7455
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.48:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7454
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.85:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7451
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.61.60:443#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7450
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7448
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.191:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7446
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.67:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7444
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.85:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7443
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.62.62:8090#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.62-7442
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-7441
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.60:6697#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7440
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.2:800#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.2-7439
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.9:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.9-7438
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.36:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7437
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.63.79:9102#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.79-7436
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.49:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.49-7435
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.64.138.145:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7434
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.59:7307#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7433
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.7:5004#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.7-7432
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.63.59:5500#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7430
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7428
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.44:3306#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-7427
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.49:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.49-7426
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.36:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7425
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.63.59:5004#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7422
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.134.191:443#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7421
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.48.7:8009#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.7-7420
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.19:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-7419
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.48.83:8008#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-7417
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.59:5601#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7416
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7415
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.134.191:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7414
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.64.138.145:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7413
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.67:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7412
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.114.114.69:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7410
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.67:443#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7409
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.83:5500#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-7408
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.61:8881#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7407
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.59:3306#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7406
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.27:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7405
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.175:5000#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.175-7404
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.9:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-7403
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7402
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.62.68:7307#%F0%9F%87%BA%F0%9F%87%B8US-167.88.62.68-7401
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.241:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.241-7400
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.137.9:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.9-7398
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.48:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7397
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.213:8091#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.213-7396
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@172.245.218.162:800#%F0%9F%87%BA%F0%9F%87%B8US-172.245.218.162-7393
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.86.135.36:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7392
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7391
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.135:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-7390
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7388
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.142:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.142-7385
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.175:8090#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.175-7384
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.87:8881#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.87-7382
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.74:8091#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7380
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@172.245.218.162:801#%F0%9F%87%BA%F0%9F%87%B8US-172.245.218.162-7379
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.48.74:6679#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7377
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.64.138.145:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7376
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.58:7306#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-7375
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.61.14:2376#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-7374
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.169:9101#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.169-7373
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.82:3306#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7371
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.21:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7370
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@135.125.244.103:989#%F0%9F%87%AB%F0%9F%87%B7FR-135.125.244.103-7369
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7368
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.134.85:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7367
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7366
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.27:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7365
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.21:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7364
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.82:2376#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7363
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.99:5004#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.99-7362
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.135.123:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.123-7361
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.99.190.149:7307#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-7360
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.190.149:5003#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-7359
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@172.99.190.39:9101#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7357
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.27:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.27-7356
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.75.136.21:443#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7354
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.48:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7352
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.137.9:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.9-7351
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.14:8888#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-7347
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.86.135.36:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7345
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.135.18:6697#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-7344
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.67:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7343
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.39:5000#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7341
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.52:8090#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.52-7340
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.61:5601#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7339
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.60:3389#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7338
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@172.99.190.39:8118#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7337
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.64.138.145:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7336
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.58:3389#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-7335
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.68.134.196:805#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.196-7334
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw==@161.35.69.20:811#%F0%9F%87%A9%F0%9F%87%AADE-161.35.69.20-7332
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.36:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7331
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.2:801#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.2-7330
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.63.59:7306#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7329
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.69:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7328
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.188.71:5003#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7327
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.91.100.27:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.27-7326
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7324
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.83:5004#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-7323
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.48:5601#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7322
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.27:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7321
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.85:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7320
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.102:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-7319
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.2:810#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.2-7318
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@167.88.61.50:5004#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.50-7317
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.135:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-7316
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.91.100.207:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-7314
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.58:443#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-7313
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7312
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.48:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.48-7311
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@167.88.63.82:7002#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7310
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.14:5000#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-7309
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.135.19:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-7308
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.86.135.36:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7307
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.107.226.48:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7306
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.241:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.241-7305
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.190.39:6679#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7304
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.134.85:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7303
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.63.59:8080#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7302
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.60:5000#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7301
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.143-7300
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.143.66.20:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.20-7299
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.21:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7297
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.169:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.169-7296
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.188.71:8888#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7295
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.27:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7293
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.137.9:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.9-7291
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.61.175:5600#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.175-7290
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.74:7307#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7289
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.86.135.36:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7288
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.102:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-7287
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.82:2375#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7286
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.64.138.145:7002#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7285
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@167.88.61.175:8008#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.175-7284
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.21-7283
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.135:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-7282
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.169:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.169-7281
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.191:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7280
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.82:5001#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7279
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.188.99:6679#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.99-7278
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.135:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-7277
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.134.85:443#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.85-7276
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.69-7275
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.14:8090#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.14-7274
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.60:8882#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7272
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@172.99.188.71:9102#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7271
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.19:8888#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-7270
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.91.107.225:809#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.225-7269
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.68.134.196:800#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.196-7267
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.135.18:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-7265
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.49:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.49-7264
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.74:7306#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7263
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.82:443#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7260
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.75.136.102:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-7259
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.135:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.135-7258
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.102:5001#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-7256
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@167.88.61.60:7002#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7255
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.75.136.102:8118#%F0%9F%87%BA%F0%9F%87%B8US-38.75.136.102-7254
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.188.71:8080#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7251
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.34:8091#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7250
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.63.44:6679#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-7249
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.48:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.48-7248
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@167.88.63.44:7002#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-7247
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.91.107.16:443#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7246
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.82:5000#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7245
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.87:2375#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.87-7244
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.19:8881#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-7243
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.236:802#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.236-7240
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.67:8882#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.67-7239
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.82:5600#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7238
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.107.16:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7236
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.91.107.16:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7234
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.87-7233
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.74:2376#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7231
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.19:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-7230
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.91.100.27:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.27-7229
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.91.100.207:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-7228
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.18-7226
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.86.135.36:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7225
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.74:5004#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7224
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.74:8080#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7223
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.64.138.145:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7222
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.34:4444#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7221
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.74:445#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7220
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7218
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.64.138.145:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7217
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.91.100.207:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.207-7216
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.20:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.143.66.20-7215
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.149:2375#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-7214
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.48.99:8091#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.99-7213
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@167.88.63.59:8009#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7211
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.86.135.27:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7210
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.19:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-7209
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.91.107.225:812#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.225-7208
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.91.107.16:5500#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7207
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.61:2375#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7206
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9102#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-7203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.68.134.196:808#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.196-7202
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.91.107.16:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7201
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.86.135.36:8091#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7200
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.34:6379#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7199
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.61.60:2376#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7198
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.99:3306#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.99-7196
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:5000#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7195
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.188.71:8091#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7194
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.99.188.71:7002#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7193
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.99.190.149:7306#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-7192
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.191:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7190
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.63.59:5000#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.59-7189
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.159:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.159-7188
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.39:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7187
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.61:5001#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7186
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.34:5004#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7185
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.34:445#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-7184
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.83:3389#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-7183
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@37.120.219.218:812#%F0%9F%87%BA%F0%9F%87%B8US-37.120.219.218-7182
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@167.88.63.82:6379#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.82-7179
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@172.99.190.61:443#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7177
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.58:2375#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-7176
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.61.60:8118#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7174
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.39:8881#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7173
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.107.226.146:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.146-7172
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.9:5003#%F0%9F%87%BA%F0%9F%87%B8US-38.75.137.9-7171
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.83:443#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-7170
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.188.71:2376#%F0%9F%87%B3%F0%9F%87%B1NL-172.99.188.71-7169
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.48:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7168
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.107.226.132:8080#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.132-7167
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.86.135.169:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.169-7166
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.36:8119#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7165
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.63.44:443#%F0%9F%87%BA%F0%9F%87%B8US-167.88.63.44-7163
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.49:3306#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.49-7162
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.58:5003#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-7161
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@213.174.129.4:989#%F0%9F%87%B3%F0%9F%87%B1NL-213.174.129.4-7160
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.100.27:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.91.100.27-7159
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@38.91.107.225:805#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.225-7158
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.48:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.48-7157
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.134.191:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.191-7155
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.91.107.16:6679#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7154
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.50:8882#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.50-7152
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.39:8000#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.39-7151
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.135.19:8008#%F0%9F%87%BA%F0%9F%87%B8US-38.68.135.19-7150
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@172.99.190.61:5000#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7149
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.36:5600#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.36-7148
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.74:443#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-7147
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.64.138.145:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7145
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.86.135.27:2375#%F0%9F%87%BA%F0%9F%87%B8US-38.86.135.27-7143
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.149:8090#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.149-7142
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.64.138.145:5004#%F0%9F%87%BA%F0%9F%87%B8US-38.64.138.145-7141
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7001#%F0%9F%87%BA%F0%9F%87%B8US-38.68.134.9-7140
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@172.99.190.61:5004#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.61-7139
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.7:8091#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.7-7138
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@167.88.61.236:809#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.236-7137
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.91.107.16:7307#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-7136
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.19:7306#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-7135
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.61.175:443#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.175-7134
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.49:8090#%F0%9F%87%BA%F0%9F%87%B8US-38.107.226.49-7133
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@167.88.61.60:7307#%F0%9F%87%BA%F0%9F%87%B8US-167.88.61.60-7132
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#%F0%9F%87%BA%F0%9F%87%B8US-38.121.43.71-7130
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.19:8009#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-7129
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.19:2376#%F0%9F%87%BA%F0%9F%87%B8US-38.114.114.19-7128
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.83:8080#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-7127
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@172.99.190.87:9101#%F0%9F%87%AC%F0%9F%87%A7GB-172.99.190.87-7126
